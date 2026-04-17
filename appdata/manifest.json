@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "publishedAt": "2026-04-17T21:00:02.097Z",
+  "releaseRules": {
+    "checkIntervalHours": 12,
+    "maxParallelDownloads": 1,
+    "fallbackToBuiltinOnFailure": true
+  },
+  "bundles": [
+    {
+      "id": "question-bank-2008",
+      "type": "question-bank",
+      "targetCode": "2008",
+      "version": "2026.04.19",
+      "updatePolicy": {
+        "mode": "recommended",
+        "wifiOnly": false,
+        "retryable": true,
+        "forceReloadAfterApply": true
+      },
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/question-bank-2008.enc",
+      "sha256": "f342d71d94175ff7607476ed0a765c86301f73256837ccc6c716f3aae7a4a8c8"
+    },
+    {
+      "id": "guide-2008",
+      "type": "guide",
+      "targetCode": "2008",
+      "version": "2026.04.18",
+      "updatePolicy": {
+        "mode": "silent",
+        "wifiOnly": false,
+        "retryable": true,
+        "forceReloadAfterApply": false
+      },
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/guide-2008.enc",
+      "sha256": "5ec627f9a122f0788da6a8cec989959710dc3eeda56a29e820be39fce91d4a71"
+    },
+    {
+      "id": "glossary-2008",
+      "type": "glossary",
+      "targetCode": "2008",
+      "version": "2026.04.18",
+      "updatePolicy": {
+        "mode": "silent",
+        "wifiOnly": false,
+        "retryable": true,
+        "forceReloadAfterApply": false
+      },
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/glossary-2008.enc",
+      "sha256": "97fffd624ffe55496a65288f003cbabf409e00f736085fb2d5d45d8ba1acd7fe"
+    },
+    {
+      "id": "question-bank-2025",
+      "type": "question-bank",
+      "targetCode": "2025",
+      "version": "2026.04.18",
+      "updatePolicy": {
+        "mode": "recommended",
+        "wifiOnly": false,
+        "retryable": true,
+        "forceReloadAfterApply": true
+      },
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/question-bank-2025.enc",
+      "sha256": "e8350bfb7881ab537d04e771161686598cb8d9991f6a02babfadc70647abb285"
+    },
+    {
+      "id": "guide-2025",
+      "type": "guide",
+      "targetCode": "2025",
+      "version": "2026.04.18",
+      "updatePolicy": {
+        "mode": "silent",
+        "wifiOnly": false,
+        "retryable": true,
+        "forceReloadAfterApply": false
+      },
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/guide-2025.enc",
+      "sha256": "4e5af41acc171a6ec50472ae3610b6fb13f2a13b3cdae7e4181fd698f74801da"
+    },
+    {
+      "id": "glossary-2025",
+      "type": "glossary",
+      "targetCode": "2025",
+      "version": "2026.04.18",
+      "updatePolicy": {
+        "mode": "silent",
+        "wifiOnly": false,
+        "retryable": true,
+        "forceReloadAfterApply": false
+      },
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/glossary-2025.enc",
+      "sha256": "2637e1b0c6613c6fa82b86f48c27c716835975cbd58de62f488fd98ab3bd39f9"
+    }
+  ]
+}
