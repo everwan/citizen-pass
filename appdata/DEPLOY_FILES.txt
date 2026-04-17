@@ -1,7 +1,0 @@
-manifest.json
-question-bank-2008.enc
-guide-2008.enc
-glossary-2008.enc
-question-bank-2025.enc
-guide-2025.enc
-glossary-2025.enc
