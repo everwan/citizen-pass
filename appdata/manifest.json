@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "publishedAt": "2026-04-21T14:24:42.843Z",
+  "publishedAt": "2026-04-21T14:55:04.348Z",
   "releaseRules": {
     "checkIntervalHours": 12,
     "maxParallelDownloads": 1,
@@ -19,7 +19,7 @@
         "forceReloadAfterApply": true
       },
       "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/question-bank-2008.enc",
-      "sha256": "e7ef98994b0a758b210edafd07fd00213d0e5c3276194ed21bb19ce2c774b9b7"
+      "sha256": "3db472fbacd8aab8cfc246da93bf8f11cf5105f6f7e167d2919a599303dbafc3"
     },
     {
       "id": "question-bank-2025",
@@ -33,7 +33,7 @@
         "forceReloadAfterApply": true
       },
       "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/question-bank-2025.enc",
-      "sha256": "8049fe57c85d71450ac114fd9e52695fb72a990682ff5fa87aab6a4bd8739c1d"
+      "sha256": "edae4bf0f714c3cbc9ba14e8ac76efbe4d131cdd505cd2d1b6c4f7934f98c683"
     },
     {
       "id": "guide-2008",
