@@ -1,0 +1,2065 @@
+{
+  "generator": "azure-tts",
+  "voice": "en-US-JennyNeural",
+  "languageCode": "en-US",
+  "outputFormat": "audio-24khz-96kbitrate-mono-mp3",
+  "rate": "-10.00%",
+  "pitch": "+0.00Hz",
+  "style": "",
+  "styleDegree": "",
+  "role": "",
+  "entries": {
+    "USCIS-2008-001": {
+      "versionCode": "2008",
+      "questionText": "What is the supreme law of the land?",
+      "answerText": "the Constitution",
+      "questionHash": "f4c02c432449ca2430da2ea98fe0123f9c68a5a83652598f6d1b92dbc52932e2",
+      "answerHash": "8359305a2c243681783b6bfc40094c9764d9388fafcb797e2b080a058cdeb1a3",
+      "questionFile": "USCIS-2008-001-question.mp3",
+      "answerFile": "USCIS-2008-001-answer.mp3"
+    },
+    "USCIS-2008-002": {
+      "versionCode": "2008",
+      "questionText": "What does the Constitution do?",
+      "answerText": "sets up the government",
+      "questionHash": "791f2af5ab25d22b69595ba4873125b80314eb60e33bf6cab84c67c500f60bd6",
+      "answerHash": "6193cca61c8dcd34e1cabb7eed39ea45088c130d07a326a14c50bf0d622cdfeb",
+      "questionFile": "USCIS-2008-002-question.mp3",
+      "answerFile": "USCIS-2008-002-answer.mp3"
+    },
+    "USCIS-2008-003": {
+      "versionCode": "2008",
+      "questionText": "The idea of self-government is in the first three words of the Constitution. What are these words?",
+      "answerText": "We the People",
+      "questionHash": "dee001fa4167de6336e7aa6fe7a7f9c70eda5ede104f576d0028ac7eb96a6d49",
+      "answerHash": "1c37f5c792d44e2090cf208d95a199e5f71f9119a9bdbb126f932275d79a0e76",
+      "questionFile": "USCIS-2008-003-question.mp3",
+      "answerFile": "USCIS-2008-003-answer.mp3"
+    },
+    "USCIS-2008-004": {
+      "versionCode": "2008",
+      "questionText": "What is an amendment?",
+      "answerText": "a change , to the Constitution,",
+      "questionHash": "7d4578af510a33f0da3ac43725496563c9155bf9ad6a6780f7b8b16d1db9ba3f",
+      "answerHash": "b7948a5d0ae8822b33d53eb93d627e3cc470e47e8630a0b544a6cc49fb1b76e1",
+      "questionFile": "USCIS-2008-004-question.mp3",
+      "answerFile": "USCIS-2008-004-answer.mp3"
+    },
+    "USCIS-2008-005": {
+      "versionCode": "2008",
+      "questionText": "What do we call the first ten amendments to the Constitution?",
+      "answerText": "the Bill of Rights",
+      "questionHash": "a87906472f451712593fe57e511d7d5a56e04de7fffe30a3f2f50a8ec8ca50b2",
+      "answerHash": "06b316e207ad1361d1eceaefe0fba8364661df6298256f3be65647f061f6516d",
+      "questionFile": "USCIS-2008-005-question.mp3",
+      "answerFile": "USCIS-2008-005-answer.mp3"
+    },
+    "USCIS-2008-006": {
+      "versionCode": "2008",
+      "questionText": "What is one right or freedom from the First Amendment?",
+      "answerText": "speech",
+      "questionHash": "bc9099e3e73e7a9c4441eb336fd127cef77e0365d049e61510705408064039e0",
+      "answerHash": "020ed1132a6101d8dd46d463e21d5883fb396482db22bc21d9c9dc5575a94c85",
+      "questionFile": "USCIS-2008-006-question.mp3",
+      "answerFile": "USCIS-2008-006-answer.mp3"
+    },
+    "USCIS-2008-007": {
+      "versionCode": "2008",
+      "questionText": "How many amendments does the Constitution have?",
+      "answerText": "twenty-seven , 27,",
+      "questionHash": "24aed743f0df0343419ddfd9abc07a02bb9339bedf896ca34b91880fd1dc6e92",
+      "answerHash": "56a837d0845af993ecf40798fbe0f5306e760f0b3f625e97619d0958e9708547",
+      "questionFile": "USCIS-2008-007-question.mp3",
+      "answerFile": "USCIS-2008-007-answer.mp3"
+    },
+    "USCIS-2008-008": {
+      "versionCode": "2008",
+      "questionText": "What did the Declaration of Independence do?",
+      "answerText": "announced our independence , from Great Britain,",
+      "questionHash": "7577935b49b346829e9ed698c0ab6df454300e6860dbc86a1e494c0ea6ced652",
+      "answerHash": "0bc2777d69cb741b027af91d258b7f1f3b7fc96c087a2cae012c075b50c0354f",
+      "questionFile": "USCIS-2008-008-question.mp3",
+      "answerFile": "USCIS-2008-008-answer.mp3"
+    },
+    "USCIS-2008-009": {
+      "versionCode": "2008",
+      "questionText": "What are two rights in the Declaration of Independence?",
+      "answerText": "life",
+      "questionHash": "cdbe0e519f73cc32769c485425e70ed6733463edab1c06104c1d4bd1c408daf7",
+      "answerHash": "b2e44d94d93ff89529534fa91543955d10d2a4adb5465049d83643124b5b6ae7",
+      "questionFile": "USCIS-2008-009-question.mp3",
+      "answerFile": "USCIS-2008-009-answer.mp3"
+    },
+    "USCIS-2008-010": {
+      "versionCode": "2008",
+      "questionText": "What is freedom of religion?",
+      "answerText": "You can practice any religion, or not practice a religion.",
+      "questionHash": "4e0cd38c1bbb779aa9fd3961dc4eb77c87d721453237e6be686bb4de60fadb27",
+      "answerHash": "7eb8c8189ae48d5d76dd1d0be5805ff5cf57e93f8e9d579461c9eca766d52a4b",
+      "questionFile": "USCIS-2008-010-question.mp3",
+      "answerFile": "USCIS-2008-010-answer.mp3"
+    },
+    "USCIS-2008-011": {
+      "versionCode": "2008",
+      "questionText": "What is the economic system in the United States?",
+      "answerText": "capitalist economy",
+      "questionHash": "bcc52e9523984916bfd1584a98e8ecd0de8548e079aaf377e7a263e4b5227f7e",
+      "answerHash": "4d4d92cdf9f0695c8107624939b2ded9cf19031eb4a7074c3b9309860e0b0ac1",
+      "questionFile": "USCIS-2008-011-question.mp3",
+      "answerFile": "USCIS-2008-011-answer.mp3"
+    },
+    "USCIS-2008-012": {
+      "versionCode": "2008",
+      "questionText": "What is the \"rule of law\"?",
+      "answerText": "Everyone must follow the law.",
+      "questionHash": "8326a12c67c264b823788069b4dde8dd76ad019555075c67b362c2fbed0a87ff",
+      "answerHash": "7e633240af1560314440542b791bb6b9ec0f9dc0626074ceff0e901a6f437fc4",
+      "questionFile": "USCIS-2008-012-question.mp3",
+      "answerFile": "USCIS-2008-012-answer.mp3"
+    },
+    "USCIS-2008-013": {
+      "versionCode": "2008",
+      "questionText": "Name one branch or part of the government.",
+      "answerText": "Congress",
+      "questionHash": "3c4d3c0553d10e8a5279c065af4b4029a616756013685defd2929a08d7c1cd9e",
+      "answerHash": "45b879c46a56f0bad3c6e71f80cc734b7766aeb372a5595f989214394ff70dbe",
+      "questionFile": "USCIS-2008-013-question.mp3",
+      "answerFile": "USCIS-2008-013-answer.mp3"
+    },
+    "USCIS-2008-014": {
+      "versionCode": "2008",
+      "questionText": "What stops one branch of government from becoming too powerful?",
+      "answerText": "checks and balances",
+      "questionHash": "57d1a0c6239ab568739f52ec70a713da4c09c99380321f3f844150827f86349c",
+      "answerHash": "1cc5edda7c620dc6cdcdee25fcb3b5584510c84e21f38a6d47f23d95f9b465bd",
+      "questionFile": "USCIS-2008-014-question.mp3",
+      "answerFile": "USCIS-2008-014-answer.mp3"
+    },
+    "USCIS-2008-015": {
+      "versionCode": "2008",
+      "questionText": "Who is in charge of the executive branch?",
+      "answerText": "the President",
+      "questionHash": "10878762f9fce409a57e2adcb7fe8b9323d152c1c94150ea998f72c18a4568ac",
+      "answerHash": "9d94b085dba25cd80e53175ba57f24478b491f18d9de6dffedbe00cf77ac9c14",
+      "questionFile": "USCIS-2008-015-question.mp3",
+      "answerFile": "USCIS-2008-015-answer.mp3"
+    },
+    "USCIS-2008-016": {
+      "versionCode": "2008",
+      "questionText": "Who makes federal laws?",
+      "answerText": "Congress",
+      "questionHash": "715a1f61dc9170132e5a47ddbca9d57a71a187fed15a0a0ae8c9e8af2ad3fe5d",
+      "answerHash": "45b879c46a56f0bad3c6e71f80cc734b7766aeb372a5595f989214394ff70dbe",
+      "questionFile": "USCIS-2008-016-question.mp3",
+      "answerFile": "USCIS-2008-016-answer.mp3"
+    },
+    "USCIS-2008-017": {
+      "versionCode": "2008",
+      "questionText": "What are the two parts of the United States. Congress?",
+      "answerText": "the Senate and House , of Representatives,",
+      "questionHash": "4c69f0c92f96b9721f51be0b554d08a7749c5a387bc25f9d36e38b2c6c757c4e",
+      "answerHash": "c54a01754bd39812029dfdb67a946bd51abbcc868f74e148ddfc7d518ccf20fe",
+      "questionFile": "USCIS-2008-017-question.mp3",
+      "answerFile": "USCIS-2008-017-answer.mp3"
+    },
+    "USCIS-2008-018": {
+      "versionCode": "2008",
+      "questionText": "How many United States. Senators are there?",
+      "answerText": "one hundred , 100,",
+      "questionHash": "5c6f6c06696f80632b82f38c9d6f75a0ce7699a5af48cf51fb4b15b36e8b5ffd",
+      "answerHash": "9e79e0925630aff0b254dc24481760bcf6b7fd59d0d67734a34b4dac273e90f7",
+      "questionFile": "USCIS-2008-018-question.mp3",
+      "answerFile": "USCIS-2008-018-answer.mp3"
+    },
+    "USCIS-2008-019": {
+      "versionCode": "2008",
+      "questionText": "We elect a United States. Senator for how many years?",
+      "answerText": "six , 6,",
+      "questionHash": "00e336ea19a52e5df3d0a94d8656d831431ea2227d2589888fa26901ded62858",
+      "answerHash": "6069fd2667311373c405ad09c9a4896b5102a93ec99dbdd45206455b9c953897",
+      "questionFile": "USCIS-2008-019-question.mp3",
+      "answerFile": "USCIS-2008-019-answer.mp3"
+    },
+    "USCIS-2008-020": {
+      "versionCode": "2008",
+      "questionText": "Who is one of your state's United States. Senators now?",
+      "answerText": "Answers will vary. [District of Columbia residents and residents of United States. territories should answer that D.C. , or the territory where the applicant lives, has no United States. Senators.] Visit senate.gov to find your state’s United States. Senators.",
+      "questionHash": "91e16740565055c52b9240abe81c833c368e06a0c5cb3f521d1e644dd0ce0da0",
+      "answerHash": "b3d74dd67b77f572926066f835979063fa78f9d1bbbcc23ffd7d7dc5a8b3a8fb",
+      "questionFile": "USCIS-2008-020-question.mp3",
+      "answerFile": "USCIS-2008-020-answer.mp3"
+    },
+    "USCIS-2008-021": {
+      "versionCode": "2008",
+      "questionText": "The House of Representatives has how many voting members?",
+      "answerText": "four hundred thirty-five , 435,",
+      "questionHash": "0e3d618d07f8eb657216da863d412053719285ecc6b9dfbeb3ccd2ed65776151",
+      "answerHash": "a2b90100b5f772edd4edb4bf1d3d24a57a948a0c8ce0585fb579fcc771bd8525",
+      "questionFile": "USCIS-2008-021-question.mp3",
+      "answerFile": "USCIS-2008-021-answer.mp3"
+    },
+    "USCIS-2008-022": {
+      "versionCode": "2008",
+      "questionText": "We elect a United States. Representative for how many years?",
+      "answerText": "two , 2,",
+      "questionHash": "6ec8bd95e7d42f51a4f269dea899d6437be37265bb120d6ba26059354218e0b0",
+      "answerHash": "790cbb7ca11bd3ee783be3c7fe5f1554fa93f48e14674f48742d56b8a632a8b4",
+      "questionFile": "USCIS-2008-022-question.mp3",
+      "answerFile": "USCIS-2008-022-answer.mp3"
+    },
+    "USCIS-2008-023": {
+      "versionCode": "2008",
+      "questionText": "Name your United States. Representative.",
+      "answerText": "Answers will vary. [Residents of territories with nonvoting Delegates or Resident Commissioners may provide the name of that Delegate or Commissioner. Also acceptable is any statement that the territory has no , voting, Representatives in Congress.] Visit house.gov to find your United States. Representative.",
+      "questionHash": "32021374f172c33027b5565de7a4d71baae49668f1eb6be0a588b23bbb7ee251",
+      "answerHash": "39ca615f741359a8b39712548ac7c7cfebfb50c588d6de49a901f9c8da169c13",
+      "questionFile": "USCIS-2008-023-question.mp3",
+      "answerFile": "USCIS-2008-023-answer.mp3"
+    },
+    "USCIS-2008-024": {
+      "versionCode": "2008",
+      "questionText": "Who does a United States. Senator represent?",
+      "answerText": "all people of the state",
+      "questionHash": "c8b68919fa4448350fb7d2eeac6d515375e39cc5cbb59c2edddcee2184ba1283",
+      "answerHash": "4e9de3ba2f29ac27bae49a0493a9026bbb7d53566d0206a201f37ddc4555f140",
+      "questionFile": "USCIS-2008-024-question.mp3",
+      "answerFile": "USCIS-2008-024-answer.mp3"
+    },
+    "USCIS-2008-025": {
+      "versionCode": "2008",
+      "questionText": "Why do some states have more Representatives than other states?",
+      "answerText": ", because of, the state's population",
+      "questionHash": "a8e5c91f87650b91f47e0ab3018933da611199490073d2db114d92511ba7bd61",
+      "answerHash": "93b6a8cec63ed4b4559ad2d989abd8cd8f849a518ec9d675b463a8977d4088e6",
+      "questionFile": "USCIS-2008-025-question.mp3",
+      "answerFile": "USCIS-2008-025-answer.mp3"
+    },
+    "USCIS-2008-026": {
+      "versionCode": "2008",
+      "questionText": "We elect a President for how many years?",
+      "answerText": "four , 4,",
+      "questionHash": "4528461c7235320235cb4da35c2c38b54f5bae2727a0052a3d8b5283d54ea3a4",
+      "answerHash": "15b772cec053a3bc14a2641c08d67ef5212b1605e64ea0c6379b529177015d57",
+      "questionFile": "USCIS-2008-026-question.mp3",
+      "answerFile": "USCIS-2008-026-answer.mp3"
+    },
+    "USCIS-2008-027": {
+      "versionCode": "2008",
+      "questionText": "In what month do we vote for President?",
+      "answerText": "November",
+      "questionHash": "1e2a6cc21bfc4605e4e1c9783dd37a0a775f6da67295c92d7949e695b9d032d2",
+      "answerHash": "63e181cbde7db27aebf3077b4a611e3f083606aca51f73bb67b777e2a7bc04c5",
+      "questionFile": "USCIS-2008-027-question.mp3",
+      "answerFile": "USCIS-2008-027-answer.mp3"
+    },
+    "USCIS-2008-028": {
+      "versionCode": "2008",
+      "questionText": "What is the name of the President of the United States now?",
+      "answerText": "Donald J. Trump",
+      "questionHash": "936e1697fe7233547cb73e9b086ede76ed46cd09c629a07fef3cf480901dae19",
+      "answerHash": "efb2976f69fdd7fa2464695521ffbc530c3cb1a339b1727eef11fb6fd67504ed",
+      "questionFile": "USCIS-2008-028-question.mp3",
+      "answerFile": "USCIS-2008-028-answer.mp3"
+    },
+    "USCIS-2008-029": {
+      "versionCode": "2008",
+      "questionText": "What is the name of the Vice President of the United States now?",
+      "answerText": "JD Vance",
+      "questionHash": "7c3f59f9fab61214a6071155e0d551a68a44ae73a092fa2fc7db135ee68eebbb",
+      "answerHash": "1bdbe048d58db19b5370983c5e592645719982e265d55efbd22b13ca2b20c3fc",
+      "questionFile": "USCIS-2008-029-question.mp3",
+      "answerFile": "USCIS-2008-029-answer.mp3"
+    },
+    "USCIS-2008-030": {
+      "versionCode": "2008",
+      "questionText": "If the President can no longer serve, who becomes President?",
+      "answerText": "the Vice President",
+      "questionHash": "fcb16aba42b64097d2d5e14cdaf8b9c66d551032b70ecf3fd7c6eb799624a858",
+      "answerHash": "40457bde79e68d10f2d8b49e039fae5f0e3b187980fc308f926106025803486b",
+      "questionFile": "USCIS-2008-030-question.mp3",
+      "answerFile": "USCIS-2008-030-answer.mp3"
+    },
+    "USCIS-2008-031": {
+      "versionCode": "2008",
+      "questionText": "If both the President and the Vice President can no longer serve, who becomes President?",
+      "answerText": "the Speaker of the House",
+      "questionHash": "fdc527aebb9f4749c48d08f3e7ed37d39cc742dbc56876edde24c955123bbad7",
+      "answerHash": "dc729b2136623232eb2dac69f68e0ab558e0b624b704fcc97910bbf6ed790c2f",
+      "questionFile": "USCIS-2008-031-question.mp3",
+      "answerFile": "USCIS-2008-031-answer.mp3"
+    },
+    "USCIS-2008-032": {
+      "versionCode": "2008",
+      "questionText": "Who is the Commander in Chief of the military?",
+      "answerText": "the President",
+      "questionHash": "bec9f9d0828774d966349ea354257dd9784dbd982632762bf61f07e2069999e3",
+      "answerHash": "9d94b085dba25cd80e53175ba57f24478b491f18d9de6dffedbe00cf77ac9c14",
+      "questionFile": "USCIS-2008-032-question.mp3",
+      "answerFile": "USCIS-2008-032-answer.mp3"
+    },
+    "USCIS-2008-033": {
+      "versionCode": "2008",
+      "questionText": "Who signs bills to become laws?",
+      "answerText": "the President",
+      "questionHash": "f4f24733135df7e07e4b26328a467b1a92653f0787027ff4044203e1f1a3b744",
+      "answerHash": "9d94b085dba25cd80e53175ba57f24478b491f18d9de6dffedbe00cf77ac9c14",
+      "questionFile": "USCIS-2008-033-question.mp3",
+      "answerFile": "USCIS-2008-033-answer.mp3"
+    },
+    "USCIS-2008-034": {
+      "versionCode": "2008",
+      "questionText": "Who vetoes bills?",
+      "answerText": "the President",
+      "questionHash": "830e5c765f3b3743163ccdc4e03eed3900ef3fb52fa321924a6baa5b4e29903f",
+      "answerHash": "9d94b085dba25cd80e53175ba57f24478b491f18d9de6dffedbe00cf77ac9c14",
+      "questionFile": "USCIS-2008-034-question.mp3",
+      "answerFile": "USCIS-2008-034-answer.mp3"
+    },
+    "USCIS-2008-035": {
+      "versionCode": "2008",
+      "questionText": "What does the President's Cabinet do?",
+      "answerText": "advises the President",
+      "questionHash": "0d9ba9dd46ee520bb23748c097c30003cd3c2e4b2470f486eaa5bcec8ad5b364",
+      "answerHash": "f9dcbd83505886d5abbc5d889cf9b48c50bc037dd2444d753a2a9cceff7f420e",
+      "questionFile": "USCIS-2008-035-question.mp3",
+      "answerFile": "USCIS-2008-035-answer.mp3"
+    },
+    "USCIS-2008-036": {
+      "versionCode": "2008",
+      "questionText": "What are two Cabinet-level positions?",
+      "answerText": "Secretary of Agriculture",
+      "questionHash": "27c2573bb7c22cf7c7c5662498609c99725b2f8bcd4f20ca133f2996b63a901e",
+      "answerHash": "e6f5b3cefa6847864658d45ce88ac677cf896323883cba5c54edf9107e06f611",
+      "questionFile": "USCIS-2008-036-question.mp3",
+      "answerFile": "USCIS-2008-036-answer.mp3"
+    },
+    "USCIS-2008-037": {
+      "versionCode": "2008",
+      "questionText": "What does the judicial branch do?",
+      "answerText": "reviews laws",
+      "questionHash": "a906963926559630e144b9acca19902b040f158dfe8e2bd3ea62b3df6f85412a",
+      "answerHash": "383e0c9082b462c12bfd98cd2ec9eca0a67bef5183a2b8777e24a65eca62dba5",
+      "questionFile": "USCIS-2008-037-question.mp3",
+      "answerFile": "USCIS-2008-037-answer.mp3"
+    },
+    "USCIS-2008-038": {
+      "versionCode": "2008",
+      "questionText": "What is the highest court in the United States?",
+      "answerText": "the Supreme Court",
+      "questionHash": "a070bcc7c35f0d6fd6e105554571805634f7fb6a393f5b52f858d7654106f6c8",
+      "answerHash": "8b51220d5b0f18c21ebb135d15396eb88189421565e6549f8dff3f75ed87bdf6",
+      "questionFile": "USCIS-2008-038-question.mp3",
+      "answerFile": "USCIS-2008-038-answer.mp3"
+    },
+    "USCIS-2008-039": {
+      "versionCode": "2008",
+      "questionText": "How many justices are on the Supreme Court?",
+      "answerText": "nine , 9,",
+      "questionHash": "2421972911f906b90363584a193830fe8c06f0882f54ec60870b015cf04c6ae6",
+      "answerHash": "b3dcd82e01f8a5c1b472d7e663205ee39b82262327119b3b8ba655ac20f8b1fc",
+      "questionFile": "USCIS-2008-039-question.mp3",
+      "answerFile": "USCIS-2008-039-answer.mp3"
+    },
+    "USCIS-2008-040": {
+      "versionCode": "2008",
+      "questionText": "Who is the Chief Justice of the United States now?",
+      "answerText": "John Roberts",
+      "questionHash": "db9bb264e26d560a77cc0fe76129dbeabeda2fe67ab3b5cb52077b118842a2fe",
+      "answerHash": "534bbda21ee2b26a22baec435d295e9f9b6abc343a1c43e35d87282aa9bc6d60",
+      "questionFile": "USCIS-2008-040-question.mp3",
+      "answerFile": "USCIS-2008-040-answer.mp3"
+    },
+    "USCIS-2008-041": {
+      "versionCode": "2008",
+      "questionText": "Under our Constitution, some powers belong to the federal government. What is one power of the federal government?",
+      "answerText": "to print money",
+      "questionHash": "2b87e6d407b93019d683522150719f79ec6805d3cf77b3bcb68ac7d86e4204ca",
+      "answerHash": "8a932e15c30dba85a5fbfa9a28ebb43e4c531b5fd7e95c4bb9e8f4ed2fc1eb8b",
+      "questionFile": "USCIS-2008-041-question.mp3",
+      "answerFile": "USCIS-2008-041-answer.mp3"
+    },
+    "USCIS-2008-042": {
+      "versionCode": "2008",
+      "questionText": "Under our Constitution, some powers belong to the states. What is one power of the states?",
+      "answerText": "provide schooling and education",
+      "questionHash": "98a24d2a19418f16d57558d6a15c221d10c7d518c2d2f2077dcafb08a16f6778",
+      "answerHash": "57ed2b3a35f84e743350f4a428a4ca362ebeeb5da1fa89c2ccc6efdf5e3f286d",
+      "questionFile": "USCIS-2008-042-question.mp3",
+      "answerFile": "USCIS-2008-042-answer.mp3"
+    },
+    "USCIS-2008-043": {
+      "versionCode": "2008",
+      "questionText": "Who is the Governor of your state now?",
+      "answerText": "Answers will vary. [District of Columbia residents should answer that D.C. does not have a Governor.] Visit usa.gov or states-and-territories to find the Governor of your state.",
+      "questionHash": "df00b381fd7c01b581d9d404b0b657668666ccbcbd23d0eb714611b8252df4c9",
+      "answerHash": "0719d6f12959bd349f6f6011590c7a72e12c7fac1eead7538f6ed322f6d82e19",
+      "questionFile": "USCIS-2008-043-question.mp3",
+      "answerFile": "USCIS-2008-043-answer.mp3"
+    },
+    "USCIS-2008-044": {
+      "versionCode": "2008",
+      "questionText": "What is the capital of your state?",
+      "answerText": "Answers will vary. [District of Columbia residents should answer that D.C. is not a state and does not have a capital. Residents of United States. territories should name the capital of the territory.]",
+      "questionHash": "1d4df49031a5d30bc098791a29a3fd6a68b258a4cf1b174becbbc4919058acd3",
+      "answerHash": "5c31d7d27c67271b7cc4111169471777ca84def4cc12bfd2587daf7304064f8f",
+      "questionFile": "USCIS-2008-044-question.mp3",
+      "answerFile": "USCIS-2008-044-answer.mp3"
+    },
+    "USCIS-2008-045": {
+      "versionCode": "2008",
+      "questionText": "What are the two major political parties in the United States?",
+      "answerText": "Democratic and Republican",
+      "questionHash": "a35800cdbc848db71348e8389c3ccd4af5e66a46040703d6dbc69a509feaa1fd",
+      "answerHash": "d66a7dbe0cee7096225932089ccb93b845cbd2246ba8be79a6f89beb387382b8",
+      "questionFile": "USCIS-2008-045-question.mp3",
+      "answerFile": "USCIS-2008-045-answer.mp3"
+    },
+    "USCIS-2008-046": {
+      "versionCode": "2008",
+      "questionText": "What is the political party of the President now?",
+      "answerText": "Republican , Party,",
+      "questionHash": "d508c4036a2d2540a899731cf4f84d1ccc2737b3d48e6423fe8841adcdf090fa",
+      "answerHash": "7dc2e7a9008c423880efc0c259313571a8d195c755e86fb7481c631f37659e9c",
+      "questionFile": "USCIS-2008-046-question.mp3",
+      "answerFile": "USCIS-2008-046-answer.mp3"
+    },
+    "USCIS-2008-047": {
+      "versionCode": "2008",
+      "questionText": "What is the name of the Speaker of the House of Representatives now?",
+      "answerText": "Mike Johnson",
+      "questionHash": "1826630fc00832c91dd68490f70759cd3dc6ef75bc3b20f827a6478725276442",
+      "answerHash": "22013251f3cf8ebf00acfb0d2f17f34b0a732b15a2a9b48b0ca1c80afbf4c498",
+      "questionFile": "USCIS-2008-047-question.mp3",
+      "answerFile": "USCIS-2008-047-answer.mp3"
+    },
+    "USCIS-2008-048": {
+      "versionCode": "2008",
+      "questionText": "There are four amendments to the Constitution about who can vote. Describe one of them.",
+      "answerText": "Citizens eighteen , 18, and older , can vote, .",
+      "questionHash": "7088bb701a2a9eab18199407d881d30750bdade1f97fea86e171cef58cdefc4c",
+      "answerHash": "f6025958b6c86ea052279b9402e02b05865ac4a299987f50193e1c8ab4143139",
+      "questionFile": "USCIS-2008-048-question.mp3",
+      "answerFile": "USCIS-2008-048-answer.mp3"
+    },
+    "USCIS-2008-049": {
+      "versionCode": "2008",
+      "questionText": "What is one responsibility that is only for United States citizens?",
+      "answerText": "serve on a jury",
+      "questionHash": "6f63cc96fa7c567f761ae6ec3eb26519de683367a5b5b9f5223124c04fa0b7a7",
+      "answerHash": "9512d7c893e4307cdf20604e601aa523cf1e9c814e0d0a8ba830901ca02482a5",
+      "questionFile": "USCIS-2008-049-question.mp3",
+      "answerFile": "USCIS-2008-049-answer.mp3"
+    },
+    "USCIS-2008-050": {
+      "versionCode": "2008",
+      "questionText": "Name one right only for United States citizens.",
+      "answerText": "vote in a federal election",
+      "questionHash": "52a3807823691e14b58f38db42a593bc6329a46fad126559c17a8ed3080a3d66",
+      "answerHash": "6c6fa841020299f0a67816c085dba2e381ce940c26f797666db06951a9940be6",
+      "questionFile": "USCIS-2008-050-question.mp3",
+      "answerFile": "USCIS-2008-050-answer.mp3"
+    },
+    "USCIS-2008-051": {
+      "versionCode": "2008",
+      "questionText": "What are two rights of everyone living in the United States?",
+      "answerText": "freedom of expression",
+      "questionHash": "0d8f3d3563ed38ad1339fe4b5a918e33b05b6548eb1772668dfdfaf84f0389cf",
+      "answerHash": "7e91024898f8beb2c474ce0329328df617f22a22d001c3aff75cd6b348766ea1",
+      "questionFile": "USCIS-2008-051-question.mp3",
+      "answerFile": "USCIS-2008-051-answer.mp3"
+    },
+    "USCIS-2008-052": {
+      "versionCode": "2008",
+      "questionText": "What do we show loyalty to when we say the Pledge of Allegiance?",
+      "answerText": "the United States",
+      "questionHash": "044c22027ea27082a3b17cd0cfe4578cf78eab87afeaf232e41448b8d36592b8",
+      "answerHash": "23e8c17e5e3e3bc06b5dc8cd1bfdefe3f0e9a8d774a041af04ee9a67643cea19",
+      "questionFile": "USCIS-2008-052-question.mp3",
+      "answerFile": "USCIS-2008-052-answer.mp3"
+    },
+    "USCIS-2008-053": {
+      "versionCode": "2008",
+      "questionText": "What is one promise you make when you become a United States citizen?",
+      "answerText": "give up loyalty to other countries",
+      "questionHash": "90ef16780e682e10304b636a08643b8cd99c3438be3f59878b2908762fb311c6",
+      "answerHash": "79502f6c33568b407c140181d19a615594f0c821e7461c06d49859eed39c1c57",
+      "questionFile": "USCIS-2008-053-question.mp3",
+      "answerFile": "USCIS-2008-053-answer.mp3"
+    },
+    "USCIS-2008-054": {
+      "versionCode": "2008",
+      "questionText": "How old do citizens have to be to vote for President?",
+      "answerText": "eighteen , 18, and older",
+      "questionHash": "f0507b0f8837214c4332d114e764daca2eb92b8e47f74ce94d9b37ff3cd38b25",
+      "answerHash": "7763f1a8cdc35f5fe7a244b39e5f390ad0ec47089b85a72b3120aab0ac9c4822",
+      "questionFile": "USCIS-2008-054-question.mp3",
+      "answerFile": "USCIS-2008-054-answer.mp3"
+    },
+    "USCIS-2008-055": {
+      "versionCode": "2008",
+      "questionText": "What are two ways that Americans can participate in their democracy?",
+      "answerText": "vote",
+      "questionHash": "227b03c4e6acb30109336ba7d453c06a9e235ffd052dacb2c21bc650c27ae475",
+      "answerHash": "ace5c6422cb967809992fc821905e9aaa67c6d69290ca84c0260737a3681cd14",
+      "questionFile": "USCIS-2008-055-question.mp3",
+      "answerFile": "USCIS-2008-055-answer.mp3"
+    },
+    "USCIS-2008-056": {
+      "versionCode": "2008",
+      "questionText": "When is the last day you can send in federal income tax forms?",
+      "answerText": "April 15",
+      "questionHash": "5b078a2583b820925185b9f914884aeef8d8fb4eede6ef1cf4243f86aced9cbe",
+      "answerHash": "d31cf307c5f176db3b626e40e3669698abede433b768b246072bb990363f4451",
+      "questionFile": "USCIS-2008-056-question.mp3",
+      "answerFile": "USCIS-2008-056-answer.mp3"
+    },
+    "USCIS-2008-057": {
+      "versionCode": "2008",
+      "questionText": "When must all men register for the Selective Service?",
+      "answerText": "at age eighteen , 18,",
+      "questionHash": "dba699353ee960bfebf5ee1dcb399634eb47095d0b3ea7671044b74a82fd538f",
+      "answerHash": "f363529ac4277574c9f1e822fe8d927919528c225bdbd2d6ddf350bbdcd5152d",
+      "questionFile": "USCIS-2008-057-question.mp3",
+      "answerFile": "USCIS-2008-057-answer.mp3"
+    },
+    "USCIS-2008-058": {
+      "versionCode": "2008",
+      "questionText": "What is one reason colonists came to America?",
+      "answerText": "freedom",
+      "questionHash": "f20d5eabe7c6a94c92189ffc19512029c961a0d5227e5cf50a42ccbef960dd85",
+      "answerHash": "9b13e430057be086d260db90e074d9d0eb0c78e1471ddd0a0b58bfc04b0ea6d1",
+      "questionFile": "USCIS-2008-058-question.mp3",
+      "answerFile": "USCIS-2008-058-answer.mp3"
+    },
+    "USCIS-2008-059": {
+      "versionCode": "2008",
+      "questionText": "Who lived in America before the Europeans arrived?",
+      "answerText": "American Indians",
+      "questionHash": "23730eed00883cf8e754bb2b3babaedc16ef55fd0a880080cf93cb68a4f4283c",
+      "answerHash": "59f5b61f112dd7aef423bcd41628b2fdece4b4e5a8b20ce74584134ed54ddef6",
+      "questionFile": "USCIS-2008-059-question.mp3",
+      "answerFile": "USCIS-2008-059-answer.mp3"
+    },
+    "USCIS-2008-060": {
+      "versionCode": "2008",
+      "questionText": "What group of people was taken to America and sold as slaves?",
+      "answerText": "Africans",
+      "questionHash": "8a4ae3eddc01b7a098b635aa95f4da7588cb1dfdad88354647eac211a3df0f7d",
+      "answerHash": "d85365cde232fff606b73bd16586021d431ed25fbda06944cd2ab345d9454fb2",
+      "questionFile": "USCIS-2008-060-question.mp3",
+      "answerFile": "USCIS-2008-060-answer.mp3"
+    },
+    "USCIS-2008-061": {
+      "versionCode": "2008",
+      "questionText": "Why did the colonists fight the British?",
+      "answerText": "because of high taxes , taxation without representation,",
+      "questionHash": "6e1f27ea530ef08b1dd3df9a8905c28bd042f9e5985ff78654527ebfd37165dc",
+      "answerHash": "fa83f42cb5ea2499b2ff42d7731e06d15497feb35b0a3e9b4187d76769b60bc7",
+      "questionFile": "USCIS-2008-061-question.mp3",
+      "answerFile": "USCIS-2008-061-answer.mp3"
+    },
+    "USCIS-2008-062": {
+      "versionCode": "2008",
+      "questionText": "Who wrote the Declaration of Independence?",
+      "answerText": ", Thomas, Jefferson",
+      "questionHash": "c05ae8483315bcdbd3fc5533ef7aeb971d8c81653de032a7997d317a62c7d284",
+      "answerHash": "09fc0710c510441c944d91d62acce2f9a5b4669b07c1fb1b2e5609d8d2c01f4d",
+      "questionFile": "USCIS-2008-062-question.mp3",
+      "answerFile": "USCIS-2008-062-answer.mp3"
+    },
+    "USCIS-2008-063": {
+      "versionCode": "2008",
+      "questionText": "When was the Declaration of Independence adopted?",
+      "answerText": "July 4, 1776",
+      "questionHash": "4240c9fc06c28372b4aaf3f33b65596f380b2b362146fd861276e00dd4ee206e",
+      "answerHash": "01bdc682d35d8084760d30cadd05f2d04c9fe55537a1370de6394ce6c148b96e",
+      "questionFile": "USCIS-2008-063-question.mp3",
+      "answerFile": "USCIS-2008-063-answer.mp3"
+    },
+    "USCIS-2008-064": {
+      "versionCode": "2008",
+      "questionText": "There were 13 original states. Name three.",
+      "answerText": "New Hampshire",
+      "questionHash": "a36f5022b1e3b82b5a1df410d607cc0effce885a28faf76e1aeadb2aef8409a4",
+      "answerHash": "e0bb3891119047932bb9d3568aa9323389aedf1a625a022b33e2a6a4684c46ac",
+      "questionFile": "USCIS-2008-064-question.mp3",
+      "answerFile": "USCIS-2008-064-answer.mp3"
+    },
+    "USCIS-2008-065": {
+      "versionCode": "2008",
+      "questionText": "What happened at the Constitutional Convention?",
+      "answerText": "The Constitution was written.",
+      "questionHash": "4d047713b391c16a3e491cbcff5f9444afc8ed75b6cbbd43761eb4ae1fef09f5",
+      "answerHash": "182942ac8c0a3f8ec43484513686d5a999a038b63e906e0b3d383115aaaef0fa",
+      "questionFile": "USCIS-2008-065-question.mp3",
+      "answerFile": "USCIS-2008-065-answer.mp3"
+    },
+    "USCIS-2008-066": {
+      "versionCode": "2008",
+      "questionText": "When was the Constitution written?",
+      "answerText": "1787",
+      "questionHash": "bf5390e71a824e449ddf84956522d22072b789b5259093576fa7ab0405679d8a",
+      "answerHash": "38eb0a9f065617210fd6db781324ed27562e201e4d026aba4f5031f21165261a",
+      "questionFile": "USCIS-2008-066-question.mp3",
+      "answerFile": "USCIS-2008-066-answer.mp3"
+    },
+    "USCIS-2008-067": {
+      "versionCode": "2008",
+      "questionText": "The Federalist Papers supported the passage of the United States. Constitution. Name one of the writers.",
+      "answerText": ", James, Madison",
+      "questionHash": "a9a2d30f504c5d82259aabf7e7082748c5288b5b188520e989cc7c283ea45cb4",
+      "answerHash": "a071b474711bf7924f8b82fb9e7186c2d29aabd601afeb87707ba543b743f2de",
+      "questionFile": "USCIS-2008-067-question.mp3",
+      "answerFile": "USCIS-2008-067-answer.mp3"
+    },
+    "USCIS-2008-068": {
+      "versionCode": "2008",
+      "questionText": "What is one thing Benjamin Franklin is famous for?",
+      "answerText": "United States. diplomat",
+      "questionHash": "15eac833b5698431375485a0e8a7fb21655ab7598a087440b98abf221ab212da",
+      "answerHash": "002aaa040f712046197bd734d751ff2f886ab2f7701c523d340c64e067260630",
+      "questionFile": "USCIS-2008-068-question.mp3",
+      "answerFile": "USCIS-2008-068-answer.mp3"
+    },
+    "USCIS-2008-069": {
+      "versionCode": "2008",
+      "questionText": "Who is the \"Father of Our Country\"?",
+      "answerText": ", George, Washington",
+      "questionHash": "fc310315be7931177c5c672d7223e1e3bae99ccc9b8f44a2bfd5328fb967880e",
+      "answerHash": "b6170c05c142f5a4d0232246ad5b98543039c622aa535e904e53131860a39972",
+      "questionFile": "USCIS-2008-069-question.mp3",
+      "answerFile": "USCIS-2008-069-answer.mp3"
+    },
+    "USCIS-2008-070": {
+      "versionCode": "2008",
+      "questionText": "Who was the first President?",
+      "answerText": ", George, Washington",
+      "questionHash": "74a7b7e86f442aa1176ef01cf338a6dbb6707d14144a7666df384a14ef253347",
+      "answerHash": "b6170c05c142f5a4d0232246ad5b98543039c622aa535e904e53131860a39972",
+      "questionFile": "USCIS-2008-070-question.mp3",
+      "answerFile": "USCIS-2008-070-answer.mp3"
+    },
+    "USCIS-2008-071": {
+      "versionCode": "2008",
+      "questionText": "What territory did the United States buy from France in 1803?",
+      "answerText": "the Louisiana Territory",
+      "questionHash": "4f25e8fcc1f03a449594200031fc71de5438c1405f97081a06c686fc8dbfe752",
+      "answerHash": "2f4cb6125640a751088ef7e2099a311417310cf094bec2b7965ee1fc569b23d0",
+      "questionFile": "USCIS-2008-071-question.mp3",
+      "answerFile": "USCIS-2008-071-answer.mp3"
+    },
+    "USCIS-2008-072": {
+      "versionCode": "2008",
+      "questionText": "Name one war fought by the United States in the 1800s.",
+      "answerText": "War of 1812",
+      "questionHash": "dc84ae308906923bd2e70463518074dd42b8b1e2e20a4b6c7858542f08cb8525",
+      "answerHash": "7b3782d143bef4f016569c5baccf14df8db5b408923600a0078667644c360331",
+      "questionFile": "USCIS-2008-072-question.mp3",
+      "answerFile": "USCIS-2008-072-answer.mp3"
+    },
+    "USCIS-2008-073": {
+      "versionCode": "2008",
+      "questionText": "Name the United States. war between the North and the South.",
+      "answerText": "the Civil War",
+      "questionHash": "f3617287b434fa306cd4e91b9e3c6dd2cdd5b97cc4a943ff4ff24647bdcf0cd9",
+      "answerHash": "bd5fdec26c3404f2a93f69789ac28e5b3f812ba44463f4264b657f63fdc5438e",
+      "questionFile": "USCIS-2008-073-question.mp3",
+      "answerFile": "USCIS-2008-073-answer.mp3"
+    },
+    "USCIS-2008-074": {
+      "versionCode": "2008",
+      "questionText": "Name one problem that led to the Civil War.",
+      "answerText": "slavery",
+      "questionHash": "08463bc5da5cd2197f90f9fad9c24234bab4bc8ddd8c640f136426fa3da66b1c",
+      "answerHash": "7487bfc923a0d9e2157f54294c30037caa1038970999ac5ef08143d3eae6db4a",
+      "questionFile": "USCIS-2008-074-question.mp3",
+      "answerFile": "USCIS-2008-074-answer.mp3"
+    },
+    "USCIS-2008-075": {
+      "versionCode": "2008",
+      "questionText": "What was one important thing that Abraham Lincoln did?",
+      "answerText": "freed the slaves , Emancipation Proclamation,",
+      "questionHash": "7684106c18f480dc46addd84594f9c34f6733ab6a7812e6721b4a132c7f80fcd",
+      "answerHash": "740c53b8ffbc61996508f2551d9bb201659e47be671c6483d56dccc1c4326284",
+      "questionFile": "USCIS-2008-075-question.mp3",
+      "answerFile": "USCIS-2008-075-answer.mp3"
+    },
+    "USCIS-2008-076": {
+      "versionCode": "2008",
+      "questionText": "What did the Emancipation Proclamation do?",
+      "answerText": "freed the slaves",
+      "questionHash": "4a92c96749a02c1b0a3af3b98089efe5a8e546297e39fcc6da93fa0ff7038dcb",
+      "answerHash": "7b44af5cc886294f4288cad954624371ab9cf87b2f8a90fa5b5d2d1a0a9eeb5a",
+      "questionFile": "USCIS-2008-076-question.mp3",
+      "answerFile": "USCIS-2008-076-answer.mp3"
+    },
+    "USCIS-2008-077": {
+      "versionCode": "2008",
+      "questionText": "What did Susan B. Anthony do?",
+      "answerText": "fought for women's rights",
+      "questionHash": "719b2faf0c8e7c8b9a6bdf11eb5f36958a76306dc9c0016ad010cc9d17475314",
+      "answerHash": "57f3d83f779232696165815216eb699586ddf29217be716c755c9b0761c93870",
+      "questionFile": "USCIS-2008-077-question.mp3",
+      "answerFile": "USCIS-2008-077-answer.mp3"
+    },
+    "USCIS-2008-078": {
+      "versionCode": "2008",
+      "questionText": "Name one war fought by the United States in the 1900s.",
+      "answerText": "World War I",
+      "questionHash": "7b8fb0fe5649ab3d91107c248b8fe43e73dc088d4abee7f1f4c6f3e44d0ae697",
+      "answerHash": "42f40ac2f5c663dcfce7e1582807ba9f0114aa7b53e7b20676aff07412d11f14",
+      "questionFile": "USCIS-2008-078-question.mp3",
+      "answerFile": "USCIS-2008-078-answer.mp3"
+    },
+    "USCIS-2008-079": {
+      "versionCode": "2008",
+      "questionText": "Who was President during World War I?",
+      "answerText": ", Woodrow, Wilson",
+      "questionHash": "d874ba0f35b62abfc89f2306804522c7f931d0be99733659643533baaab1fc6c",
+      "answerHash": "6cd844a41907df086042a3c3f15e189c6b6b25a212a816513b14f5e784011f04",
+      "questionFile": "USCIS-2008-079-question.mp3",
+      "answerFile": "USCIS-2008-079-answer.mp3"
+    },
+    "USCIS-2008-080": {
+      "versionCode": "2008",
+      "questionText": "Who was President during the Great Depression and World War II?",
+      "answerText": ", Franklin, Roosevelt",
+      "questionHash": "4e4ea44817f3be71d1ae550985dc97da10409666f5f3070bd936f43cdd248b52",
+      "answerHash": "399122a807fb50ed835c1a76563790b9ff56a3ed713337dcb336b2084ae6dc59",
+      "questionFile": "USCIS-2008-080-question.mp3",
+      "answerFile": "USCIS-2008-080-answer.mp3"
+    },
+    "USCIS-2008-081": {
+      "versionCode": "2008",
+      "questionText": "Who did the United States fight in World War II?",
+      "answerText": "Japan, Germany, and Italy",
+      "questionHash": "f5d1986cd0430a57c6748e62a2f5811bd55f8d30ae3416b73d4736800576fabb",
+      "answerHash": "df142b4a3b9ea2024030b768ade5204f78ac8a4fc47824f59d562c80dac3a0be",
+      "questionFile": "USCIS-2008-081-question.mp3",
+      "answerFile": "USCIS-2008-081-answer.mp3"
+    },
+    "USCIS-2008-082": {
+      "versionCode": "2008",
+      "questionText": "Before he was President, Eisenhower was a general. What war was he in?",
+      "answerText": "World War II",
+      "questionHash": "95db55b0b7743fbe6b5bc670dd0e42fa5834d7824d48c2d1c5bbefcd1fbe44a2",
+      "answerHash": "928a2b3de46d68dc1df579f3958514e04dfa9dcb8e0984efd295b7fb96539d40",
+      "questionFile": "USCIS-2008-082-question.mp3",
+      "answerFile": "USCIS-2008-082-answer.mp3"
+    },
+    "USCIS-2008-083": {
+      "versionCode": "2008",
+      "questionText": "During the Cold War, what was the main concern of the United States?",
+      "answerText": "Communism",
+      "questionHash": "3766df0d95f904c9821b50f2cf83813ffe73cc3964d05628003f39c8bf7be1ce",
+      "answerHash": "5432dd47ef52703dc185e1d09ceb6f88727223e50a48aad6de10b821b76f0425",
+      "questionFile": "USCIS-2008-083-question.mp3",
+      "answerFile": "USCIS-2008-083-answer.mp3"
+    },
+    "USCIS-2008-084": {
+      "versionCode": "2008",
+      "questionText": "What movement tried to end racial discrimination?",
+      "answerText": "civil rights , movement,",
+      "questionHash": "6907761874b2c15a73b45b020d0377a9b732a229b61f3a5ab6073016b0e0db71",
+      "answerHash": "1af051664783181dcd3554a6fc43aa3c0b72f63dda27c0decad7459280de66d8",
+      "questionFile": "USCIS-2008-084-question.mp3",
+      "answerFile": "USCIS-2008-084-answer.mp3"
+    },
+    "USCIS-2008-085": {
+      "versionCode": "2008",
+      "questionText": "What did Martin Luther King, Jr. do?",
+      "answerText": "fought for civil rights",
+      "questionHash": "5ab6ab66a347bc04e151efd1e573b98cfa9a8e320f455e692f6a9c01be7ad47e",
+      "answerHash": "bc1dffa0580abcf12367e2043f9c3327a2b81aa8f6536fc47fc63eeadf5a9d64",
+      "questionFile": "USCIS-2008-085-question.mp3",
+      "answerFile": "USCIS-2008-085-answer.mp3"
+    },
+    "USCIS-2008-086": {
+      "versionCode": "2008",
+      "questionText": "What major event happened on September 11, 2001, in the United States?",
+      "answerText": "Terrorists attacked the United States.",
+      "questionHash": "c2e8743b2013bbfb41ffbef442db6c29c24ccf3a83e3174a44ff30f3ce9e7d69",
+      "answerHash": "3a6c6de36a8d7d500b6027f4747925b124395e3fc88a6c0b168dfe4d1ff6251d",
+      "questionFile": "USCIS-2008-086-question.mp3",
+      "answerFile": "USCIS-2008-086-answer.mp3"
+    },
+    "USCIS-2008-087": {
+      "versionCode": "2008",
+      "questionText": "Name one American Indian tribe in the United States.",
+      "answerText": "Cherokee",
+      "questionHash": "6035fe2b0fa3e1fa56c20cb25a211af8692e9600e66cf65d2c0177b749615a34",
+      "answerHash": "2749035b75b4cbc5ddd4ddc31d0a13fafe2c66d47f46ca7ef5a49a1369ca01d4",
+      "questionFile": "USCIS-2008-087-question.mp3",
+      "answerFile": "USCIS-2008-087-answer.mp3"
+    },
+    "USCIS-2008-088": {
+      "versionCode": "2008",
+      "questionText": "Name one of the two longest rivers in the United States.",
+      "answerText": "Missouri , River,",
+      "questionHash": "b147cac85f80fec411ff4070e6cfec2caf218740a34459670d1139af5360d214",
+      "answerHash": "77e7ae871e378930bb0b7280ec35b05c72377c83cb38c639bb472c8fbf716182",
+      "questionFile": "USCIS-2008-088-question.mp3",
+      "answerFile": "USCIS-2008-088-answer.mp3"
+    },
+    "USCIS-2008-089": {
+      "versionCode": "2008",
+      "questionText": "What ocean is on the West Coast of the United States?",
+      "answerText": "Pacific , Ocean,",
+      "questionHash": "8dc7e89052327058d7312d6e41c09c81e7614e7a7d63d0a121a745f35b69e76a",
+      "answerHash": "6128f7e8ca31900f98b69a0cac0fa2858e795808e73de724d31713923952d293",
+      "questionFile": "USCIS-2008-089-question.mp3",
+      "answerFile": "USCIS-2008-089-answer.mp3"
+    },
+    "USCIS-2008-090": {
+      "versionCode": "2008",
+      "questionText": "What ocean is on the East Coast of the United States?",
+      "answerText": "Atlantic , Ocean,",
+      "questionHash": "cc608b03252f8d223e08335ab7e34e53fe47f3ef32acc0ce11739b7155058143",
+      "answerHash": "6698b0c1beca24a778fde305bb741238c69cb5f4a066aeb571b9f4f51e0ca296",
+      "questionFile": "USCIS-2008-090-question.mp3",
+      "answerFile": "USCIS-2008-090-answer.mp3"
+    },
+    "USCIS-2008-091": {
+      "versionCode": "2008",
+      "questionText": "Name one United States. territory.",
+      "answerText": "Puerto Rico",
+      "questionHash": "a14fe9e114e0cfb5500b839b90e4311e3d3007890ea6d19b32b27c0fbeaec162",
+      "answerHash": "176a29b5dd277222411318f021a07b84c6489701fb121b5364d3e9fbbdba3de9",
+      "questionFile": "USCIS-2008-091-question.mp3",
+      "answerFile": "USCIS-2008-091-answer.mp3"
+    },
+    "USCIS-2008-092": {
+      "versionCode": "2008",
+      "questionText": "Name one state that borders Canada.",
+      "answerText": "Maine",
+      "questionHash": "0fc31668848cfe37acf235038948700a4061472be9d18d4c0ec5ddf87a817eaf",
+      "answerHash": "cf0e90a04fde51266b2721323e3e16a835238b32bbd19a06b08e31d6f2a6d6df",
+      "questionFile": "USCIS-2008-092-question.mp3",
+      "answerFile": "USCIS-2008-092-answer.mp3"
+    },
+    "USCIS-2008-093": {
+      "versionCode": "2008",
+      "questionText": "Name one state that borders Mexico.",
+      "answerText": "California",
+      "questionHash": "cdd17e15b8314109021b7bd78d9883401da1f76786237ff8432d7c29eabf2c67",
+      "answerHash": "d0a96f12db12ce633dcf599ad537374dae5014a849102d7a414cc1c054711162",
+      "questionFile": "USCIS-2008-093-question.mp3",
+      "answerFile": "USCIS-2008-093-answer.mp3"
+    },
+    "USCIS-2008-094": {
+      "versionCode": "2008",
+      "questionText": "What is the capital of the United States?",
+      "answerText": "Washington, D.C.",
+      "questionHash": "21035e2338ebcecb2f452d69a67cd730723ecb1ee9ae34d2a77651aecb21b2ab",
+      "answerHash": "e205f1cbd155c5d1528dbcdbdeb7c9e25c3b3cc18e780ceae1d9e45029c92bcf",
+      "questionFile": "USCIS-2008-094-question.mp3",
+      "answerFile": "USCIS-2008-094-answer.mp3"
+    },
+    "USCIS-2008-095": {
+      "versionCode": "2008",
+      "questionText": "Where is the Statue of Liberty?",
+      "answerText": "New York , Harbor,",
+      "questionHash": "cf5de01dd2765cb2c1d9d301eeab4be48565d0ff05a0e8ba5274192527fb5d51",
+      "answerHash": "33aa48ae5c78feeb622d7968fb0195340319eec498cfc8ed5dcb293e22b34634",
+      "questionFile": "USCIS-2008-095-question.mp3",
+      "answerFile": "USCIS-2008-095-answer.mp3"
+    },
+    "USCIS-2008-096": {
+      "versionCode": "2008",
+      "questionText": "Why does the flag have 13 stripes?",
+      "answerText": "because there were 13 original colonies",
+      "questionHash": "82932cd52f1fcc69b1a4b9eb4db60ac4571764d4e0f8860fac7c383eed547a02",
+      "answerHash": "2f825a3ace004753f482a0c5ca3665f84e478e51855421c5ad3df7015b8ccad2",
+      "questionFile": "USCIS-2008-096-question.mp3",
+      "answerFile": "USCIS-2008-096-answer.mp3"
+    },
+    "USCIS-2008-097": {
+      "versionCode": "2008",
+      "questionText": "Why does the flag have 50 stars?",
+      "answerText": "because there is one star for each state",
+      "questionHash": "694a6f2400eefb5c5d4403c768a8b1251334c3dfe4111cb6ff96f889764e7ebb",
+      "answerHash": "d456462989da3c422f7348ec6290d0e9a67b2589191270acb5db9e2783f1e25a",
+      "questionFile": "USCIS-2008-097-question.mp3",
+      "answerFile": "USCIS-2008-097-answer.mp3"
+    },
+    "USCIS-2008-098": {
+      "versionCode": "2008",
+      "questionText": "What is the name of the national anthem?",
+      "answerText": "The Star-Spangled Banner",
+      "questionHash": "0d6336f2832aa7d7e739c1c65a30af134089cc30c5748afa3a0d061f1e03d3da",
+      "answerHash": "3d0b2b42e2a3711ad253d85a1f8df3bd635ac36a1768ab7597bd0c7cc2c092f0",
+      "questionFile": "USCIS-2008-098-question.mp3",
+      "answerFile": "USCIS-2008-098-answer.mp3"
+    },
+    "USCIS-2008-099": {
+      "versionCode": "2008",
+      "questionText": "When do we celebrate Independence Day?",
+      "answerText": "July 4",
+      "questionHash": "b95e559e15b4b47fd2324b7a5eee928855056f05f304896fd491afa6ae06628c",
+      "answerHash": "397b46aab786b1214619cc65b21279a76e3fad7f06dc106c7bb2ffc8de9ed2c9",
+      "questionFile": "USCIS-2008-099-question.mp3",
+      "answerFile": "USCIS-2008-099-answer.mp3"
+    },
+    "USCIS-2008-100": {
+      "versionCode": "2008",
+      "questionText": "Name two national United States. holidays.",
+      "answerText": "New Year's Day",
+      "questionHash": "4b9829d86c085be7ffbc3ab055601e5adb48f34ccf86120980eac6093b18a3d1",
+      "answerHash": "e8205fbb5a32ad417b497f5e3b8bca188a8d319267ecd486dcbbb0886b151683",
+      "questionFile": "USCIS-2008-100-question.mp3",
+      "answerFile": "USCIS-2008-100-answer.mp3"
+    },
+    "USCIS-2025-001": {
+      "versionCode": "2025",
+      "questionText": "What is the form of government of the United States?",
+      "answerText": "Republic",
+      "questionHash": "68951281bcb93c9e053709607ad83db88564e7457f8d5c87e90508b5a34d0f6b",
+      "answerHash": "8ce4b73382420a77a15915d846f237aaf0f58106fc1a181374d30d327e2e9756",
+      "questionFile": "USCIS-2025-001-question.mp3",
+      "answerFile": "USCIS-2025-001-answer.mp3"
+    },
+    "USCIS-2025-002": {
+      "versionCode": "2025",
+      "questionText": "What is the supreme law of the land?",
+      "answerText": ", United States., Constitution",
+      "questionHash": "f4c02c432449ca2430da2ea98fe0123f9c68a5a83652598f6d1b92dbc52932e2",
+      "answerHash": "a49be10cbcce24347548ff9d30ef1f05589badb0d35e5c846587a1cf7a1cbd11",
+      "questionFile": "USCIS-2025-002-question.mp3",
+      "answerFile": "USCIS-2025-002-answer.mp3"
+    },
+    "USCIS-2025-003": {
+      "versionCode": "2025",
+      "questionText": "Name one thing the United States. Constitution does.",
+      "answerText": "Forms the government",
+      "questionHash": "721e0bc0ab07308a397a9dda435a8882597b89e1d325e57e80b528d7c246e3b7",
+      "answerHash": "74a5d51c7191c640818cc3a03c80a6e680bde082def200160bc28bb5c01c3aac",
+      "questionFile": "USCIS-2025-003-question.mp3",
+      "answerFile": "USCIS-2025-003-answer.mp3"
+    },
+    "USCIS-2025-004": {
+      "versionCode": "2025",
+      "questionText": "The United States. Constitution starts with the words “We the People.” What does “We the People” mean?",
+      "answerText": "Self-government",
+      "questionHash": "2c20e2c505f6a2d4182b1a20c7df2d4e4b3bebd5436d216b141c52c44eb22961",
+      "answerHash": "09697aa9c131667cc2098720943cac33da8e58a02a4f00d0ca4a3f987fb3b179",
+      "questionFile": "USCIS-2025-004-question.mp3",
+      "answerFile": "USCIS-2025-004-answer.mp3"
+    },
+    "USCIS-2025-005": {
+      "versionCode": "2025",
+      "questionText": "How are changes made to the United States. Constitution?",
+      "answerText": "Amendments",
+      "questionHash": "f4b266add3da149d60d3feff89098cce629da3ca2f49a44dce7fb774c081d7ed",
+      "answerHash": "cc7ad26d27a94b245894cd53a14c12ccc787e7251cf2c4f5d7175f4cd7327408",
+      "questionFile": "USCIS-2025-005-question.mp3",
+      "answerFile": "USCIS-2025-005-answer.mp3"
+    },
+    "USCIS-2025-006": {
+      "versionCode": "2025",
+      "questionText": "What does the Bill of Rights protect?",
+      "answerText": ", The basic, rights of Americans",
+      "questionHash": "2d29c67244681e61fd745b4ef55cda817036bd83b8824b7baf7ad38a350e4a86",
+      "answerHash": "de88aa29a73eb0c46f7a32a1dd31667727e4c394e975efb2b9fa104db03f3402",
+      "questionFile": "USCIS-2025-006-question.mp3",
+      "answerFile": "USCIS-2025-006-answer.mp3"
+    },
+    "USCIS-2025-007": {
+      "versionCode": "2025",
+      "questionText": "How many amendments does the United States. Constitution have?",
+      "answerText": "Twenty-seven , 27,",
+      "questionHash": "c7ad6b018cb7780714d4094ac5dc1bf1a862b02897bd15f94af5b03040d517b5",
+      "answerHash": "da36404f91173c7d42da09653ac1799b5a62861dfb5e4060c27aa11cac971b8d",
+      "questionFile": "USCIS-2025-007-question.mp3",
+      "answerFile": "USCIS-2025-007-answer.mp3"
+    },
+    "USCIS-2025-008": {
+      "versionCode": "2025",
+      "questionText": "Why is the Declaration of Independence important?",
+      "answerText": "It says America is free from British control.",
+      "questionHash": "d5cc69754448ef03ce1dd300e9e3b5be112af83b7c8eafc54c5048cd39fb68a5",
+      "answerHash": "5cea140701432c5f140ae1b74f4ab79c8bfa80e6dadee8c68e52b7194491ab32",
+      "questionFile": "USCIS-2025-008-question.mp3",
+      "answerFile": "USCIS-2025-008-answer.mp3"
+    },
+    "USCIS-2025-009": {
+      "versionCode": "2025",
+      "questionText": "What founding document said the American colonies were free from Britain?",
+      "answerText": "Declaration of Independence",
+      "questionHash": "55a7be60a852addce70570c81b56c254591daa153a34eb5def60dcf44e786128",
+      "answerHash": "a51bf5c47814095663c6986ebab8a5c9318e9da531d40d675cbe454a39a5437c",
+      "questionFile": "USCIS-2025-009-question.mp3",
+      "answerFile": "USCIS-2025-009-answer.mp3"
+    },
+    "USCIS-2025-010": {
+      "versionCode": "2025",
+      "questionText": "Name two important ideas from the Declaration of Independence and the United States. Constitution.",
+      "answerText": "Equality",
+      "questionHash": "dbc6556bfd0382b162eec92546a3eae16d71269cded3d0074c2540fe50d61772",
+      "answerHash": "beb8ca3e5b28233f2e656f15173cb744f37609e52b4fd81d399dd65a41e04383",
+      "questionFile": "USCIS-2025-010-question.mp3",
+      "answerFile": "USCIS-2025-010-answer.mp3"
+    },
+    "USCIS-2025-011": {
+      "versionCode": "2025",
+      "questionText": "The words “Life, Liberty, and the pursuit of Happiness” are in what founding document?",
+      "answerText": "Declaration of Independence",
+      "questionHash": "ab269d0e6adaeec397baf7ea097fb4df84ab749463307cb940791a0766a727f4",
+      "answerHash": "a51bf5c47814095663c6986ebab8a5c9318e9da531d40d675cbe454a39a5437c",
+      "questionFile": "USCIS-2025-011-question.mp3",
+      "answerFile": "USCIS-2025-011-answer.mp3"
+    },
+    "USCIS-2025-012": {
+      "versionCode": "2025",
+      "questionText": "What is the economic system of the United States?",
+      "answerText": "Capitalism",
+      "questionHash": "a3155e32ecaf5a32df5dd540529907a9af4f148bfa62e498992c761e33bd09a0",
+      "answerHash": "9334cc0cfd699edaaf1f9040857a90efaa32e9ca5ab4b0f906edcbc9c1c2d88d",
+      "questionFile": "USCIS-2025-012-question.mp3",
+      "answerFile": "USCIS-2025-012-answer.mp3"
+    },
+    "USCIS-2025-013": {
+      "versionCode": "2025",
+      "questionText": "What is the rule of law?",
+      "answerText": "Everyone must follow the law.",
+      "questionHash": "548ea7ac89c353eebb145ffa410bb74112e4a2502c21c3d52db50be8218d2bb4",
+      "answerHash": "7e633240af1560314440542b791bb6b9ec0f9dc0626074ceff0e901a6f437fc4",
+      "questionFile": "USCIS-2025-013-question.mp3",
+      "answerFile": "USCIS-2025-013-answer.mp3"
+    },
+    "USCIS-2025-014": {
+      "versionCode": "2025",
+      "questionText": "Many documents influenced the United States. Constitution. Name one.",
+      "answerText": "Declaration of Independence",
+      "questionHash": "9eed9ca6091a6918af9c4db0541d7c01c642747c980457330d33468ba9749a45",
+      "answerHash": "a51bf5c47814095663c6986ebab8a5c9318e9da531d40d675cbe454a39a5437c",
+      "questionFile": "USCIS-2025-014-question.mp3",
+      "answerFile": "USCIS-2025-014-answer.mp3"
+    },
+    "USCIS-2025-015": {
+      "versionCode": "2025",
+      "questionText": "There are three branches of government. Why?",
+      "answerText": "So one part does not become too powerful",
+      "questionHash": "77f622949e12e68a63e9277ec0cf5b974e47d762c727c7e5fcf2108843772f2f",
+      "answerHash": "6f7b59c751895a5b1eef8f928b7b76785d720b921e70e9425f1debd370e43f73",
+      "questionFile": "USCIS-2025-015-question.mp3",
+      "answerFile": "USCIS-2025-015-answer.mp3"
+    },
+    "USCIS-2025-016": {
+      "versionCode": "2025",
+      "questionText": "Name the three branches of government.",
+      "answerText": "Legislative, executive, and judicial",
+      "questionHash": "049685ad5e94c7c6a93fadd14eb1cbea376cec0623a01861d6049087b8eae0d4",
+      "answerHash": "6d97a9fc0a01422e0740af96507f723166d7319c5852421f75fbcce01a071ef5",
+      "questionFile": "USCIS-2025-016-question.mp3",
+      "answerFile": "USCIS-2025-016-answer.mp3"
+    },
+    "USCIS-2025-017": {
+      "versionCode": "2025",
+      "questionText": "The President of the United States is in charge of which branch of government?",
+      "answerText": "Executive branch",
+      "questionHash": "cb87238a1496c9b7c5b39bd016b335ccb6f53554757d5af5d7757445490135b6",
+      "answerHash": "cca8865d5e199f01f19155943080846c4605a936aa4a789c13148731190284a6",
+      "questionFile": "USCIS-2025-017-question.mp3",
+      "answerFile": "USCIS-2025-017-answer.mp3"
+    },
+    "USCIS-2025-018": {
+      "versionCode": "2025",
+      "questionText": "What part of the federal government writes laws?",
+      "answerText": ", United States., Congress",
+      "questionHash": "8fd1bdf0c2caad9fb6dcf6a5f191253c5c1c2643d7ccf7d048263c13a054405e",
+      "answerHash": "b07cbaf7a6cd21dfcd68b3e2a556e20e4120a76fb3244dec20b3c5a7efc2888f",
+      "questionFile": "USCIS-2025-018-question.mp3",
+      "answerFile": "USCIS-2025-018-answer.mp3"
+    },
+    "USCIS-2025-019": {
+      "versionCode": "2025",
+      "questionText": "What are the two parts of the United States. Congress?",
+      "answerText": "Senate and House , of Representatives,",
+      "questionHash": "4c69f0c92f96b9721f51be0b554d08a7749c5a387bc25f9d36e38b2c6c757c4e",
+      "answerHash": "8487fd19d2f01a9adfcd87d91ca8e3097746b6d8e5879f737b1a787c3a854356",
+      "questionFile": "USCIS-2025-019-question.mp3",
+      "answerFile": "USCIS-2025-019-answer.mp3"
+    },
+    "USCIS-2025-020": {
+      "versionCode": "2025",
+      "questionText": "Name one power of the United States. Congress.",
+      "answerText": "Writes laws",
+      "questionHash": "52b8b27fc095e8f28630912f7aff9eebd7639b1cac0c354df00453434e8864a5",
+      "answerHash": "2e8847b3a35219dafd8245070364555e746c797d2e651e78ff93e4740d953ee8",
+      "questionFile": "USCIS-2025-020-question.mp3",
+      "answerFile": "USCIS-2025-020-answer.mp3"
+    },
+    "USCIS-2025-021": {
+      "versionCode": "2025",
+      "questionText": "How many United States. senators are there?",
+      "answerText": "One hundred , 100,",
+      "questionHash": "62137c10f57c2414708dc5072cac5f2ebdd2cc7ca628e48067f1f5d8b25d9dca",
+      "answerHash": "cdf2bd95f3e3d456bc26ccb9e7f16ca568016b60a7852404ba18eb7908ecda07",
+      "questionFile": "USCIS-2025-021-question.mp3",
+      "answerFile": "USCIS-2025-021-answer.mp3"
+    },
+    "USCIS-2025-022": {
+      "versionCode": "2025",
+      "questionText": "How long is a term for a United States. senator?",
+      "answerText": "Six , 6, years",
+      "questionHash": "ec9e9372cb874b5aab3a9d5f11435e9c1c824d683bc471f0aca54be616fe6d89",
+      "answerHash": "aca161e3be30b2819e55f462d109bd671bcbdfd93705478171e8dcf6d5930fbc",
+      "questionFile": "USCIS-2025-022-question.mp3",
+      "answerFile": "USCIS-2025-022-answer.mp3"
+    },
+    "USCIS-2025-023": {
+      "versionCode": "2025",
+      "questionText": "Who is one of your state’s United States. senators now?",
+      "answerText": "Answers will vary. [District of Columbia residents and residents of United States. territories should answer that D.C. , or the territory where the applicant lives, has no United States. Senators.] Visit senate.gov to find your state’s United States. Senators.",
+      "questionHash": "9dfb40995614ce6a28f7bc77cd5f505ea50fe2aeb2ed9ae8eb7efcfe1df9bb03",
+      "answerHash": "b3d74dd67b77f572926066f835979063fa78f9d1bbbcc23ffd7d7dc5a8b3a8fb",
+      "questionFile": "USCIS-2025-023-question.mp3",
+      "answerFile": "USCIS-2025-023-answer.mp3"
+    },
+    "USCIS-2025-024": {
+      "versionCode": "2025",
+      "questionText": "How many voting members are in the House of Representatives?",
+      "answerText": "Four hundred thirty-five , 435,",
+      "questionHash": "6cf71f8d19fc789faadb17d42b303f39cdaae06b97385d3dee6cea7ac4cd35ca",
+      "answerHash": "a9c42d5ab13d182cf8baa57e4c6b8c5d6ae3b02a375d772105dbb4388391cfe3",
+      "questionFile": "USCIS-2025-024-question.mp3",
+      "answerFile": "USCIS-2025-024-answer.mp3"
+    },
+    "USCIS-2025-025": {
+      "versionCode": "2025",
+      "questionText": "How long is a term for a member of the House of Representatives?",
+      "answerText": "Two , 2, years",
+      "questionHash": "b6231b1f5b82a80825eb9a7173b154b0f2cb3c0b55355736b9accb9c9be87faf",
+      "answerHash": "e100775341b5f318bdaa324c19c3d0f79a9bf2096b70741c72e5d5e981586fbf",
+      "questionFile": "USCIS-2025-025-question.mp3",
+      "answerFile": "USCIS-2025-025-answer.mp3"
+    },
+    "USCIS-2025-026": {
+      "versionCode": "2025",
+      "questionText": "Why do United States. representatives serve shorter terms than United States. senators?",
+      "answerText": "To more closely follow public opinion",
+      "questionHash": "69056ea8a4c88955e4158ccc13f0999ceb77f39dfab2add4335ab0b9458f8075",
+      "answerHash": "7d4f2a32cde74eb9be19b79e57d9263bd659d8b0b241d1885a43919a84c4e051",
+      "questionFile": "USCIS-2025-026-question.mp3",
+      "answerFile": "USCIS-2025-026-answer.mp3"
+    },
+    "USCIS-2025-027": {
+      "versionCode": "2025",
+      "questionText": "How many senators does each state have?",
+      "answerText": "Two , 2,",
+      "questionHash": "f149cf2ce0b20603d2e25a065311fbf25668801553b0a183584f647cee5c07dd",
+      "answerHash": "4ec17ab87b248df280b9a1b13aaaf9d82d6d500a811fbc1281fe807f1cacd3ee",
+      "questionFile": "USCIS-2025-027-question.mp3",
+      "answerFile": "USCIS-2025-027-answer.mp3"
+    },
+    "USCIS-2025-028": {
+      "versionCode": "2025",
+      "questionText": "Why does each state have two senators?",
+      "answerText": "Equal representation , for small states,",
+      "questionHash": "c6d1c93381a449f8d4318e6312b77f2a5dc47a096d657faf5965c429c900f743",
+      "answerHash": "ac38a796fb0503d48864200f7f3df0dcd5825e25e9f3cddb868869442b7bb0ed",
+      "questionFile": "USCIS-2025-028-question.mp3",
+      "answerFile": "USCIS-2025-028-answer.mp3"
+    },
+    "USCIS-2025-029": {
+      "versionCode": "2025",
+      "questionText": "Name your United States. representative.",
+      "answerText": "Answers will vary. [Residents of territories with nonvoting Delegates or Resident Commissioners may provide the name of that Delegate or Commissioner. Also acceptable is any statement that the territory has no , voting, Representatives in Congress.] Visit house.gov to find your United States. Representative.",
+      "questionHash": "035e785c97f52a92bd6c6fd8d5ca3574fbac8e1ac5302eb12fcbcc0375fef77b",
+      "answerHash": "39ca615f741359a8b39712548ac7c7cfebfb50c588d6de49a901f9c8da169c13",
+      "questionFile": "USCIS-2025-029-question.mp3",
+      "answerFile": "USCIS-2025-029-answer.mp3"
+    },
+    "USCIS-2025-030": {
+      "versionCode": "2025",
+      "questionText": "What is the name of the Speaker of the House of Representatives now?",
+      "answerText": "Mike Johnson",
+      "questionHash": "1826630fc00832c91dd68490f70759cd3dc6ef75bc3b20f827a6478725276442",
+      "answerHash": "22013251f3cf8ebf00acfb0d2f17f34b0a732b15a2a9b48b0ca1c80afbf4c498",
+      "questionFile": "USCIS-2025-030-question.mp3",
+      "answerFile": "USCIS-2025-030-answer.mp3"
+    },
+    "USCIS-2025-031": {
+      "versionCode": "2025",
+      "questionText": "Who does a United States. senator represent?",
+      "answerText": "Citizens of their state",
+      "questionHash": "ac2534bc6e3a11794da8016bc6778af07f686c22a94d31a12805bc77bd21914c",
+      "answerHash": "8a585f103e72e87414a39e5d8de15aa0594a0d591da57ac099cbb7f2bf7b4316",
+      "questionFile": "USCIS-2025-031-question.mp3",
+      "answerFile": "USCIS-2025-031-answer.mp3"
+    },
+    "USCIS-2025-032": {
+      "versionCode": "2025",
+      "questionText": "Who elects United States. senators?",
+      "answerText": "Citizens from their state",
+      "questionHash": "b4a8373ec453ad9fd6c4d4ec867b2a9e93022a29c9e9ac0a27411e5ec4a825a8",
+      "answerHash": "01d7b0d430a47043b17d01b45e6e4113b35cb4fef6a97812ad300237ed80711c",
+      "questionFile": "USCIS-2025-032-question.mp3",
+      "answerFile": "USCIS-2025-032-answer.mp3"
+    },
+    "USCIS-2025-033": {
+      "versionCode": "2025",
+      "questionText": "Who does a member of the House of Representatives represent?",
+      "answerText": "Citizens in their , congressional, district",
+      "questionHash": "c32ed2abd03eb364fb76cc640578dc68bb35d4a4e6d5b077526c8104a2180ce4",
+      "answerHash": "5694921f2581d481a22d0b3eebf9482563a3f62cf590a51b5742756c95272151",
+      "questionFile": "USCIS-2025-033-question.mp3",
+      "answerFile": "USCIS-2025-033-answer.mp3"
+    },
+    "USCIS-2025-034": {
+      "versionCode": "2025",
+      "questionText": "Who elects members of the House of Representatives?",
+      "answerText": "Citizens from their , congressional, district",
+      "questionHash": "81f35c9ec62d859626ec830f32be66c80438e7932d94d8149d23aab08e68eb35",
+      "answerHash": "7f251dbe9f3a4e0499b5fa77d7fbe97cc7268d48bb85e81a32f9f0042ea74c51",
+      "questionFile": "USCIS-2025-034-question.mp3",
+      "answerFile": "USCIS-2025-034-answer.mp3"
+    },
+    "USCIS-2025-035": {
+      "versionCode": "2025",
+      "questionText": "Some states have more representatives than other states. Why?",
+      "answerText": ", Because of, the state’s population",
+      "questionHash": "5de9b43c23a8cc6d2a24b4a57b0827ec0a713f44ea85766bbf95dbba5ad4cfcc",
+      "answerHash": "3a0b357219dcf063aa9ea1801e63b3cc57e2bdb34f1e8e54330b18594959b8b2",
+      "questionFile": "USCIS-2025-035-question.mp3",
+      "answerFile": "USCIS-2025-035-answer.mp3"
+    },
+    "USCIS-2025-036": {
+      "versionCode": "2025",
+      "questionText": "The President of the United States is elected for how many years?",
+      "answerText": "Four , 4, years",
+      "questionHash": "21bcfbf05ed3874e0092389e6210d5afff4692503922166c7291b5738da2561c",
+      "answerHash": "be06fafa621fd1985f1d4c4449c362ca7dd3993c8db1979d18d6fd42b99bef64",
+      "questionFile": "USCIS-2025-036-question.mp3",
+      "answerFile": "USCIS-2025-036-answer.mp3"
+    },
+    "USCIS-2025-037": {
+      "versionCode": "2025",
+      "questionText": "The President of the United States can serve only two terms. Why?",
+      "answerText": ", Because of, the 22nd Amendment",
+      "questionHash": "325488cd5f307c8b921097e5d30dced634c2697d47f0d8d4e062b1cbbc5e0f31",
+      "answerHash": "dad1b0aaff9718cce9045f16125fe0d0b2750f3ea45f8f1824dade51749d6f0e",
+      "questionFile": "USCIS-2025-037-question.mp3",
+      "answerFile": "USCIS-2025-037-answer.mp3"
+    },
+    "USCIS-2025-038": {
+      "versionCode": "2025",
+      "questionText": "What is the name of the President of the United States now?",
+      "answerText": "Donald J. Trump",
+      "questionHash": "936e1697fe7233547cb73e9b086ede76ed46cd09c629a07fef3cf480901dae19",
+      "answerHash": "efb2976f69fdd7fa2464695521ffbc530c3cb1a339b1727eef11fb6fd67504ed",
+      "questionFile": "USCIS-2025-038-question.mp3",
+      "answerFile": "USCIS-2025-038-answer.mp3"
+    },
+    "USCIS-2025-039": {
+      "versionCode": "2025",
+      "questionText": "What is the name of the Vice President of the United States now?",
+      "answerText": "JD Vance",
+      "questionHash": "7c3f59f9fab61214a6071155e0d551a68a44ae73a092fa2fc7db135ee68eebbb",
+      "answerHash": "1bdbe048d58db19b5370983c5e592645719982e265d55efbd22b13ca2b20c3fc",
+      "questionFile": "USCIS-2025-039-question.mp3",
+      "answerFile": "USCIS-2025-039-answer.mp3"
+    },
+    "USCIS-2025-040": {
+      "versionCode": "2025",
+      "questionText": "If the president can no longer serve, who becomes president?",
+      "answerText": "The Vice President , of the United States,",
+      "questionHash": "1c762af030ca4e06da8e5a8741cb7bf4b4fa0b6b308705a9bd606b6d77b8536e",
+      "answerHash": "ef373ae317db29394a99661af0d21768284518dc2262815e2368836e2ca0794b",
+      "questionFile": "USCIS-2025-040-question.mp3",
+      "answerFile": "USCIS-2025-040-answer.mp3"
+    },
+    "USCIS-2025-041": {
+      "versionCode": "2025",
+      "questionText": "Name one power of the president.",
+      "answerText": "Signs bills into law",
+      "questionHash": "7981d646f61224c44561bfbdb482e65db57d36f619de6512c0f0a337c2fa90f4",
+      "answerHash": "9680d388aa2a1d42cc340376b441102abdd47198302b278a7d75766d00a5fd55",
+      "questionFile": "USCIS-2025-041-question.mp3",
+      "answerFile": "USCIS-2025-041-answer.mp3"
+    },
+    "USCIS-2025-042": {
+      "versionCode": "2025",
+      "questionText": "Who is Commander in Chief of the United States. military?",
+      "answerText": "The President , of the United States,",
+      "questionHash": "46f5d3a5be71086be535b6192d92168195f8e296c09e41da7eaa6f6ac71675bb",
+      "answerHash": "898f9e1802f500141da48c1713c976c7c84e0b2d0b711f6e66ccedfa1bf60eae",
+      "questionFile": "USCIS-2025-042-question.mp3",
+      "answerFile": "USCIS-2025-042-answer.mp3"
+    },
+    "USCIS-2025-043": {
+      "versionCode": "2025",
+      "questionText": "Who signs bills to become laws?",
+      "answerText": "The President , of the United States,",
+      "questionHash": "f4f24733135df7e07e4b26328a467b1a92653f0787027ff4044203e1f1a3b744",
+      "answerHash": "898f9e1802f500141da48c1713c976c7c84e0b2d0b711f6e66ccedfa1bf60eae",
+      "questionFile": "USCIS-2025-043-question.mp3",
+      "answerFile": "USCIS-2025-043-answer.mp3"
+    },
+    "USCIS-2025-044": {
+      "versionCode": "2025",
+      "questionText": "Who vetoes bills?",
+      "answerText": "The President , of the United States,",
+      "questionHash": "830e5c765f3b3743163ccdc4e03eed3900ef3fb52fa321924a6baa5b4e29903f",
+      "answerHash": "898f9e1802f500141da48c1713c976c7c84e0b2d0b711f6e66ccedfa1bf60eae",
+      "questionFile": "USCIS-2025-044-question.mp3",
+      "answerFile": "USCIS-2025-044-answer.mp3"
+    },
+    "USCIS-2025-045": {
+      "versionCode": "2025",
+      "questionText": "Who appoints federal judges?",
+      "answerText": "The President , of the United States,",
+      "questionHash": "e5fdd5072435f896b3f9748d82fc2180ddee0d6adfd5dbef2360056c2f741747",
+      "answerHash": "898f9e1802f500141da48c1713c976c7c84e0b2d0b711f6e66ccedfa1bf60eae",
+      "questionFile": "USCIS-2025-045-question.mp3",
+      "answerFile": "USCIS-2025-045-answer.mp3"
+    },
+    "USCIS-2025-046": {
+      "versionCode": "2025",
+      "questionText": "The executive branch has many parts. Name one.",
+      "answerText": "President , of the United States,",
+      "questionHash": "4ce6c01a730e4cc87a5bc2c83fad355f322092c20e881fcfa837ef748fa53c03",
+      "answerHash": "2ad28f5bc31c1d72c445225541e883abb8e0310d605a2f0b893b5edbdf857194",
+      "questionFile": "USCIS-2025-046-question.mp3",
+      "answerFile": "USCIS-2025-046-answer.mp3"
+    },
+    "USCIS-2025-047": {
+      "versionCode": "2025",
+      "questionText": "What does the President’s Cabinet do?",
+      "answerText": "Advises the President , of the United States,",
+      "questionHash": "f437776f3a94a62cdf47f57e712a67c17c6907a625329b14f7d99b726ac3f0be",
+      "answerHash": "8b1e0a9d1f3781b6276c3966a275400e04c472a2d4e869962ec3a32ba6a399bf",
+      "questionFile": "USCIS-2025-047-question.mp3",
+      "answerFile": "USCIS-2025-047-answer.mp3"
+    },
+    "USCIS-2025-048": {
+      "versionCode": "2025",
+      "questionText": "What are two Cabinet-level positions?",
+      "answerText": "Attorney General",
+      "questionHash": "27c2573bb7c22cf7c7c5662498609c99725b2f8bcd4f20ca133f2996b63a901e",
+      "answerHash": "fb4ccb744112ae0d37eb3863d0df965b49fb38beeb1d61625c2ba4a7b2fde268",
+      "questionFile": "USCIS-2025-048-question.mp3",
+      "answerFile": "USCIS-2025-048-answer.mp3"
+    },
+    "USCIS-2025-049": {
+      "versionCode": "2025",
+      "questionText": "Why is the Electoral College important?",
+      "answerText": "It decides who is elected president.",
+      "questionHash": "d3a41913a5dd78a4e0887ba28eeea5764e986f4a5a9863925e53b6275a62a250",
+      "answerHash": "b67fee36899c9e467e4c2a3de15825e4046182ebf2db18a58e6f4968188b3b20",
+      "questionFile": "USCIS-2025-049-question.mp3",
+      "answerFile": "USCIS-2025-049-answer.mp3"
+    },
+    "USCIS-2025-050": {
+      "versionCode": "2025",
+      "questionText": "What is one part of the judicial branch?",
+      "answerText": "Supreme Court",
+      "questionHash": "240d63bd2e31c77f431291d344d03ea371060dddb9a235a10f6ad6a890ec2415",
+      "answerHash": "ebfeca4d9d1d3c4c44da35c48e2092a1c5b2a6265d8fd2930a97d95002fdbbc0",
+      "questionFile": "USCIS-2025-050-question.mp3",
+      "answerFile": "USCIS-2025-050-answer.mp3"
+    },
+    "USCIS-2025-051": {
+      "versionCode": "2025",
+      "questionText": "What does the judicial branch do?",
+      "answerText": "Reviews laws",
+      "questionHash": "a906963926559630e144b9acca19902b040f158dfe8e2bd3ea62b3df6f85412a",
+      "answerHash": "5c6bc5a9e3ca38ce5752b8bc97bfb562bc3a4ebba0e46e524542bb7059e2462a",
+      "questionFile": "USCIS-2025-051-question.mp3",
+      "answerFile": "USCIS-2025-051-answer.mp3"
+    },
+    "USCIS-2025-052": {
+      "versionCode": "2025",
+      "questionText": "What is the highest court in the United States?",
+      "answerText": "Supreme Court",
+      "questionHash": "a070bcc7c35f0d6fd6e105554571805634f7fb6a393f5b52f858d7654106f6c8",
+      "answerHash": "ebfeca4d9d1d3c4c44da35c48e2092a1c5b2a6265d8fd2930a97d95002fdbbc0",
+      "questionFile": "USCIS-2025-052-question.mp3",
+      "answerFile": "USCIS-2025-052-answer.mp3"
+    },
+    "USCIS-2025-053": {
+      "versionCode": "2025",
+      "questionText": "How many seats are on the Supreme Court?",
+      "answerText": "Nine , 9,",
+      "questionHash": "ee7cc823c29c58d6793998673e9b22ed8d9de46a0c61f5003aa2cc55febae9c7",
+      "answerHash": "7a5df5f7cbe5de17e3bf74bbeb87bc9d7315cd9941b6c8482df9b84b5bc9d12f",
+      "questionFile": "USCIS-2025-053-question.mp3",
+      "answerFile": "USCIS-2025-053-answer.mp3"
+    },
+    "USCIS-2025-054": {
+      "versionCode": "2025",
+      "questionText": "How many Supreme Court justices are usually needed to decide a case?",
+      "answerText": "Five , 5,",
+      "questionHash": "5769b3ae6dfaaaf5192370884c5efac79d6cc128f895e2b0e718b3006c84d196",
+      "answerHash": "1eec2273f367bd554d02579a40dd611506e12aa0d5dc444b6ae6fff86ea33c35",
+      "questionFile": "USCIS-2025-054-question.mp3",
+      "answerFile": "USCIS-2025-054-answer.mp3"
+    },
+    "USCIS-2025-055": {
+      "versionCode": "2025",
+      "questionText": "How long do Supreme Court justices serve?",
+      "answerText": ", For, life",
+      "questionHash": "21eedc9547fd7546f590429b67fc32ec0021b0f78797ff59957d372a6db6182b",
+      "answerHash": "40218128077b25515b390dcd40fbb0a38c46b4c9446f0165d36c5c49bfa48c9f",
+      "questionFile": "USCIS-2025-055-question.mp3",
+      "answerFile": "USCIS-2025-055-answer.mp3"
+    },
+    "USCIS-2025-056": {
+      "versionCode": "2025",
+      "questionText": "Supreme Court justices serve for life. Why?",
+      "answerText": "To be independent , of politics,",
+      "questionHash": "ad61fba58a8fe1100489bd9f9c904b60d4d44c16e7615cc98b36a9a09d93f91b",
+      "answerHash": "c525de1ee119caa8ed71df6f9dd0ad57b6b6866eca647b3e86abf59fd36e5536",
+      "questionFile": "USCIS-2025-056-question.mp3",
+      "answerFile": "USCIS-2025-056-answer.mp3"
+    },
+    "USCIS-2025-057": {
+      "versionCode": "2025",
+      "questionText": "Who is the Chief Justice of the United States now?",
+      "answerText": "John Roberts",
+      "questionHash": "db9bb264e26d560a77cc0fe76129dbeabeda2fe67ab3b5cb52077b118842a2fe",
+      "answerHash": "534bbda21ee2b26a22baec435d295e9f9b6abc343a1c43e35d87282aa9bc6d60",
+      "questionFile": "USCIS-2025-057-question.mp3",
+      "answerFile": "USCIS-2025-057-answer.mp3"
+    },
+    "USCIS-2025-058": {
+      "versionCode": "2025",
+      "questionText": "Name one power that is only for the federal government.",
+      "answerText": "Print paper money",
+      "questionHash": "5d22f52ede482cb6d1cd49f8c77938a781a11ac08df30b7fa9a49d0bf39cfc6d",
+      "answerHash": "59726c2b682f8ce741354b1b1bcc422c0e9a7af01a1a247b0ecf04233a9fa8fe",
+      "questionFile": "USCIS-2025-058-question.mp3",
+      "answerFile": "USCIS-2025-058-answer.mp3"
+    },
+    "USCIS-2025-059": {
+      "versionCode": "2025",
+      "questionText": "Name one power that is only for the states.",
+      "answerText": "Provide schooling and education",
+      "questionHash": "a0da6e0c01b9a8e79375a65267b6c021120de71dc79074060772bd5b1c4c7980",
+      "answerHash": "8d44de8673a7bee1f99d7252d77f654f71a39732c818f45c51771bce9cf97eed",
+      "questionFile": "USCIS-2025-059-question.mp3",
+      "answerFile": "USCIS-2025-059-answer.mp3"
+    },
+    "USCIS-2025-060": {
+      "versionCode": "2025",
+      "questionText": "What is the purpose of the 10th Amendment?",
+      "answerText": ", It states that the, powers not given to the federal government belong to the states or to the people.",
+      "questionHash": "7c75d8ef15e019e2227cc8e8ee58e3d13b8e64ed1ef9318b520e46ab64dd583c",
+      "answerHash": "391bcd639a1b1be33440c04d58355bf1f6ed0b5c44880b035d55e8d6a5c68820",
+      "questionFile": "USCIS-2025-060-question.mp3",
+      "answerFile": "USCIS-2025-060-answer.mp3"
+    },
+    "USCIS-2025-061": {
+      "versionCode": "2025",
+      "questionText": "Who is the governor of your state now?",
+      "answerText": "Answers will vary. [District of Columbia residents should answer that D.C. does not have a Governor.] Visit usa.gov or states-and-territories to find the Governor of your state.",
+      "questionHash": "02b24b9aa9b74ebf1346b58e1950557498695276782819615b937a15b970691f",
+      "answerHash": "0719d6f12959bd349f6f6011590c7a72e12c7fac1eead7538f6ed322f6d82e19",
+      "questionFile": "USCIS-2025-061-question.mp3",
+      "answerFile": "USCIS-2025-061-answer.mp3"
+    },
+    "USCIS-2025-062": {
+      "versionCode": "2025",
+      "questionText": "What is the capital of your state?",
+      "answerText": "Answers will vary. [District of Columbia residents should answer that D.C. is not a state and does not have a capital. Residents of United States. territories should name the capital of the territory.]",
+      "questionHash": "1d4df49031a5d30bc098791a29a3fd6a68b258a4cf1b174becbbc4919058acd3",
+      "answerHash": "5c31d7d27c67271b7cc4111169471777ca84def4cc12bfd2587daf7304064f8f",
+      "questionFile": "USCIS-2025-062-question.mp3",
+      "answerFile": "USCIS-2025-062-answer.mp3"
+    },
+    "USCIS-2025-063": {
+      "versionCode": "2025",
+      "questionText": "There are four amendments to the United States. Constitution about who can vote. Describe one of them.",
+      "answerText": "Citizens eighteen , 18, and older , can vote, .",
+      "questionHash": "3c79f064a5dd7b55c6c5ccc180b7d0dec338fd53859b8329c2823c25e64ba602",
+      "answerHash": "f6025958b6c86ea052279b9402e02b05865ac4a299987f50193e1c8ab4143139",
+      "questionFile": "USCIS-2025-063-question.mp3",
+      "answerFile": "USCIS-2025-063-answer.mp3"
+    },
+    "USCIS-2025-064": {
+      "versionCode": "2025",
+      "questionText": "Who can vote in federal elections, run for federal office, and serve on a jury in the United States?",
+      "answerText": "Citizens",
+      "questionHash": "396d84de7f3b79b81b6df0de82177a28ea638a451a7009eeab8096db125f453a",
+      "answerHash": "fb2c05de38236c1af8c0b12567f5b599d8d1c4ea1cf599a1a0bb16b5e0bf02ea",
+      "questionFile": "USCIS-2025-064-question.mp3",
+      "answerFile": "USCIS-2025-064-answer.mp3"
+    },
+    "USCIS-2025-065": {
+      "versionCode": "2025",
+      "questionText": "What are three rights of everyone living in the United States?",
+      "answerText": "Freedom of expression",
+      "questionHash": "2d7149399356a9b8dda316771157c1a448aa07184eb19852b5d377e81346fca4",
+      "answerHash": "48bda59574cf6aeb496daeb3962374dce9c83f21a0a0db122d0846658d75e2b6",
+      "questionFile": "USCIS-2025-065-question.mp3",
+      "answerFile": "USCIS-2025-065-answer.mp3"
+    },
+    "USCIS-2025-066": {
+      "versionCode": "2025",
+      "questionText": "What do we show loyalty to when we say the Pledge of Allegiance?",
+      "answerText": "The United States",
+      "questionHash": "044c22027ea27082a3b17cd0cfe4578cf78eab87afeaf232e41448b8d36592b8",
+      "answerHash": "c521d982d249bce67016507f5a28a88d9f34722f7e43fcb9dcc5f830af87690e",
+      "questionFile": "USCIS-2025-066-question.mp3",
+      "answerFile": "USCIS-2025-066-answer.mp3"
+    },
+    "USCIS-2025-067": {
+      "versionCode": "2025",
+      "questionText": "Name two promises that new citizens make in the Oath of Allegiance.",
+      "answerText": "Give up loyalty to other countries",
+      "questionHash": "8143a707d6e1835dc0ad595b68505b32f852c3d163d98547feafbcbf921c7551",
+      "answerHash": "46ea1aa3730773d66fc82e7081e8e8892a693c228bd84e02b4a6addfbab3ecd1",
+      "questionFile": "USCIS-2025-067-question.mp3",
+      "answerFile": "USCIS-2025-067-answer.mp3"
+    },
+    "USCIS-2025-068": {
+      "versionCode": "2025",
+      "questionText": "How can people become United States citizens?",
+      "answerText": "Be born in the United States, under the conditions set by the 14th Amendment",
+      "questionHash": "ad25cf6f2b279c41ad6c6c0017c2853623e4ccd47dfe87d2f0169d78ea17f636",
+      "answerHash": "a38ddd99a0fcb9407df119c1c7336ca4f52907fdf3e72219eb9951bf93f8cf79",
+      "questionFile": "USCIS-2025-068-question.mp3",
+      "answerFile": "USCIS-2025-068-answer.mp3"
+    },
+    "USCIS-2025-069": {
+      "versionCode": "2025",
+      "questionText": "What are two examples of civic participation in the United States?",
+      "answerText": "Vote",
+      "questionHash": "696560974189636107229411ce3c4d72a4a9a2cd5f1725e1069fbb480ac5a712",
+      "answerHash": "5403bbf89b13e2298e6ed361606745e63ba3e3c4563eee1fb73df358981902c7",
+      "questionFile": "USCIS-2025-069-question.mp3",
+      "answerFile": "USCIS-2025-069-answer.mp3"
+    },
+    "USCIS-2025-070": {
+      "versionCode": "2025",
+      "questionText": "What is one way Americans can serve their country?",
+      "answerText": "Vote",
+      "questionHash": "1eb2e8f4313dd4b30cc13d72beedca5250f00e8c13e7d3592ca83d4ad36ea2e4",
+      "answerHash": "5403bbf89b13e2298e6ed361606745e63ba3e3c4563eee1fb73df358981902c7",
+      "questionFile": "USCIS-2025-070-question.mp3",
+      "answerFile": "USCIS-2025-070-answer.mp3"
+    },
+    "USCIS-2025-071": {
+      "versionCode": "2025",
+      "questionText": "Why is it important to pay federal taxes?",
+      "answerText": "Required by law",
+      "questionHash": "f468834f5b0995301a86f2db6ee1b00025485cf10f680dce38a0de256ebc651f",
+      "answerHash": "3f190a197af6af6b342897c40f62dbb09caba509d01fd6f651cc2ac9fb699cd5",
+      "questionFile": "USCIS-2025-071-question.mp3",
+      "answerFile": "USCIS-2025-071-answer.mp3"
+    },
+    "USCIS-2025-072": {
+      "versionCode": "2025",
+      "questionText": "It is important for all men age 18 through 25 to register for the Selective Service. Name one reason why.",
+      "answerText": "Required by law",
+      "questionHash": "d99cc27e56af4aa97243d8ac1d1e7ab1ac4ea8fe4c49e20dd9a8264437caca27",
+      "answerHash": "3f190a197af6af6b342897c40f62dbb09caba509d01fd6f651cc2ac9fb699cd5",
+      "questionFile": "USCIS-2025-072-question.mp3",
+      "answerFile": "USCIS-2025-072-answer.mp3"
+    },
+    "USCIS-2025-073": {
+      "versionCode": "2025",
+      "questionText": "The colonists came to America for many reasons. Name one.",
+      "answerText": "Freedom",
+      "questionHash": "73d7c3c0a33d40bead34403fd6fe271ee413b2f84b4d313ab1f330fb6bc822b4",
+      "answerHash": "ba8e9941b4239c01550fc36e83b671c82f8eb35a800750befb0e90b488cbf5f0",
+      "questionFile": "USCIS-2025-073-question.mp3",
+      "answerFile": "USCIS-2025-073-answer.mp3"
+    },
+    "USCIS-2025-074": {
+      "versionCode": "2025",
+      "questionText": "Who lived in America before the Europeans arrived?",
+      "answerText": "American Indians",
+      "questionHash": "23730eed00883cf8e754bb2b3babaedc16ef55fd0a880080cf93cb68a4f4283c",
+      "answerHash": "59f5b61f112dd7aef423bcd41628b2fdece4b4e5a8b20ce74584134ed54ddef6",
+      "questionFile": "USCIS-2025-074-question.mp3",
+      "answerFile": "USCIS-2025-074-answer.mp3"
+    },
+    "USCIS-2025-075": {
+      "versionCode": "2025",
+      "questionText": "What group of people was taken and sold as slaves?",
+      "answerText": "Africans",
+      "questionHash": "fa408ce63f837a8ecb9ad09d063560429b2d39374d2a4c48a6d5ec069445dc71",
+      "answerHash": "d85365cde232fff606b73bd16586021d431ed25fbda06944cd2ab345d9454fb2",
+      "questionFile": "USCIS-2025-075-question.mp3",
+      "answerFile": "USCIS-2025-075-answer.mp3"
+    },
+    "USCIS-2025-076": {
+      "versionCode": "2025",
+      "questionText": "What war did the Americans fight to win independence from Britain?",
+      "answerText": "American Revolution",
+      "questionHash": "bdd6ab2c0e6d0a7827b7ed8edfe2777b4d0d9f5ebca3bbf74a282d0bbeb75223",
+      "answerHash": "5bfba67253121cdfbb14baa1f1da53500e49064f95c6fe6d226e1f470f9bbf68",
+      "questionFile": "USCIS-2025-076-question.mp3",
+      "answerFile": "USCIS-2025-076-answer.mp3"
+    },
+    "USCIS-2025-077": {
+      "versionCode": "2025",
+      "questionText": "Name one reason why the Americans declared independence from Britain.",
+      "answerText": "High taxes",
+      "questionHash": "d00e3a4a3b4a4e4b5b9b1e735e5a9257dedabfccdfaea3011210790a0bd03b3d",
+      "answerHash": "9310aa47e80b977be9f90915efda0b58740e153172429070f809d2ea9794fde1",
+      "questionFile": "USCIS-2025-077-question.mp3",
+      "answerFile": "USCIS-2025-077-answer.mp3"
+    },
+    "USCIS-2025-078": {
+      "versionCode": "2025",
+      "questionText": "Who wrote the Declaration of Independence?",
+      "answerText": ", Thomas, Jefferson",
+      "questionHash": "c05ae8483315bcdbd3fc5533ef7aeb971d8c81653de032a7997d317a62c7d284",
+      "answerHash": "09fc0710c510441c944d91d62acce2f9a5b4669b07c1fb1b2e5609d8d2c01f4d",
+      "questionFile": "USCIS-2025-078-question.mp3",
+      "answerFile": "USCIS-2025-078-answer.mp3"
+    },
+    "USCIS-2025-079": {
+      "versionCode": "2025",
+      "questionText": "When was the Declaration of Independence adopted?",
+      "answerText": "July 4, 1776",
+      "questionHash": "4240c9fc06c28372b4aaf3f33b65596f380b2b362146fd861276e00dd4ee206e",
+      "answerHash": "01bdc682d35d8084760d30cadd05f2d04c9fe55537a1370de6394ce6c148b96e",
+      "questionFile": "USCIS-2025-079-question.mp3",
+      "answerFile": "USCIS-2025-079-answer.mp3"
+    },
+    "USCIS-2025-080": {
+      "versionCode": "2025",
+      "questionText": "The American Revolution had many important events. Name one.",
+      "answerText": ", Battle of, Bunker Hill",
+      "questionHash": "11900ae34255c4c764ec52018dbe6ee56ed2bf3eebe0ed297eb492e0162b8dfe",
+      "answerHash": "a96b4f0cd493e8b595f988de90aa86ea208700f9aef8e528135e2c6330f9391d",
+      "questionFile": "USCIS-2025-080-question.mp3",
+      "answerFile": "USCIS-2025-080-answer.mp3"
+    },
+    "USCIS-2025-081": {
+      "versionCode": "2025",
+      "questionText": "There were 13 original states. Name five.",
+      "answerText": "New Hampshire",
+      "questionHash": "cf1980ca1f0f2babc92274150f7190be72411ab070540c4afc767845568761e6",
+      "answerHash": "e0bb3891119047932bb9d3568aa9323389aedf1a625a022b33e2a6a4684c46ac",
+      "questionFile": "USCIS-2025-081-question.mp3",
+      "answerFile": "USCIS-2025-081-answer.mp3"
+    },
+    "USCIS-2025-082": {
+      "versionCode": "2025",
+      "questionText": "What founding document was written in 1787?",
+      "answerText": ", United States., Constitution",
+      "questionHash": "ebf0ec1586f28b8f2913279fe501cc0e1795ba896a6f3626743ef088bf19b0fc",
+      "answerHash": "a49be10cbcce24347548ff9d30ef1f05589badb0d35e5c846587a1cf7a1cbd11",
+      "questionFile": "USCIS-2025-082-question.mp3",
+      "answerFile": "USCIS-2025-082-answer.mp3"
+    },
+    "USCIS-2025-083": {
+      "versionCode": "2025",
+      "questionText": "The Federalist Papers supported the passage of the United States. Constitution. Name one of the writers.",
+      "answerText": ", James, Madison",
+      "questionHash": "a9a2d30f504c5d82259aabf7e7082748c5288b5b188520e989cc7c283ea45cb4",
+      "answerHash": "a071b474711bf7924f8b82fb9e7186c2d29aabd601afeb87707ba543b743f2de",
+      "questionFile": "USCIS-2025-083-question.mp3",
+      "answerFile": "USCIS-2025-083-answer.mp3"
+    },
+    "USCIS-2025-084": {
+      "versionCode": "2025",
+      "questionText": "Why were the Federalist Papers important?",
+      "answerText": "They helped people understand the , United States., Constitution.",
+      "questionHash": "89992e9ed28a3cc680194415596a882cd34b7ad20f482b56c676f509220eba85",
+      "answerHash": "09732ae6943bb2a7d24ff2f64e582138fddfe8f85ae0779a02de32d9d49dfb41",
+      "questionFile": "USCIS-2025-084-question.mp3",
+      "answerFile": "USCIS-2025-084-answer.mp3"
+    },
+    "USCIS-2025-085": {
+      "versionCode": "2025",
+      "questionText": "Benjamin Franklin is famous for many things. Name one.",
+      "answerText": "Founded the first free public libraries",
+      "questionHash": "95a07f94cc12d1dfbf941cbcbcc2fcfa703f7ee940f1e0e6f7bc8629dd9da794",
+      "answerHash": "8b19a42e01467d56a1bac839c01d22a5817aceb489167fa93733cb56ad6ccdfa",
+      "questionFile": "USCIS-2025-085-question.mp3",
+      "answerFile": "USCIS-2025-085-answer.mp3"
+    },
+    "USCIS-2025-086": {
+      "versionCode": "2025",
+      "questionText": "George Washington is famous for many things. Name one.",
+      "answerText": "“Father of Our Country”",
+      "questionHash": "68790c15c4d5b2bb5cf12c1a752282498a6ccefbfc3f5aa2884d113388d065e8",
+      "answerHash": "8ec019625c4af4929985db05d99f863e29aa439bf7450693ea775339b987d7a6",
+      "questionFile": "USCIS-2025-086-question.mp3",
+      "answerFile": "USCIS-2025-086-answer.mp3"
+    },
+    "USCIS-2025-087": {
+      "versionCode": "2025",
+      "questionText": "Thomas Jefferson is famous for many things. Name one.",
+      "answerText": "Writer of the Declaration of Independence",
+      "questionHash": "7afbd3b09084121e817c3330c522ade52ff2ec1a6ec36508e736561570a4d282",
+      "answerHash": "90a7e5488a9fcc3b0f56d1fdb5c77714d558ea03cd2c75cac593b138b076d7c1",
+      "questionFile": "USCIS-2025-087-question.mp3",
+      "answerFile": "USCIS-2025-087-answer.mp3"
+    },
+    "USCIS-2025-088": {
+      "versionCode": "2025",
+      "questionText": "James Madison is famous for many things. Name one.",
+      "answerText": "“Father of the Constitution”",
+      "questionHash": "e051080d23015a6a2a1f64b82e46ceea6339447a15b5aee610fd65666dd794c6",
+      "answerHash": "4eb54d798b1b5be808b1a42b5a2304c2a8b1b626ddee270c96fcc2355a95fc65",
+      "questionFile": "USCIS-2025-088-question.mp3",
+      "answerFile": "USCIS-2025-088-answer.mp3"
+    },
+    "USCIS-2025-089": {
+      "versionCode": "2025",
+      "questionText": "Alexander Hamilton is famous for many things. Name one.",
+      "answerText": "First Secretary of the Treasury",
+      "questionHash": "e93f129e7e029bdf0050d22e8aa1f99764743a2e6eb3ac711f336b04d8439156",
+      "answerHash": "7b77403e1b4ffcdfbc990b961cfa1ad2597df9c24d3c77cc4c4b9e0358418cdc",
+      "questionFile": "USCIS-2025-089-question.mp3",
+      "answerFile": "USCIS-2025-089-answer.mp3"
+    },
+    "USCIS-2025-090": {
+      "versionCode": "2025",
+      "questionText": "What territory did the United States buy from France in 1803?",
+      "answerText": "Louisiana Territory",
+      "questionHash": "4f25e8fcc1f03a449594200031fc71de5438c1405f97081a06c686fc8dbfe752",
+      "answerHash": "1a8b8298feec521819246110b6f2c9ee4cab8319ab1056241678e8f5ce2937c0",
+      "questionFile": "USCIS-2025-090-question.mp3",
+      "answerFile": "USCIS-2025-090-answer.mp3"
+    },
+    "USCIS-2025-091": {
+      "versionCode": "2025",
+      "questionText": "Name one war fought by the United States in the 1800s.",
+      "answerText": "War of 1812",
+      "questionHash": "dc84ae308906923bd2e70463518074dd42b8b1e2e20a4b6c7858542f08cb8525",
+      "answerHash": "7b3782d143bef4f016569c5baccf14df8db5b408923600a0078667644c360331",
+      "questionFile": "USCIS-2025-091-question.mp3",
+      "answerFile": "USCIS-2025-091-answer.mp3"
+    },
+    "USCIS-2025-092": {
+      "versionCode": "2025",
+      "questionText": "Name the United States. war between the North and the South.",
+      "answerText": "The Civil War",
+      "questionHash": "f3617287b434fa306cd4e91b9e3c6dd2cdd5b97cc4a943ff4ff24647bdcf0cd9",
+      "answerHash": "7965f41f134f46a5ff1c66c88edf39d00dc165834ab62024728c0ded36a7eaf3",
+      "questionFile": "USCIS-2025-092-question.mp3",
+      "answerFile": "USCIS-2025-092-answer.mp3"
+    },
+    "USCIS-2025-093": {
+      "versionCode": "2025",
+      "questionText": "The Civil War had many important events. Name one.",
+      "answerText": ", Battle of, Fort Sumter",
+      "questionHash": "74cd85352546951966cefd5bf6bde2120ea1abd0e02f8ce54eff650b3865b6c3",
+      "answerHash": "beadcc5d0fe1ac4548cbd6af4dec55c21ab92d2974c07e6cdf001412042cb505",
+      "questionFile": "USCIS-2025-093-question.mp3",
+      "answerFile": "USCIS-2025-093-answer.mp3"
+    },
+    "USCIS-2025-094": {
+      "versionCode": "2025",
+      "questionText": "Abraham Lincoln is famous for many things. Name one.",
+      "answerText": "Freed the slaves , Emancipation Proclamation,",
+      "questionHash": "ab4c533b9320ce177703594d478ea95b099d629f3c8e2ff5b7101db6cca49e23",
+      "answerHash": "335d4606d9d211636505c602f4ae546f12054b057ba974a0c41e3ac0a70887d2",
+      "questionFile": "USCIS-2025-094-question.mp3",
+      "answerFile": "USCIS-2025-094-answer.mp3"
+    },
+    "USCIS-2025-095": {
+      "versionCode": "2025",
+      "questionText": "What did the Emancipation Proclamation do?",
+      "answerText": "Freed the slaves",
+      "questionHash": "4a92c96749a02c1b0a3af3b98089efe5a8e546297e39fcc6da93fa0ff7038dcb",
+      "answerHash": "d697c099fe06f42be2e833767d35f92037d2226c4a58594b52784de232aea4d0",
+      "questionFile": "USCIS-2025-095-question.mp3",
+      "answerFile": "USCIS-2025-095-answer.mp3"
+    },
+    "USCIS-2025-096": {
+      "versionCode": "2025",
+      "questionText": "What United States. war ended slavery?",
+      "answerText": "The Civil War",
+      "questionHash": "414e34e86316eea3eeaf8a66155515e2db9513aedc898eaf3bbfd38660e083bb",
+      "answerHash": "7965f41f134f46a5ff1c66c88edf39d00dc165834ab62024728c0ded36a7eaf3",
+      "questionFile": "USCIS-2025-096-question.mp3",
+      "answerFile": "USCIS-2025-096-answer.mp3"
+    },
+    "USCIS-2025-097": {
+      "versionCode": "2025",
+      "questionText": "What amendment says all persons born or naturalized in the United States, and subject to the jurisdiction thereof, are United States. citizens?",
+      "answerText": "14th Amendment",
+      "questionHash": "3fc5ffa013a9e686a80d033fff64e7c4a1af8261b556ad8a9b22f80ce0fa7a86",
+      "answerHash": "00cf506cfe2f14e46022677ffd8a32117237f0ab6f0bb4ab9e71bc0f0cf08c72",
+      "questionFile": "USCIS-2025-097-question.mp3",
+      "answerFile": "USCIS-2025-097-answer.mp3"
+    },
+    "USCIS-2025-098": {
+      "versionCode": "2025",
+      "questionText": "When did all men get the right to vote?",
+      "answerText": "After the Civil War",
+      "questionHash": "9569da92d5f466fab0107e15b763dc897743d9ee5345e9463a4489905a872fb2",
+      "answerHash": "83cddf330ce50caa2033b12ce99b4ad22b925d03b082ec4af60852e0f649f78f",
+      "questionFile": "USCIS-2025-098-question.mp3",
+      "answerFile": "USCIS-2025-098-answer.mp3"
+    },
+    "USCIS-2025-099": {
+      "versionCode": "2025",
+      "questionText": "Name one leader of the women’s rights movement in the 1800s.",
+      "answerText": "Susan B. Anthony",
+      "questionHash": "a24dc16f06834a5860f35776d390a35ae83e08f46e7b3595cc6abe9637003e77",
+      "answerHash": "96ef607fe2db87367ade64511ba427811e8dc2fd8df052241275315b1b354b85",
+      "questionFile": "USCIS-2025-099-question.mp3",
+      "answerFile": "USCIS-2025-099-answer.mp3"
+    },
+    "USCIS-2025-100": {
+      "versionCode": "2025",
+      "questionText": "Name one war fought by the United States in the 1900s.",
+      "answerText": "World War I",
+      "questionHash": "7b8fb0fe5649ab3d91107c248b8fe43e73dc088d4abee7f1f4c6f3e44d0ae697",
+      "answerHash": "42f40ac2f5c663dcfce7e1582807ba9f0114aa7b53e7b20676aff07412d11f14",
+      "questionFile": "USCIS-2025-100-question.mp3",
+      "answerFile": "USCIS-2025-100-answer.mp3"
+    },
+    "USCIS-2025-101": {
+      "versionCode": "2025",
+      "questionText": "Why did the United States enter World War I?",
+      "answerText": "Because Germany attacked United States. , civilian, ships",
+      "questionHash": "66b78bb731117d5e42d996ae369d2ead97eed474e0435efb1ec1d66da44c5fc3",
+      "answerHash": "b7e3a8e32bd3a0ba8489145135da19818bca64db75ccd0c0cd1387ffcf54ba18",
+      "questionFile": "USCIS-2025-101-question.mp3",
+      "answerFile": "USCIS-2025-101-answer.mp3"
+    },
+    "USCIS-2025-102": {
+      "versionCode": "2025",
+      "questionText": "When did all women get the right to vote?",
+      "answerText": "1920",
+      "questionHash": "e761868d770acb5d70ded3e128341db54e6ff9d13a5d53331a2c8a4453ff29a7",
+      "answerHash": "ed490f22d0b8dda3142c8d391c8a12422a92f924909c6cfc10b93712353c6e16",
+      "questionFile": "USCIS-2025-102-question.mp3",
+      "answerFile": "USCIS-2025-102-answer.mp3"
+    },
+    "USCIS-2025-103": {
+      "versionCode": "2025",
+      "questionText": "What was the Great Depression?",
+      "answerText": "Longest economic recession in modern history",
+      "questionHash": "4cb589326cd05dbcec0914eef40a50f0876d945e48f44d402ad641bb9c8f43a3",
+      "answerHash": "a1406f84e275a11b7aea0451db92ec791226f0677c6a80e96a0aa1cedc4886dc",
+      "questionFile": "USCIS-2025-103-question.mp3",
+      "answerFile": "USCIS-2025-103-answer.mp3"
+    },
+    "USCIS-2025-104": {
+      "versionCode": "2025",
+      "questionText": "When did the Great Depression start?",
+      "answerText": "The Great Crash , 1929,",
+      "questionHash": "afcc28912cbece0b6e2ddbc5572748f5078606ddc99e5cc780257e5f4e313f41",
+      "answerHash": "3633e32fbb69739897fd2a0c3810c68a4561d2cf6bf0eacfc0cf96f9f3463ada",
+      "questionFile": "USCIS-2025-104-question.mp3",
+      "answerFile": "USCIS-2025-104-answer.mp3"
+    },
+    "USCIS-2025-105": {
+      "versionCode": "2025",
+      "questionText": "Who was president during the Great Depression and World War II?",
+      "answerText": ", Franklin, Roosevelt",
+      "questionHash": "46e2a6c92a5c92bf12d7b1d73b4b0fbded81120100c9b3f8eda04d6d580fcf67",
+      "answerHash": "399122a807fb50ed835c1a76563790b9ff56a3ed713337dcb336b2084ae6dc59",
+      "questionFile": "USCIS-2025-105-question.mp3",
+      "answerFile": "USCIS-2025-105-answer.mp3"
+    },
+    "USCIS-2025-106": {
+      "versionCode": "2025",
+      "questionText": "Why did the United States enter World War II?",
+      "answerText": ", Bombing of, Pearl Harbor",
+      "questionHash": "1cd93adce56d808d843c3ab4f0beb97eefcafb02286b14f72729474b930655c5",
+      "answerHash": "dd832338be118e8810548bfec06115c6f8e40a0dacf7453a43c80fb6544389e7",
+      "questionFile": "USCIS-2025-106-question.mp3",
+      "answerFile": "USCIS-2025-106-answer.mp3"
+    },
+    "USCIS-2025-107": {
+      "versionCode": "2025",
+      "questionText": "Dwight Eisenhower is famous for many things. Name one.",
+      "answerText": "General during World War II",
+      "questionHash": "25cc59005c325b911e923adb270508ded369232faf4649029c97280d25f05b42",
+      "answerHash": "3a6d4f694c84c58f9754387c2120eb86df7c4de88fdbd9c7377ffcc9e66ef8e9",
+      "questionFile": "USCIS-2025-107-question.mp3",
+      "answerFile": "USCIS-2025-107-answer.mp3"
+    },
+    "USCIS-2025-108": {
+      "versionCode": "2025",
+      "questionText": "Who was the United States’ main rival during the Cold War?",
+      "answerText": "Soviet Union",
+      "questionHash": "b94ac2152a08cd2b5b4a0ee8aa289668dbc8522b7b710995d76e6609ca7be369",
+      "answerHash": "561e0cb5e10382b75ed8d5cc2ab3026ef3e3394537d2d566f0a965d935ddc5ed",
+      "questionFile": "USCIS-2025-108-question.mp3",
+      "answerFile": "USCIS-2025-108-answer.mp3"
+    },
+    "USCIS-2025-109": {
+      "versionCode": "2025",
+      "questionText": "During the Cold War, what was one main concern of the United States?",
+      "answerText": "Communism",
+      "questionHash": "2786fc992241a00dd3ce2bbb214925da32362ee6256095852d69a52248bfb516",
+      "answerHash": "5432dd47ef52703dc185e1d09ceb6f88727223e50a48aad6de10b821b76f0425",
+      "questionFile": "USCIS-2025-109-question.mp3",
+      "answerFile": "USCIS-2025-109-answer.mp3"
+    },
+    "USCIS-2025-110": {
+      "versionCode": "2025",
+      "questionText": "Why did the United States enter the Korean War?",
+      "answerText": "To stop the spread of communism",
+      "questionHash": "95cecfcd12d9927a62ed14f91bea1fb915556d3b6b449fb7bac384c42962b1b6",
+      "answerHash": "a044428501e473f78773451737611a08692c6b3a2d4ab0f3cf9b16c93bcf7480",
+      "questionFile": "USCIS-2025-110-question.mp3",
+      "answerFile": "USCIS-2025-110-answer.mp3"
+    },
+    "USCIS-2025-111": {
+      "versionCode": "2025",
+      "questionText": "Why did the United States enter the Vietnam War?",
+      "answerText": "To stop the spread of communism",
+      "questionHash": "7bb9a6f8df5a8786ac52a618bff6b0db50aff737091f0083f2f824c69c223730",
+      "answerHash": "a044428501e473f78773451737611a08692c6b3a2d4ab0f3cf9b16c93bcf7480",
+      "questionFile": "USCIS-2025-111-question.mp3",
+      "answerFile": "USCIS-2025-111-answer.mp3"
+    },
+    "USCIS-2025-112": {
+      "versionCode": "2025",
+      "questionText": "What did the civil rights movement do?",
+      "answerText": "Fought to end racial discrimination",
+      "questionHash": "b7bafb7b8c3f19cf1cec2ff367afb30a96be945d9cc5209990952bb98bf8f184",
+      "answerHash": "74a8975a4886593e128c875c8defff58b70f706a75c87d69535d427e48529259",
+      "questionFile": "USCIS-2025-112-question.mp3",
+      "answerFile": "USCIS-2025-112-answer.mp3"
+    },
+    "USCIS-2025-113": {
+      "versionCode": "2025",
+      "questionText": "Martin Luther King, Jr. is famous for many things. Name one.",
+      "answerText": "Fought for civil rights",
+      "questionHash": "2c2e7b06a176375c692d67a1a4fd0b188863df581d9e2f32ed4361608f163fb7",
+      "answerHash": "8dbb7fce0953bdf1875838068bd8b6c74cf5d03f50f2edcb434d3c46dc22caa2",
+      "questionFile": "USCIS-2025-113-question.mp3",
+      "answerFile": "USCIS-2025-113-answer.mp3"
+    },
+    "USCIS-2025-114": {
+      "versionCode": "2025",
+      "questionText": "Why did the United States enter the Persian Gulf War?",
+      "answerText": "To force the Iraqi military from Kuwait",
+      "questionHash": "ad183c884acf55e2d6272d1458727c04dc197b949efc741d5653cbebe5256cee",
+      "answerHash": "efc98e3e960f53adab864563b8e9764ffaa81781514c2d33a7844a2e0ea5e56f",
+      "questionFile": "USCIS-2025-114-question.mp3",
+      "answerFile": "USCIS-2025-114-answer.mp3"
+    },
+    "USCIS-2025-115": {
+      "versionCode": "2025",
+      "questionText": "What major event happened on September 11, 2001 in the United States?",
+      "answerText": "Terrorists attacked the United States",
+      "questionHash": "5770d4085c03a66340b1ac87846475b099c345c81b567ca173935b0b909e2d6c",
+      "answerHash": "bb05a27878c0b87f0aa8d422fc3dc62f1f205a7485e7a9285e590dc98219fd65",
+      "questionFile": "USCIS-2025-115-question.mp3",
+      "answerFile": "USCIS-2025-115-answer.mp3"
+    },
+    "USCIS-2025-116": {
+      "versionCode": "2025",
+      "questionText": "Name one United States. military conflict after the September 11, 2001 attacks.",
+      "answerText": ", Global, War on Terror",
+      "questionHash": "957632f75a656504d18ede0a2d886124021abc604e5cdb102430ce4d9c43d6cd",
+      "answerHash": "e6113c5e1765448423c529f03977ebc6626d40df8bc3dbbf5a58acb461ca6bc1",
+      "questionFile": "USCIS-2025-116-question.mp3",
+      "answerFile": "USCIS-2025-116-answer.mp3"
+    },
+    "USCIS-2025-117": {
+      "versionCode": "2025",
+      "questionText": "Name one American Indian tribe in the United States.",
+      "answerText": "Apache",
+      "questionHash": "6035fe2b0fa3e1fa56c20cb25a211af8692e9600e66cf65d2c0177b749615a34",
+      "answerHash": "18aa13eaade72996dc639e0a7fde510fe3dc16b02f7a4692833fa1d6323c225a",
+      "questionFile": "USCIS-2025-117-question.mp3",
+      "answerFile": "USCIS-2025-117-answer.mp3"
+    },
+    "USCIS-2025-118": {
+      "versionCode": "2025",
+      "questionText": "Name one example of an American innovation.",
+      "answerText": "Light bulb",
+      "questionHash": "231ff8bf1d77a2f2e2acb7d2cbed08cc6163d215f4a5dd85bad67aab568f4fce",
+      "answerHash": "4864ac0d0a1bc6979db417b331fffe9c706ebb0b97a2a8d5cfaf78c6efaaa715",
+      "questionFile": "USCIS-2025-118-question.mp3",
+      "answerFile": "USCIS-2025-118-answer.mp3"
+    },
+    "USCIS-2025-119": {
+      "versionCode": "2025",
+      "questionText": "What is the capital of the United States?",
+      "answerText": "Washington, D.C.",
+      "questionHash": "21035e2338ebcecb2f452d69a67cd730723ecb1ee9ae34d2a77651aecb21b2ab",
+      "answerHash": "e205f1cbd155c5d1528dbcdbdeb7c9e25c3b3cc18e780ceae1d9e45029c92bcf",
+      "questionFile": "USCIS-2025-119-question.mp3",
+      "answerFile": "USCIS-2025-119-answer.mp3"
+    },
+    "USCIS-2025-120": {
+      "versionCode": "2025",
+      "questionText": "Where is the Statue of Liberty?",
+      "answerText": "New York , Harbor,",
+      "questionHash": "cf5de01dd2765cb2c1d9d301eeab4be48565d0ff05a0e8ba5274192527fb5d51",
+      "answerHash": "33aa48ae5c78feeb622d7968fb0195340319eec498cfc8ed5dcb293e22b34634",
+      "questionFile": "USCIS-2025-120-question.mp3",
+      "answerFile": "USCIS-2025-120-answer.mp3"
+    },
+    "USCIS-2025-121": {
+      "versionCode": "2025",
+      "questionText": "Why does the flag have 13 stripes?",
+      "answerText": ", Because there were, 13 original colonies",
+      "questionHash": "82932cd52f1fcc69b1a4b9eb4db60ac4571764d4e0f8860fac7c383eed547a02",
+      "answerHash": "320184e91a361bdce4820806813a0c704eef45907cf6f38d97f4f39227f4626d",
+      "questionFile": "USCIS-2025-121-question.mp3",
+      "answerFile": "USCIS-2025-121-answer.mp3"
+    },
+    "USCIS-2025-122": {
+      "versionCode": "2025",
+      "questionText": "Why does the flag have 50 stars?",
+      "answerText": ", Because there is, one star for each state",
+      "questionHash": "694a6f2400eefb5c5d4403c768a8b1251334c3dfe4111cb6ff96f889764e7ebb",
+      "answerHash": "1619d686b4cdb540afe4c963af41b702e683937776e3864e70d738bddc067710",
+      "questionFile": "USCIS-2025-122-question.mp3",
+      "answerFile": "USCIS-2025-122-answer.mp3"
+    },
+    "USCIS-2025-123": {
+      "versionCode": "2025",
+      "questionText": "What is the name of the national anthem?",
+      "answerText": "The Star-Spangled Banner",
+      "questionHash": "0d6336f2832aa7d7e739c1c65a30af134089cc30c5748afa3a0d061f1e03d3da",
+      "answerHash": "3d0b2b42e2a3711ad253d85a1f8df3bd635ac36a1768ab7597bd0c7cc2c092f0",
+      "questionFile": "USCIS-2025-123-question.mp3",
+      "answerFile": "USCIS-2025-123-answer.mp3"
+    },
+    "USCIS-2025-124": {
+      "versionCode": "2025",
+      "questionText": "The Nation’s first motto was “E Pluribus Unum.” What does that mean?",
+      "answerText": "Out of many, one",
+      "questionHash": "f3acfcb2c59ef013b9f60172e2413824b84f95712be6a5932b63c1df6d04a31d",
+      "answerHash": "620846b9a0454b2b8b793a1d91f3b6d5fd6a87724a9d6b6b4997aa702ea07ca8",
+      "questionFile": "USCIS-2025-124-question.mp3",
+      "answerFile": "USCIS-2025-124-answer.mp3"
+    },
+    "USCIS-2025-125": {
+      "versionCode": "2025",
+      "questionText": "What is Independence Day?",
+      "answerText": "A holiday to celebrate United States. independence , from Britain,",
+      "questionHash": "10e20f2cce58450412ec4602884a857f03a05e70f8a63d3ea71a4f55d856de41",
+      "answerHash": "5782c1ae38b3587b40dc5e1e763a3c6301e937bb519fb7ead51516162ddff69c",
+      "questionFile": "USCIS-2025-125-question.mp3",
+      "answerFile": "USCIS-2025-125-answer.mp3"
+    },
+    "USCIS-2025-126": {
+      "versionCode": "2025",
+      "questionText": "Name three national United States. holidays.",
+      "answerText": "New Year’s Day",
+      "questionHash": "1d316b193a3421eb0917b3c93b546031752ed818955a70049926fc8aa35f53f5",
+      "answerHash": "171685f57788684e719211ba6e147691aa4f3ed4e52483e41bfe7c0b6ad6a72d",
+      "questionFile": "USCIS-2025-126-question.mp3",
+      "answerFile": "USCIS-2025-126-answer.mp3"
+    },
+    "USCIS-2025-127": {
+      "versionCode": "2025",
+      "questionText": "What is Memorial Day?",
+      "answerText": "A holiday to honor soldiers who died in military service",
+      "questionHash": "575d7e14c5351e92484aca220bdb94b385b4a8b862de370f000266a30e3aa046",
+      "answerHash": "89a26a17928c7be1a076b76b83ee233434478278e61597802daba1640595d587",
+      "questionFile": "USCIS-2025-127-question.mp3",
+      "answerFile": "USCIS-2025-127-answer.mp3"
+    },
+    "USCIS-2025-128": {
+      "versionCode": "2025",
+      "questionText": "What is Veterans Day?",
+      "answerText": "A holiday to honor people in the , United States., military",
+      "questionHash": "98696cdc8a178fd5052de62316685fdfeedcfc94246b25594bc2b38a85ff3f1e",
+      "answerHash": "9066f82a39bb9d07ce0251f9a1e7a40a21133702a19fce3fb005a9b7f3134f73",
+      "questionFile": "USCIS-2025-128-question.mp3",
+      "answerFile": "USCIS-2025-128-answer.mp3"
+    }
+  }
+}

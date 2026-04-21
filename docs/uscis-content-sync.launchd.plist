@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>Label</key>
+    <string>com.citizenpass.uscis-content-sync</string>
+
+    <key>ProgramArguments</key>
+    <array>
+      <string>/bin/zsh</string>
+      <string>-lc</string>
+      <string>cd /Users/ever.wan/Documents/CodexProject/CitizenPass &amp;&amp; npm run content:uscis:sync:scheduled</string>
+    </array>
+
+    <key>WorkingDirectory</key>
+    <string>/Users/ever.wan/Documents/CodexProject/CitizenPass</string>
+
+    <key>RunAtLoad</key>
+    <true/>
+
+    <key>StartInterval</key>
+    <integer>1800</integer>
+
+    <key>StandardOutPath</key>
+    <string>/Users/ever.wan/Documents/CodexProject/CitizenPass/logs/uscis-sync-scheduler/launchd.stdout.log</string>
+    <key>StandardErrorPath</key>
+    <string>/Users/ever.wan/Documents/CodexProject/CitizenPass/logs/uscis-sync-scheduler/launchd.stderr.log</string>
+  </dict>
+</plist>
