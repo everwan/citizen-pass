@@ -1,0 +1,4112 @@
+{
+  "schemaVersion": 1,
+  "publishedAt": "2026-04-21T03:47:01.010Z",
+  "baseUrl": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis",
+  "generator": "azure-tts",
+  "files": [
+    {
+      "key": "question:USCIS-2008-001",
+      "questionId": "USCIS-2008-001",
+      "kind": "question",
+      "targetCode": "2008",
+      "file": "2008/questions/USCIS-2008-001-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/questions/USCIS-2008-001-question.mp3",
+      "sha256": "683f2181f73e8d7f1235eba4879fb3f7dc81687b7c3c0ee06d40ade85210e746"
+    },
+    {
+      "key": "answer:USCIS-2008-001",
+      "questionId": "USCIS-2008-001",
+      "kind": "answer",
+      "targetCode": "2008",
+      "file": "2008/answers/USCIS-2008-001-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/answers/USCIS-2008-001-answer.mp3",
+      "sha256": "aee5fe59999faf7dc5f33de1a343fd47870d1dc9ba19f42d1901d8cdcb9d6e53"
+    },
+    {
+      "key": "question:USCIS-2008-002",
+      "questionId": "USCIS-2008-002",
+      "kind": "question",
+      "targetCode": "2008",
+      "file": "2008/questions/USCIS-2008-002-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/questions/USCIS-2008-002-question.mp3",
+      "sha256": "7a4376aaa8f17d836da2c0f0e742af2cbca29474c4e45edf23e1cec265f06e37"
+    },
+    {
+      "key": "answer:USCIS-2008-002",
+      "questionId": "USCIS-2008-002",
+      "kind": "answer",
+      "targetCode": "2008",
+      "file": "2008/answers/USCIS-2008-002-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/answers/USCIS-2008-002-answer.mp3",
+      "sha256": "fdc473b8e5940492bca6857b75bf33941001cfbc39e0ebd565927faa33a6fac9"
+    },
+    {
+      "key": "question:USCIS-2008-003",
+      "questionId": "USCIS-2008-003",
+      "kind": "question",
+      "targetCode": "2008",
+      "file": "2008/questions/USCIS-2008-003-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/questions/USCIS-2008-003-question.mp3",
+      "sha256": "b8d6c3d738a1b9517219a50fe61398929c141687edf5df8ae8a439d29a0ffa8a"
+    },
+    {
+      "key": "answer:USCIS-2008-003",
+      "questionId": "USCIS-2008-003",
+      "kind": "answer",
+      "targetCode": "2008",
+      "file": "2008/answers/USCIS-2008-003-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/answers/USCIS-2008-003-answer.mp3",
+      "sha256": "2df95c606de84768192289504e2445056a6a23f60a8f77130944bb21029a2d20"
+    },
+    {
+      "key": "question:USCIS-2008-004",
+      "questionId": "USCIS-2008-004",
+      "kind": "question",
+      "targetCode": "2008",
+      "file": "2008/questions/USCIS-2008-004-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/questions/USCIS-2008-004-question.mp3",
+      "sha256": "a8557646eb1271b213e4fe0f3a06800e4196b31b4b4d617dd5888753bad7efd7"
+    },
+    {
+      "key": "answer:USCIS-2008-004",
+      "questionId": "USCIS-2008-004",
+      "kind": "answer",
+      "targetCode": "2008",
+      "file": "2008/answers/USCIS-2008-004-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/answers/USCIS-2008-004-answer.mp3",
+      "sha256": "610c4441923e4bcbcd671fad33b6814a8b7fa659031e1e4dd1facefa99c6dea8"
+    },
+    {
+      "key": "question:USCIS-2008-005",
+      "questionId": "USCIS-2008-005",
+      "kind": "question",
+      "targetCode": "2008",
+      "file": "2008/questions/USCIS-2008-005-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/questions/USCIS-2008-005-question.mp3",
+      "sha256": "98e8e9e6da2d18ed4e759d8b003ef4b5f8a756dd7b705c0dd2faabcf1e5dc31d"
+    },
+    {
+      "key": "answer:USCIS-2008-005",
+      "questionId": "USCIS-2008-005",
+      "kind": "answer",
+      "targetCode": "2008",
+      "file": "2008/answers/USCIS-2008-005-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/answers/USCIS-2008-005-answer.mp3",
+      "sha256": "6ed7953705f159937b9a596d9108b1134a3bcf8f1b3e320e545ffda1d25da8c2"
+    },
+    {
+      "key": "question:USCIS-2008-006",
+      "questionId": "USCIS-2008-006",
+      "kind": "question",
+      "targetCode": "2008",
+      "file": "2008/questions/USCIS-2008-006-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/questions/USCIS-2008-006-question.mp3",
+      "sha256": "7a140a46bbdbd656253712ebe1c5d601ab4be94c7e814b0a625de03edc87768e"
+    },
+    {
+      "key": "answer:USCIS-2008-006",
+      "questionId": "USCIS-2008-006",
+      "kind": "answer",
+      "targetCode": "2008",
+      "file": "2008/answers/USCIS-2008-006-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/answers/USCIS-2008-006-answer.mp3",
+      "sha256": "a1e856e3a88664b26994477838f21f961f5e11f07c02e613bb8f8b2cca2b2b7c"
+    },
+    {
+      "key": "question:USCIS-2008-007",
+      "questionId": "USCIS-2008-007",
+      "kind": "question",
+      "targetCode": "2008",
+      "file": "2008/questions/USCIS-2008-007-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/questions/USCIS-2008-007-question.mp3",
+      "sha256": "cf4ce646d9ce9c7fd0cd77fe2b77a3bf8a93564004adee6c06c41c5cb985ac4b"
+    },
+    {
+      "key": "answer:USCIS-2008-007",
+      "questionId": "USCIS-2008-007",
+      "kind": "answer",
+      "targetCode": "2008",
+      "file": "2008/answers/USCIS-2008-007-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/answers/USCIS-2008-007-answer.mp3",
+      "sha256": "d790a90344063ecd5d6aa8495e18c08128aa88c99797dfbf12029e7020114008"
+    },
+    {
+      "key": "question:USCIS-2008-008",
+      "questionId": "USCIS-2008-008",
+      "kind": "question",
+      "targetCode": "2008",
+      "file": "2008/questions/USCIS-2008-008-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/questions/USCIS-2008-008-question.mp3",
+      "sha256": "fe47ac678ca7bae100507b31a89572e529709bf7a232efd3148d6320b174cca3"
+    },
+    {
+      "key": "answer:USCIS-2008-008",
+      "questionId": "USCIS-2008-008",
+      "kind": "answer",
+      "targetCode": "2008",
+      "file": "2008/answers/USCIS-2008-008-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/answers/USCIS-2008-008-answer.mp3",
+      "sha256": "0de50b61631f5a9a712802d64aa9443063dadedf931d20b6ffcb3a8e81e41b47"
+    },
+    {
+      "key": "question:USCIS-2008-009",
+      "questionId": "USCIS-2008-009",
+      "kind": "question",
+      "targetCode": "2008",
+      "file": "2008/questions/USCIS-2008-009-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/questions/USCIS-2008-009-question.mp3",
+      "sha256": "352ad5344f895390c94dff157d48009bb7d298cf6664cdbb8c097eebe5d71727"
+    },
+    {
+      "key": "answer:USCIS-2008-009",
+      "questionId": "USCIS-2008-009",
+      "kind": "answer",
+      "targetCode": "2008",
+      "file": "2008/answers/USCIS-2008-009-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/answers/USCIS-2008-009-answer.mp3",
+      "sha256": "09d527fc3e4d88d91863acc9cbb487db6b83c9713738ec9249528ad414f57acd"
+    },
+    {
+      "key": "question:USCIS-2008-010",
+      "questionId": "USCIS-2008-010",
+      "kind": "question",
+      "targetCode": "2008",
+      "file": "2008/questions/USCIS-2008-010-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/questions/USCIS-2008-010-question.mp3",
+      "sha256": "a5b5c675324e60a2e1fb71639429d559a41bb26f2876d16e3aed7c5b8f900df8"
+    },
+    {
+      "key": "answer:USCIS-2008-010",
+      "questionId": "USCIS-2008-010",
+      "kind": "answer",
+      "targetCode": "2008",
+      "file": "2008/answers/USCIS-2008-010-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/answers/USCIS-2008-010-answer.mp3",
+      "sha256": "6ecdbc392fbcf48b1e4884079d9317895ed6ca0ba8b7eaf051158dc3fb36efc8"
+    },
+    {
+      "key": "question:USCIS-2008-011",
+      "questionId": "USCIS-2008-011",
+      "kind": "question",
+      "targetCode": "2008",
+      "file": "2008/questions/USCIS-2008-011-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/questions/USCIS-2008-011-question.mp3",
+      "sha256": "fe640ca946287ef87dbbdb11a89eae7ac981e53e75dec089995ec7d78e8523a7"
+    },
+    {
+      "key": "answer:USCIS-2008-011",
+      "questionId": "USCIS-2008-011",
+      "kind": "answer",
+      "targetCode": "2008",
+      "file": "2008/answers/USCIS-2008-011-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/answers/USCIS-2008-011-answer.mp3",
+      "sha256": "118143f3af6caa84850de6e5aaa6a98c458f2a91a01c12108be5c5e098411158"
+    },
+    {
+      "key": "question:USCIS-2008-012",
+      "questionId": "USCIS-2008-012",
+      "kind": "question",
+      "targetCode": "2008",
+      "file": "2008/questions/USCIS-2008-012-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/questions/USCIS-2008-012-question.mp3",
+      "sha256": "4c159dbaa1b75daabe8de0fc27fe2ae31a0d6c0a141eb77c57ab495786ef3896"
+    },
+    {
+      "key": "answer:USCIS-2008-012",
+      "questionId": "USCIS-2008-012",
+      "kind": "answer",
+      "targetCode": "2008",
+      "file": "2008/answers/USCIS-2008-012-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/answers/USCIS-2008-012-answer.mp3",
+      "sha256": "09c9438017b5b42685a94ec6fc80f081458c588adf9f3597b2aea189307d3495"
+    },
+    {
+      "key": "question:USCIS-2008-013",
+      "questionId": "USCIS-2008-013",
+      "kind": "question",
+      "targetCode": "2008",
+      "file": "2008/questions/USCIS-2008-013-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/questions/USCIS-2008-013-question.mp3",
+      "sha256": "31e07dd6aabc8ac694c2c922adc42bbc17e459a352721a93cbe9eab3a62ed0c3"
+    },
+    {
+      "key": "answer:USCIS-2008-013",
+      "questionId": "USCIS-2008-013",
+      "kind": "answer",
+      "targetCode": "2008",
+      "file": "2008/answers/USCIS-2008-013-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/answers/USCIS-2008-013-answer.mp3",
+      "sha256": "7848447642e82aa336dbd96c5288272f755cbf674776b34b39a47fb540c88e70"
+    },
+    {
+      "key": "question:USCIS-2008-014",
+      "questionId": "USCIS-2008-014",
+      "kind": "question",
+      "targetCode": "2008",
+      "file": "2008/questions/USCIS-2008-014-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/questions/USCIS-2008-014-question.mp3",
+      "sha256": "0d604172139f81dc50daef1651e97a09859cb11f6ff059901ba3e06a7169b833"
+    },
+    {
+      "key": "answer:USCIS-2008-014",
+      "questionId": "USCIS-2008-014",
+      "kind": "answer",
+      "targetCode": "2008",
+      "file": "2008/answers/USCIS-2008-014-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/answers/USCIS-2008-014-answer.mp3",
+      "sha256": "8ebdbb6640b8a97f80bc8a6107619a1c23ff181a3b76a90ac3b76afd39c65ace"
+    },
+    {
+      "key": "question:USCIS-2008-015",
+      "questionId": "USCIS-2008-015",
+      "kind": "question",
+      "targetCode": "2008",
+      "file": "2008/questions/USCIS-2008-015-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/questions/USCIS-2008-015-question.mp3",
+      "sha256": "32fe346269f8bfd285c2c66b0faa35a1d682470a3d8cdaae0acbcf663ba6b402"
+    },
+    {
+      "key": "answer:USCIS-2008-015",
+      "questionId": "USCIS-2008-015",
+      "kind": "answer",
+      "targetCode": "2008",
+      "file": "2008/answers/USCIS-2008-015-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/answers/USCIS-2008-015-answer.mp3",
+      "sha256": "d4f8ccb467d0e9709f3bdd9134a41b0ce250dfed2df698c7afa0e45e8b95208d"
+    },
+    {
+      "key": "question:USCIS-2008-016",
+      "questionId": "USCIS-2008-016",
+      "kind": "question",
+      "targetCode": "2008",
+      "file": "2008/questions/USCIS-2008-016-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/questions/USCIS-2008-016-question.mp3",
+      "sha256": "aa69438ff721077d51c50b81dd918c3a305b23f47d1a6f145570420583ff8093"
+    },
+    {
+      "key": "answer:USCIS-2008-016",
+      "questionId": "USCIS-2008-016",
+      "kind": "answer",
+      "targetCode": "2008",
+      "file": "2008/answers/USCIS-2008-016-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/answers/USCIS-2008-016-answer.mp3",
+      "sha256": "7848447642e82aa336dbd96c5288272f755cbf674776b34b39a47fb540c88e70"
+    },
+    {
+      "key": "question:USCIS-2008-017",
+      "questionId": "USCIS-2008-017",
+      "kind": "question",
+      "targetCode": "2008",
+      "file": "2008/questions/USCIS-2008-017-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/questions/USCIS-2008-017-question.mp3",
+      "sha256": "839830324a3212b530ca770f3a0a69ce75683bc9a75bc54bee3d71af33638d66"
+    },
+    {
+      "key": "answer:USCIS-2008-017",
+      "questionId": "USCIS-2008-017",
+      "kind": "answer",
+      "targetCode": "2008",
+      "file": "2008/answers/USCIS-2008-017-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/answers/USCIS-2008-017-answer.mp3",
+      "sha256": "ad8d372a69701ed21ebd20e0b311d9ad5641efe6a4e0f9fb921441b0d0d233f2"
+    },
+    {
+      "key": "question:USCIS-2008-018",
+      "questionId": "USCIS-2008-018",
+      "kind": "question",
+      "targetCode": "2008",
+      "file": "2008/questions/USCIS-2008-018-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/questions/USCIS-2008-018-question.mp3",
+      "sha256": "ac21d29e501e1662b46d6671b2023fc6c36533db90282671c7c2ae49c513edd0"
+    },
+    {
+      "key": "answer:USCIS-2008-018",
+      "questionId": "USCIS-2008-018",
+      "kind": "answer",
+      "targetCode": "2008",
+      "file": "2008/answers/USCIS-2008-018-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/answers/USCIS-2008-018-answer.mp3",
+      "sha256": "d124ac633e303a0f5edf6b2e8fd10baafd07019296d1f57412f0924b3af3838b"
+    },
+    {
+      "key": "question:USCIS-2008-019",
+      "questionId": "USCIS-2008-019",
+      "kind": "question",
+      "targetCode": "2008",
+      "file": "2008/questions/USCIS-2008-019-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/questions/USCIS-2008-019-question.mp3",
+      "sha256": "9b7915f5f0554b6f5d110e638828aa9f349f9b34e8253c4f3f62675dc6d53546"
+    },
+    {
+      "key": "answer:USCIS-2008-019",
+      "questionId": "USCIS-2008-019",
+      "kind": "answer",
+      "targetCode": "2008",
+      "file": "2008/answers/USCIS-2008-019-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/answers/USCIS-2008-019-answer.mp3",
+      "sha256": "07b3a2f0cd6d82c14979c7e8cb119828e24b98b54cf715d78133d80e9b74a016"
+    },
+    {
+      "key": "question:USCIS-2008-020",
+      "questionId": "USCIS-2008-020",
+      "kind": "question",
+      "targetCode": "2008",
+      "file": "2008/questions/USCIS-2008-020-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/questions/USCIS-2008-020-question.mp3",
+      "sha256": "5d0b6f0077b983cdbdb31c86033936bc007e38daad06f002e3474d997aea5b37"
+    },
+    {
+      "key": "answer:USCIS-2008-020",
+      "questionId": "USCIS-2008-020",
+      "kind": "answer",
+      "targetCode": "2008",
+      "file": "2008/answers/USCIS-2008-020-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/answers/USCIS-2008-020-answer.mp3",
+      "sha256": "e6b2cdce31c578771288bab7837afa020d899592fdd883ace34d55d36edb4e5c"
+    },
+    {
+      "key": "question:USCIS-2008-021",
+      "questionId": "USCIS-2008-021",
+      "kind": "question",
+      "targetCode": "2008",
+      "file": "2008/questions/USCIS-2008-021-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/questions/USCIS-2008-021-question.mp3",
+      "sha256": "c3fd10d8bebfecf12f46e7256878ac4113e03c93d87910eb72e92610ac83ddca"
+    },
+    {
+      "key": "answer:USCIS-2008-021",
+      "questionId": "USCIS-2008-021",
+      "kind": "answer",
+      "targetCode": "2008",
+      "file": "2008/answers/USCIS-2008-021-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/answers/USCIS-2008-021-answer.mp3",
+      "sha256": "6ade9d273ad88d04ef0f2a13d74df646cd282c8d54f0efbc24c22fb7661a9a05"
+    },
+    {
+      "key": "question:USCIS-2008-022",
+      "questionId": "USCIS-2008-022",
+      "kind": "question",
+      "targetCode": "2008",
+      "file": "2008/questions/USCIS-2008-022-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/questions/USCIS-2008-022-question.mp3",
+      "sha256": "f61a21cda7426cdb8d6ad4a3f3a013537414a9b6fe9038f6607dd3736eb9f020"
+    },
+    {
+      "key": "answer:USCIS-2008-022",
+      "questionId": "USCIS-2008-022",
+      "kind": "answer",
+      "targetCode": "2008",
+      "file": "2008/answers/USCIS-2008-022-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/answers/USCIS-2008-022-answer.mp3",
+      "sha256": "edc1d9240802ea2ee299d746985463dcb7482b26702e35fde90a4eeb7165a91b"
+    },
+    {
+      "key": "question:USCIS-2008-023",
+      "questionId": "USCIS-2008-023",
+      "kind": "question",
+      "targetCode": "2008",
+      "file": "2008/questions/USCIS-2008-023-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/questions/USCIS-2008-023-question.mp3",
+      "sha256": "05973cee556077581337913ecf9abc99fe7912003d68454f55a1bba2fdc280cf"
+    },
+    {
+      "key": "answer:USCIS-2008-023",
+      "questionId": "USCIS-2008-023",
+      "kind": "answer",
+      "targetCode": "2008",
+      "file": "2008/answers/USCIS-2008-023-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/answers/USCIS-2008-023-answer.mp3",
+      "sha256": "3b8b73fac6e4dedaae58c3408252334053086a1e47fb93e3a5433f5e1deb5b34"
+    },
+    {
+      "key": "question:USCIS-2008-024",
+      "questionId": "USCIS-2008-024",
+      "kind": "question",
+      "targetCode": "2008",
+      "file": "2008/questions/USCIS-2008-024-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/questions/USCIS-2008-024-question.mp3",
+      "sha256": "3c344ba08774bbb34134923f5cbbd8a4dd77f4fba77b558c228a70ebfdb87485"
+    },
+    {
+      "key": "answer:USCIS-2008-024",
+      "questionId": "USCIS-2008-024",
+      "kind": "answer",
+      "targetCode": "2008",
+      "file": "2008/answers/USCIS-2008-024-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/answers/USCIS-2008-024-answer.mp3",
+      "sha256": "58385af255a579911e7cf58e4298104fa75394ff6bdd110e8d6dc760b6e4656d"
+    },
+    {
+      "key": "question:USCIS-2008-025",
+      "questionId": "USCIS-2008-025",
+      "kind": "question",
+      "targetCode": "2008",
+      "file": "2008/questions/USCIS-2008-025-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/questions/USCIS-2008-025-question.mp3",
+      "sha256": "6a3a805f32df8501488656bb71ef116aa6d58cae7793988df6d2701e786fdb31"
+    },
+    {
+      "key": "answer:USCIS-2008-025",
+      "questionId": "USCIS-2008-025",
+      "kind": "answer",
+      "targetCode": "2008",
+      "file": "2008/answers/USCIS-2008-025-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/answers/USCIS-2008-025-answer.mp3",
+      "sha256": "e36327c1ad6a71da7b2caca84d5dd7ad6d6dd92f00c7288969bf51fd75308dcc"
+    },
+    {
+      "key": "question:USCIS-2008-026",
+      "questionId": "USCIS-2008-026",
+      "kind": "question",
+      "targetCode": "2008",
+      "file": "2008/questions/USCIS-2008-026-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/questions/USCIS-2008-026-question.mp3",
+      "sha256": "63de935f66d573203423440843a1f87f1e599491ff1e192b8a87733807f9c07d"
+    },
+    {
+      "key": "answer:USCIS-2008-026",
+      "questionId": "USCIS-2008-026",
+      "kind": "answer",
+      "targetCode": "2008",
+      "file": "2008/answers/USCIS-2008-026-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/answers/USCIS-2008-026-answer.mp3",
+      "sha256": "4e7b42db0a5b94bb9db170d266932fb8c999926ef3f4a1ee2784d875b0900cda"
+    },
+    {
+      "key": "question:USCIS-2008-027",
+      "questionId": "USCIS-2008-027",
+      "kind": "question",
+      "targetCode": "2008",
+      "file": "2008/questions/USCIS-2008-027-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/questions/USCIS-2008-027-question.mp3",
+      "sha256": "470861bd928d4da17e8b2f88d9cf3c24e701642fbaade85423b9363016af33ab"
+    },
+    {
+      "key": "answer:USCIS-2008-027",
+      "questionId": "USCIS-2008-027",
+      "kind": "answer",
+      "targetCode": "2008",
+      "file": "2008/answers/USCIS-2008-027-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/answers/USCIS-2008-027-answer.mp3",
+      "sha256": "4b7f93ba5655f9dd287fa20e37c9845c6b73dc070adcc54c0b235b8482171347"
+    },
+    {
+      "key": "question:USCIS-2008-028",
+      "questionId": "USCIS-2008-028",
+      "kind": "question",
+      "targetCode": "2008",
+      "file": "2008/questions/USCIS-2008-028-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/questions/USCIS-2008-028-question.mp3",
+      "sha256": "d9bc6678a952479d1974b8e72b3f8cc7403fa95b24fb001d1a636e8275ef7324"
+    },
+    {
+      "key": "answer:USCIS-2008-028",
+      "questionId": "USCIS-2008-028",
+      "kind": "answer",
+      "targetCode": "2008",
+      "file": "2008/answers/USCIS-2008-028-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/answers/USCIS-2008-028-answer.mp3",
+      "sha256": "273bae221f75560d5a5e522e4673bdf9ee463b0ccb7bc0af553f81dd696003da"
+    },
+    {
+      "key": "question:USCIS-2008-029",
+      "questionId": "USCIS-2008-029",
+      "kind": "question",
+      "targetCode": "2008",
+      "file": "2008/questions/USCIS-2008-029-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/questions/USCIS-2008-029-question.mp3",
+      "sha256": "3b60281bb112496d8558f0bb256e33b8899894342d4490aaa6560814bf1e4787"
+    },
+    {
+      "key": "answer:USCIS-2008-029",
+      "questionId": "USCIS-2008-029",
+      "kind": "answer",
+      "targetCode": "2008",
+      "file": "2008/answers/USCIS-2008-029-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/answers/USCIS-2008-029-answer.mp3",
+      "sha256": "2badb228eb74fb1cde59b69126d2c274d6d89fec010942e346402cb4040518ef"
+    },
+    {
+      "key": "question:USCIS-2008-030",
+      "questionId": "USCIS-2008-030",
+      "kind": "question",
+      "targetCode": "2008",
+      "file": "2008/questions/USCIS-2008-030-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/questions/USCIS-2008-030-question.mp3",
+      "sha256": "5af06a5bade6de15b7e918d0b544700b4268160bb74e8c5fe410c7af9705fc5c"
+    },
+    {
+      "key": "answer:USCIS-2008-030",
+      "questionId": "USCIS-2008-030",
+      "kind": "answer",
+      "targetCode": "2008",
+      "file": "2008/answers/USCIS-2008-030-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/answers/USCIS-2008-030-answer.mp3",
+      "sha256": "d1dd418d2dab9572644f59f4349b3320aac13037e7e8cfa4601e4141a0f56157"
+    },
+    {
+      "key": "question:USCIS-2008-031",
+      "questionId": "USCIS-2008-031",
+      "kind": "question",
+      "targetCode": "2008",
+      "file": "2008/questions/USCIS-2008-031-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/questions/USCIS-2008-031-question.mp3",
+      "sha256": "ef964e4986e861ea35846138578aed6909cfc2ac8f78180315f190021cec60ce"
+    },
+    {
+      "key": "answer:USCIS-2008-031",
+      "questionId": "USCIS-2008-031",
+      "kind": "answer",
+      "targetCode": "2008",
+      "file": "2008/answers/USCIS-2008-031-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/answers/USCIS-2008-031-answer.mp3",
+      "sha256": "0562473e0d20cb95d60c619ac1959d66ef47f0b905296ba8df040b66f72ca0fc"
+    },
+    {
+      "key": "question:USCIS-2008-032",
+      "questionId": "USCIS-2008-032",
+      "kind": "question",
+      "targetCode": "2008",
+      "file": "2008/questions/USCIS-2008-032-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/questions/USCIS-2008-032-question.mp3",
+      "sha256": "767a94300b14dca3d68deaa516bebb2b2c0c561b4f4ae2cfeb8183b19d6f362c"
+    },
+    {
+      "key": "answer:USCIS-2008-032",
+      "questionId": "USCIS-2008-032",
+      "kind": "answer",
+      "targetCode": "2008",
+      "file": "2008/answers/USCIS-2008-032-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/answers/USCIS-2008-032-answer.mp3",
+      "sha256": "d4f8ccb467d0e9709f3bdd9134a41b0ce250dfed2df698c7afa0e45e8b95208d"
+    },
+    {
+      "key": "question:USCIS-2008-033",
+      "questionId": "USCIS-2008-033",
+      "kind": "question",
+      "targetCode": "2008",
+      "file": "2008/questions/USCIS-2008-033-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/questions/USCIS-2008-033-question.mp3",
+      "sha256": "9439f9f73d4444ebdcdaca218b1536c593523ca2cb19ba66eccdfc7cb7781a32"
+    },
+    {
+      "key": "answer:USCIS-2008-033",
+      "questionId": "USCIS-2008-033",
+      "kind": "answer",
+      "targetCode": "2008",
+      "file": "2008/answers/USCIS-2008-033-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/answers/USCIS-2008-033-answer.mp3",
+      "sha256": "d4f8ccb467d0e9709f3bdd9134a41b0ce250dfed2df698c7afa0e45e8b95208d"
+    },
+    {
+      "key": "question:USCIS-2008-034",
+      "questionId": "USCIS-2008-034",
+      "kind": "question",
+      "targetCode": "2008",
+      "file": "2008/questions/USCIS-2008-034-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/questions/USCIS-2008-034-question.mp3",
+      "sha256": "0e27334afc7a292d3b7378fb0cf20d48f1794d9b49a526e3162fcd9668a3f2ac"
+    },
+    {
+      "key": "answer:USCIS-2008-034",
+      "questionId": "USCIS-2008-034",
+      "kind": "answer",
+      "targetCode": "2008",
+      "file": "2008/answers/USCIS-2008-034-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/answers/USCIS-2008-034-answer.mp3",
+      "sha256": "d4f8ccb467d0e9709f3bdd9134a41b0ce250dfed2df698c7afa0e45e8b95208d"
+    },
+    {
+      "key": "question:USCIS-2008-035",
+      "questionId": "USCIS-2008-035",
+      "kind": "question",
+      "targetCode": "2008",
+      "file": "2008/questions/USCIS-2008-035-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/questions/USCIS-2008-035-question.mp3",
+      "sha256": "f0c80c1e63575ebff690771dc7e1f265aff0d487ec00b471d5938dd22c492855"
+    },
+    {
+      "key": "answer:USCIS-2008-035",
+      "questionId": "USCIS-2008-035",
+      "kind": "answer",
+      "targetCode": "2008",
+      "file": "2008/answers/USCIS-2008-035-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/answers/USCIS-2008-035-answer.mp3",
+      "sha256": "3e2b3efd59af2c6e17736c5e6e47bfff41c32b5d085fb26e96ac5739984fcc7c"
+    },
+    {
+      "key": "question:USCIS-2008-036",
+      "questionId": "USCIS-2008-036",
+      "kind": "question",
+      "targetCode": "2008",
+      "file": "2008/questions/USCIS-2008-036-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/questions/USCIS-2008-036-question.mp3",
+      "sha256": "72dfc0c75ddca73326fa20095fc160beb5c8068a8c2d354e505f3d9baf9f7f9a"
+    },
+    {
+      "key": "answer:USCIS-2008-036",
+      "questionId": "USCIS-2008-036",
+      "kind": "answer",
+      "targetCode": "2008",
+      "file": "2008/answers/USCIS-2008-036-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/answers/USCIS-2008-036-answer.mp3",
+      "sha256": "127573ea54fdadde837e3c6a4ff9fb4cb4f3530a43bdc283639b2b0b99bc4cd1"
+    },
+    {
+      "key": "question:USCIS-2008-037",
+      "questionId": "USCIS-2008-037",
+      "kind": "question",
+      "targetCode": "2008",
+      "file": "2008/questions/USCIS-2008-037-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/questions/USCIS-2008-037-question.mp3",
+      "sha256": "383afaace344da6aaedaddc145eb6af57f68509bf352b9f9b259a2c9b714f116"
+    },
+    {
+      "key": "answer:USCIS-2008-037",
+      "questionId": "USCIS-2008-037",
+      "kind": "answer",
+      "targetCode": "2008",
+      "file": "2008/answers/USCIS-2008-037-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/answers/USCIS-2008-037-answer.mp3",
+      "sha256": "b247f5994470dae70bc24fd17fc75a231dc28ffa48ead646b5443ef1386e76c3"
+    },
+    {
+      "key": "question:USCIS-2008-038",
+      "questionId": "USCIS-2008-038",
+      "kind": "question",
+      "targetCode": "2008",
+      "file": "2008/questions/USCIS-2008-038-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/questions/USCIS-2008-038-question.mp3",
+      "sha256": "2b2118b16b0581083c63f4b2d8460c559aaf77d84a88bc3cfe34ad1cb937640f"
+    },
+    {
+      "key": "answer:USCIS-2008-038",
+      "questionId": "USCIS-2008-038",
+      "kind": "answer",
+      "targetCode": "2008",
+      "file": "2008/answers/USCIS-2008-038-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/answers/USCIS-2008-038-answer.mp3",
+      "sha256": "db3313ef68879d99e33c9ea13395dc5ed26fd995465e5ed023ca33799939b573"
+    },
+    {
+      "key": "question:USCIS-2008-039",
+      "questionId": "USCIS-2008-039",
+      "kind": "question",
+      "targetCode": "2008",
+      "file": "2008/questions/USCIS-2008-039-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/questions/USCIS-2008-039-question.mp3",
+      "sha256": "78a6ff8169a71375d2fa90e0906cd1f02ac07a438eac300616cf27a98c05cf48"
+    },
+    {
+      "key": "answer:USCIS-2008-039",
+      "questionId": "USCIS-2008-039",
+      "kind": "answer",
+      "targetCode": "2008",
+      "file": "2008/answers/USCIS-2008-039-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/answers/USCIS-2008-039-answer.mp3",
+      "sha256": "a092511c7bb28d98cfa4db9fde957d5e444e50e6fcbc6e34d25672423b759913"
+    },
+    {
+      "key": "question:USCIS-2008-040",
+      "questionId": "USCIS-2008-040",
+      "kind": "question",
+      "targetCode": "2008",
+      "file": "2008/questions/USCIS-2008-040-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/questions/USCIS-2008-040-question.mp3",
+      "sha256": "923d3685f44f7a651fa09f875f081075728313da06d5fb0e463cf5df678a93a2"
+    },
+    {
+      "key": "answer:USCIS-2008-040",
+      "questionId": "USCIS-2008-040",
+      "kind": "answer",
+      "targetCode": "2008",
+      "file": "2008/answers/USCIS-2008-040-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/answers/USCIS-2008-040-answer.mp3",
+      "sha256": "00117126bb94e4717124a4ce4bf21d161df5e9d78bfdabf7ebbe74fd22a7f423"
+    },
+    {
+      "key": "question:USCIS-2008-041",
+      "questionId": "USCIS-2008-041",
+      "kind": "question",
+      "targetCode": "2008",
+      "file": "2008/questions/USCIS-2008-041-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/questions/USCIS-2008-041-question.mp3",
+      "sha256": "0e1b5db4b200fc43361307621339d61fd39d92cad037d9e0fc7693a52cf4e7d4"
+    },
+    {
+      "key": "answer:USCIS-2008-041",
+      "questionId": "USCIS-2008-041",
+      "kind": "answer",
+      "targetCode": "2008",
+      "file": "2008/answers/USCIS-2008-041-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/answers/USCIS-2008-041-answer.mp3",
+      "sha256": "7795e64ee6b76608a7b665460d7100b6d311ccb03276c7119a4ed8deba3d9d8c"
+    },
+    {
+      "key": "question:USCIS-2008-042",
+      "questionId": "USCIS-2008-042",
+      "kind": "question",
+      "targetCode": "2008",
+      "file": "2008/questions/USCIS-2008-042-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/questions/USCIS-2008-042-question.mp3",
+      "sha256": "9d8a132b9db1ad1ee3f0f79243af4823388a3b024c424d13ebff7404677bfb6f"
+    },
+    {
+      "key": "answer:USCIS-2008-042",
+      "questionId": "USCIS-2008-042",
+      "kind": "answer",
+      "targetCode": "2008",
+      "file": "2008/answers/USCIS-2008-042-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/answers/USCIS-2008-042-answer.mp3",
+      "sha256": "68a3089adf357ecc052377d38a2e90bee2fc5f71b3a9806d49fc3d7f0ed19743"
+    },
+    {
+      "key": "question:USCIS-2008-043",
+      "questionId": "USCIS-2008-043",
+      "kind": "question",
+      "targetCode": "2008",
+      "file": "2008/questions/USCIS-2008-043-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/questions/USCIS-2008-043-question.mp3",
+      "sha256": "11273f7f064cf75e3eb068d74a37b3c878407e3c7072011b0643d27c7848cdb5"
+    },
+    {
+      "key": "answer:USCIS-2008-043",
+      "questionId": "USCIS-2008-043",
+      "kind": "answer",
+      "targetCode": "2008",
+      "file": "2008/answers/USCIS-2008-043-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/answers/USCIS-2008-043-answer.mp3",
+      "sha256": "0171283384af23ea1e05e33e3a6acd434e795f51ea1a9c4aff7e3cdde1d515fe"
+    },
+    {
+      "key": "question:USCIS-2008-044",
+      "questionId": "USCIS-2008-044",
+      "kind": "question",
+      "targetCode": "2008",
+      "file": "2008/questions/USCIS-2008-044-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/questions/USCIS-2008-044-question.mp3",
+      "sha256": "4561795fc2c8d74457d13e15908e7388637c7b7270eeaab48f26b3c77d2252c2"
+    },
+    {
+      "key": "answer:USCIS-2008-044",
+      "questionId": "USCIS-2008-044",
+      "kind": "answer",
+      "targetCode": "2008",
+      "file": "2008/answers/USCIS-2008-044-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/answers/USCIS-2008-044-answer.mp3",
+      "sha256": "9aeb053d0f7e6eff2d97ffc0330da86d04ecef6a4c7eab5af866a893619f4b05"
+    },
+    {
+      "key": "question:USCIS-2008-045",
+      "questionId": "USCIS-2008-045",
+      "kind": "question",
+      "targetCode": "2008",
+      "file": "2008/questions/USCIS-2008-045-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/questions/USCIS-2008-045-question.mp3",
+      "sha256": "5bb88a82130a1cbedab866c1da36b5fc6417575f12640b4c0e0b3b67980af5a0"
+    },
+    {
+      "key": "answer:USCIS-2008-045",
+      "questionId": "USCIS-2008-045",
+      "kind": "answer",
+      "targetCode": "2008",
+      "file": "2008/answers/USCIS-2008-045-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/answers/USCIS-2008-045-answer.mp3",
+      "sha256": "84a7454dfca9d5da5019d0ad0410d9a867748908619ecadec06257a125a5e424"
+    },
+    {
+      "key": "question:USCIS-2008-046",
+      "questionId": "USCIS-2008-046",
+      "kind": "question",
+      "targetCode": "2008",
+      "file": "2008/questions/USCIS-2008-046-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/questions/USCIS-2008-046-question.mp3",
+      "sha256": "370ff228df30ea8c481d6dc99cc905941e93bb95d8eff5db943d68fb1c0d7632"
+    },
+    {
+      "key": "answer:USCIS-2008-046",
+      "questionId": "USCIS-2008-046",
+      "kind": "answer",
+      "targetCode": "2008",
+      "file": "2008/answers/USCIS-2008-046-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/answers/USCIS-2008-046-answer.mp3",
+      "sha256": "bbc06a97106949c906aa6aea857b8674d306b32a53b8e6884555fe9c92cd59d9"
+    },
+    {
+      "key": "question:USCIS-2008-047",
+      "questionId": "USCIS-2008-047",
+      "kind": "question",
+      "targetCode": "2008",
+      "file": "2008/questions/USCIS-2008-047-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/questions/USCIS-2008-047-question.mp3",
+      "sha256": "891fbcaced6752b74687379bf548ae9851d7cf8fa971e78800acec48f72c0f96"
+    },
+    {
+      "key": "answer:USCIS-2008-047",
+      "questionId": "USCIS-2008-047",
+      "kind": "answer",
+      "targetCode": "2008",
+      "file": "2008/answers/USCIS-2008-047-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/answers/USCIS-2008-047-answer.mp3",
+      "sha256": "ab6bd8676fbe73dd11476355703b1816d9f6e27a29976f0927e38becdea0fdb4"
+    },
+    {
+      "key": "question:USCIS-2008-048",
+      "questionId": "USCIS-2008-048",
+      "kind": "question",
+      "targetCode": "2008",
+      "file": "2008/questions/USCIS-2008-048-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/questions/USCIS-2008-048-question.mp3",
+      "sha256": "331f01388020746f849ce4fbdb67133fb676f845b51c366c7eeed582160e6fb2"
+    },
+    {
+      "key": "answer:USCIS-2008-048",
+      "questionId": "USCIS-2008-048",
+      "kind": "answer",
+      "targetCode": "2008",
+      "file": "2008/answers/USCIS-2008-048-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/answers/USCIS-2008-048-answer.mp3",
+      "sha256": "81c02e7bb25125e6aed8118a48cb4f23cc2c38d69e0e98587e27c85e19d158d0"
+    },
+    {
+      "key": "question:USCIS-2008-049",
+      "questionId": "USCIS-2008-049",
+      "kind": "question",
+      "targetCode": "2008",
+      "file": "2008/questions/USCIS-2008-049-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/questions/USCIS-2008-049-question.mp3",
+      "sha256": "8f2a2afa0382acbd0d1c0e473250b4636bb1e1c96f527987be6af9792bc8fdb2"
+    },
+    {
+      "key": "answer:USCIS-2008-049",
+      "questionId": "USCIS-2008-049",
+      "kind": "answer",
+      "targetCode": "2008",
+      "file": "2008/answers/USCIS-2008-049-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/answers/USCIS-2008-049-answer.mp3",
+      "sha256": "37a4bf48f8c625370868d0bc69b7c5ab51c8bbfec0f35437ae5cd30fb4651ecf"
+    },
+    {
+      "key": "question:USCIS-2008-050",
+      "questionId": "USCIS-2008-050",
+      "kind": "question",
+      "targetCode": "2008",
+      "file": "2008/questions/USCIS-2008-050-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/questions/USCIS-2008-050-question.mp3",
+      "sha256": "dade43e4c3058f6a8cbbb7997f85543584b1b2af4f257432a21ff2066c83eeec"
+    },
+    {
+      "key": "answer:USCIS-2008-050",
+      "questionId": "USCIS-2008-050",
+      "kind": "answer",
+      "targetCode": "2008",
+      "file": "2008/answers/USCIS-2008-050-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/answers/USCIS-2008-050-answer.mp3",
+      "sha256": "7ead4e802c9804d13e627bab1274487131421fd7e7aecb5b7bc6128317c46314"
+    },
+    {
+      "key": "question:USCIS-2008-051",
+      "questionId": "USCIS-2008-051",
+      "kind": "question",
+      "targetCode": "2008",
+      "file": "2008/questions/USCIS-2008-051-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/questions/USCIS-2008-051-question.mp3",
+      "sha256": "4ea59381784f55cd694b0a7ba1b61175abebd7e5eebc2c05fdb74e070630f298"
+    },
+    {
+      "key": "answer:USCIS-2008-051",
+      "questionId": "USCIS-2008-051",
+      "kind": "answer",
+      "targetCode": "2008",
+      "file": "2008/answers/USCIS-2008-051-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/answers/USCIS-2008-051-answer.mp3",
+      "sha256": "d6e2a70eef88f0e8f708bf736f7510fa42c80392a5941c892c53dddd85bced0d"
+    },
+    {
+      "key": "question:USCIS-2008-052",
+      "questionId": "USCIS-2008-052",
+      "kind": "question",
+      "targetCode": "2008",
+      "file": "2008/questions/USCIS-2008-052-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/questions/USCIS-2008-052-question.mp3",
+      "sha256": "a0d0cd5cdc625286bb04ad70a87da916ea14572a6cd3aac536a226bf0b8bce47"
+    },
+    {
+      "key": "answer:USCIS-2008-052",
+      "questionId": "USCIS-2008-052",
+      "kind": "answer",
+      "targetCode": "2008",
+      "file": "2008/answers/USCIS-2008-052-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/answers/USCIS-2008-052-answer.mp3",
+      "sha256": "9221115b4b049dfda3dec8d1bf1ae023d192f1872cc30ab465bd2598a8f762e6"
+    },
+    {
+      "key": "question:USCIS-2008-053",
+      "questionId": "USCIS-2008-053",
+      "kind": "question",
+      "targetCode": "2008",
+      "file": "2008/questions/USCIS-2008-053-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/questions/USCIS-2008-053-question.mp3",
+      "sha256": "7c389cda0ea18a19ae2f51c8267dc8a7d7ac430329b5e6d5e63e2491acc05257"
+    },
+    {
+      "key": "answer:USCIS-2008-053",
+      "questionId": "USCIS-2008-053",
+      "kind": "answer",
+      "targetCode": "2008",
+      "file": "2008/answers/USCIS-2008-053-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/answers/USCIS-2008-053-answer.mp3",
+      "sha256": "7fae0aa52ad30253d8da078b9867bbdd03abba5749b55a28d5e5ded3d9931dae"
+    },
+    {
+      "key": "question:USCIS-2008-054",
+      "questionId": "USCIS-2008-054",
+      "kind": "question",
+      "targetCode": "2008",
+      "file": "2008/questions/USCIS-2008-054-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/questions/USCIS-2008-054-question.mp3",
+      "sha256": "9699dbd2538134dddea0e104ec3eae513ae335fb2cc0d99dab3a6c16d9f02c37"
+    },
+    {
+      "key": "answer:USCIS-2008-054",
+      "questionId": "USCIS-2008-054",
+      "kind": "answer",
+      "targetCode": "2008",
+      "file": "2008/answers/USCIS-2008-054-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/answers/USCIS-2008-054-answer.mp3",
+      "sha256": "6e1852237e638f7822bf2cf9ded1adc4262eb89536c2e6f49c7496fb1b8069f7"
+    },
+    {
+      "key": "question:USCIS-2008-055",
+      "questionId": "USCIS-2008-055",
+      "kind": "question",
+      "targetCode": "2008",
+      "file": "2008/questions/USCIS-2008-055-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/questions/USCIS-2008-055-question.mp3",
+      "sha256": "c9b77bef843d376627d9f4a5bb624b15e909fc0d6f42264c45c59036a8756251"
+    },
+    {
+      "key": "answer:USCIS-2008-055",
+      "questionId": "USCIS-2008-055",
+      "kind": "answer",
+      "targetCode": "2008",
+      "file": "2008/answers/USCIS-2008-055-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/answers/USCIS-2008-055-answer.mp3",
+      "sha256": "ac2e62171f8ba741f566d0826cce9d2c8acf97c8f45f0b1b47b0aa24d8e88a91"
+    },
+    {
+      "key": "question:USCIS-2008-056",
+      "questionId": "USCIS-2008-056",
+      "kind": "question",
+      "targetCode": "2008",
+      "file": "2008/questions/USCIS-2008-056-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/questions/USCIS-2008-056-question.mp3",
+      "sha256": "9b2c34111d4884044505123639ddf53547f3c83d62022a032ece918306804386"
+    },
+    {
+      "key": "answer:USCIS-2008-056",
+      "questionId": "USCIS-2008-056",
+      "kind": "answer",
+      "targetCode": "2008",
+      "file": "2008/answers/USCIS-2008-056-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/answers/USCIS-2008-056-answer.mp3",
+      "sha256": "baaa4636bb0d18eac85a9d363d70f2eb619e708f4a4f26721f4422f1ac30da35"
+    },
+    {
+      "key": "question:USCIS-2008-057",
+      "questionId": "USCIS-2008-057",
+      "kind": "question",
+      "targetCode": "2008",
+      "file": "2008/questions/USCIS-2008-057-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/questions/USCIS-2008-057-question.mp3",
+      "sha256": "dbc609a30d3aca8db2acc959f1b0506c2130fed650107809ef9bde83ad627592"
+    },
+    {
+      "key": "answer:USCIS-2008-057",
+      "questionId": "USCIS-2008-057",
+      "kind": "answer",
+      "targetCode": "2008",
+      "file": "2008/answers/USCIS-2008-057-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/answers/USCIS-2008-057-answer.mp3",
+      "sha256": "62f6aa71a542b7f136fc9f183d1346bcc1b504986a23d688aca910feada7cef7"
+    },
+    {
+      "key": "question:USCIS-2008-058",
+      "questionId": "USCIS-2008-058",
+      "kind": "question",
+      "targetCode": "2008",
+      "file": "2008/questions/USCIS-2008-058-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/questions/USCIS-2008-058-question.mp3",
+      "sha256": "334c130afd851f4008c97c9d60ab1b60968c2faf7e88c0f0a7719ee0ffab870e"
+    },
+    {
+      "key": "answer:USCIS-2008-058",
+      "questionId": "USCIS-2008-058",
+      "kind": "answer",
+      "targetCode": "2008",
+      "file": "2008/answers/USCIS-2008-058-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/answers/USCIS-2008-058-answer.mp3",
+      "sha256": "5f1e88bcdda6f70c547c23f9604b5b12be25056dada55be7037e0592c8d6ad9e"
+    },
+    {
+      "key": "question:USCIS-2008-059",
+      "questionId": "USCIS-2008-059",
+      "kind": "question",
+      "targetCode": "2008",
+      "file": "2008/questions/USCIS-2008-059-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/questions/USCIS-2008-059-question.mp3",
+      "sha256": "b0b8db7f3002717f2465e7134d5f0e9c12bfec857234d37cb69f92309dc86b0e"
+    },
+    {
+      "key": "answer:USCIS-2008-059",
+      "questionId": "USCIS-2008-059",
+      "kind": "answer",
+      "targetCode": "2008",
+      "file": "2008/answers/USCIS-2008-059-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/answers/USCIS-2008-059-answer.mp3",
+      "sha256": "80d74ae5ea85303654e733a76df17a31411895178ebde171dae8655585f2cdc0"
+    },
+    {
+      "key": "question:USCIS-2008-060",
+      "questionId": "USCIS-2008-060",
+      "kind": "question",
+      "targetCode": "2008",
+      "file": "2008/questions/USCIS-2008-060-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/questions/USCIS-2008-060-question.mp3",
+      "sha256": "537a6141bd96d0ed3e84eb02cc05bc9b2fc60efc89e8a211b932d8bbece7914c"
+    },
+    {
+      "key": "answer:USCIS-2008-060",
+      "questionId": "USCIS-2008-060",
+      "kind": "answer",
+      "targetCode": "2008",
+      "file": "2008/answers/USCIS-2008-060-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/answers/USCIS-2008-060-answer.mp3",
+      "sha256": "8ba90ac23427ff9fd309d29d4aff09359785f4670fd26bdc404d6e2445b518e8"
+    },
+    {
+      "key": "question:USCIS-2008-061",
+      "questionId": "USCIS-2008-061",
+      "kind": "question",
+      "targetCode": "2008",
+      "file": "2008/questions/USCIS-2008-061-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/questions/USCIS-2008-061-question.mp3",
+      "sha256": "46616b86bf1cbea9e95b366172cbc7528285c3ed24b8ade56fda698482144770"
+    },
+    {
+      "key": "answer:USCIS-2008-061",
+      "questionId": "USCIS-2008-061",
+      "kind": "answer",
+      "targetCode": "2008",
+      "file": "2008/answers/USCIS-2008-061-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/answers/USCIS-2008-061-answer.mp3",
+      "sha256": "6458dc8d21297d2ed5749d07b9fd10feb4e66ec6bc175ac093214a0e42f1adae"
+    },
+    {
+      "key": "question:USCIS-2008-062",
+      "questionId": "USCIS-2008-062",
+      "kind": "question",
+      "targetCode": "2008",
+      "file": "2008/questions/USCIS-2008-062-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/questions/USCIS-2008-062-question.mp3",
+      "sha256": "22e9f48bb385581c34c163592b50b8fda7e40887c16dc731fb5f7ea4aaa9c30b"
+    },
+    {
+      "key": "answer:USCIS-2008-062",
+      "questionId": "USCIS-2008-062",
+      "kind": "answer",
+      "targetCode": "2008",
+      "file": "2008/answers/USCIS-2008-062-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/answers/USCIS-2008-062-answer.mp3",
+      "sha256": "ebb1ee53231d38f3c04e2c2628cf45a798daa195db45cf9aaf73205abc064db4"
+    },
+    {
+      "key": "question:USCIS-2008-063",
+      "questionId": "USCIS-2008-063",
+      "kind": "question",
+      "targetCode": "2008",
+      "file": "2008/questions/USCIS-2008-063-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/questions/USCIS-2008-063-question.mp3",
+      "sha256": "17b780b27369807b1a05c0be80169e933fecaa9a0b7948822adb9900b5feab5d"
+    },
+    {
+      "key": "answer:USCIS-2008-063",
+      "questionId": "USCIS-2008-063",
+      "kind": "answer",
+      "targetCode": "2008",
+      "file": "2008/answers/USCIS-2008-063-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/answers/USCIS-2008-063-answer.mp3",
+      "sha256": "fdaa0743a51560c40ebe6edf8c54403cefec6585db55db85f1f27e3ead893616"
+    },
+    {
+      "key": "question:USCIS-2008-064",
+      "questionId": "USCIS-2008-064",
+      "kind": "question",
+      "targetCode": "2008",
+      "file": "2008/questions/USCIS-2008-064-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/questions/USCIS-2008-064-question.mp3",
+      "sha256": "25fa9bada815db0a95cd9a6e98b121968c89823444664a21b3a359278b50f176"
+    },
+    {
+      "key": "answer:USCIS-2008-064",
+      "questionId": "USCIS-2008-064",
+      "kind": "answer",
+      "targetCode": "2008",
+      "file": "2008/answers/USCIS-2008-064-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/answers/USCIS-2008-064-answer.mp3",
+      "sha256": "faa49d8a25f5aff91cfea4e43498abebf65e8cc2fa17c1cb505ee5e6314e6728"
+    },
+    {
+      "key": "question:USCIS-2008-065",
+      "questionId": "USCIS-2008-065",
+      "kind": "question",
+      "targetCode": "2008",
+      "file": "2008/questions/USCIS-2008-065-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/questions/USCIS-2008-065-question.mp3",
+      "sha256": "c8888099c332322d9dae614ad9096a8b7d39c45206487d8ada6286d9bf7baa2a"
+    },
+    {
+      "key": "answer:USCIS-2008-065",
+      "questionId": "USCIS-2008-065",
+      "kind": "answer",
+      "targetCode": "2008",
+      "file": "2008/answers/USCIS-2008-065-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/answers/USCIS-2008-065-answer.mp3",
+      "sha256": "79d54c8ef4e01e0d68c79485ba40762983c707d8f28eeec85942050810471de5"
+    },
+    {
+      "key": "question:USCIS-2008-066",
+      "questionId": "USCIS-2008-066",
+      "kind": "question",
+      "targetCode": "2008",
+      "file": "2008/questions/USCIS-2008-066-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/questions/USCIS-2008-066-question.mp3",
+      "sha256": "34bba222a43d9d551f58a999dae1e1df284215b1ed496d8533f8f996a73959ab"
+    },
+    {
+      "key": "answer:USCIS-2008-066",
+      "questionId": "USCIS-2008-066",
+      "kind": "answer",
+      "targetCode": "2008",
+      "file": "2008/answers/USCIS-2008-066-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/answers/USCIS-2008-066-answer.mp3",
+      "sha256": "df2cbb47b70d873d1e10c608656f0ab9280dfbe127485694ea0f5d9b4e8676d4"
+    },
+    {
+      "key": "question:USCIS-2008-067",
+      "questionId": "USCIS-2008-067",
+      "kind": "question",
+      "targetCode": "2008",
+      "file": "2008/questions/USCIS-2008-067-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/questions/USCIS-2008-067-question.mp3",
+      "sha256": "cb8b31906cc22edcc5b1199adea68bb5774a7d9e5860fd3b8e76f1c08dfca8e3"
+    },
+    {
+      "key": "answer:USCIS-2008-067",
+      "questionId": "USCIS-2008-067",
+      "kind": "answer",
+      "targetCode": "2008",
+      "file": "2008/answers/USCIS-2008-067-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/answers/USCIS-2008-067-answer.mp3",
+      "sha256": "e5d28f3dad6c72dd028b3bb440ac1e032d5768dde1a1f117a3d5b7396fa204e7"
+    },
+    {
+      "key": "question:USCIS-2008-068",
+      "questionId": "USCIS-2008-068",
+      "kind": "question",
+      "targetCode": "2008",
+      "file": "2008/questions/USCIS-2008-068-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/questions/USCIS-2008-068-question.mp3",
+      "sha256": "9d1f47cd831a04feee519046801606b70c9b0b4a128fcc24b14a7f61f4e3fc1b"
+    },
+    {
+      "key": "answer:USCIS-2008-068",
+      "questionId": "USCIS-2008-068",
+      "kind": "answer",
+      "targetCode": "2008",
+      "file": "2008/answers/USCIS-2008-068-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/answers/USCIS-2008-068-answer.mp3",
+      "sha256": "93250df6f23ec2d3d698a960191d893f634566edd78bb880ff6e230a229d1946"
+    },
+    {
+      "key": "question:USCIS-2008-069",
+      "questionId": "USCIS-2008-069",
+      "kind": "question",
+      "targetCode": "2008",
+      "file": "2008/questions/USCIS-2008-069-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/questions/USCIS-2008-069-question.mp3",
+      "sha256": "e9a952d5e43242a0578f50290cbed7f94e32a7624c3e4d901f09d23ce5163c21"
+    },
+    {
+      "key": "answer:USCIS-2008-069",
+      "questionId": "USCIS-2008-069",
+      "kind": "answer",
+      "targetCode": "2008",
+      "file": "2008/answers/USCIS-2008-069-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/answers/USCIS-2008-069-answer.mp3",
+      "sha256": "ebcec86a93281b211103b5d702dfba9eb5b52a1be8b8f8f8ab94c5cd66b0d538"
+    },
+    {
+      "key": "question:USCIS-2008-070",
+      "questionId": "USCIS-2008-070",
+      "kind": "question",
+      "targetCode": "2008",
+      "file": "2008/questions/USCIS-2008-070-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/questions/USCIS-2008-070-question.mp3",
+      "sha256": "03626c6706e3885e9bb154afcdd3cd07a96c5393573efc0f861108fd992d568e"
+    },
+    {
+      "key": "answer:USCIS-2008-070",
+      "questionId": "USCIS-2008-070",
+      "kind": "answer",
+      "targetCode": "2008",
+      "file": "2008/answers/USCIS-2008-070-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/answers/USCIS-2008-070-answer.mp3",
+      "sha256": "ebcec86a93281b211103b5d702dfba9eb5b52a1be8b8f8f8ab94c5cd66b0d538"
+    },
+    {
+      "key": "question:USCIS-2008-071",
+      "questionId": "USCIS-2008-071",
+      "kind": "question",
+      "targetCode": "2008",
+      "file": "2008/questions/USCIS-2008-071-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/questions/USCIS-2008-071-question.mp3",
+      "sha256": "7272ae081ece5e3a0ce962968000cb9f232c7b6ee533559f2a610caafb905a5d"
+    },
+    {
+      "key": "answer:USCIS-2008-071",
+      "questionId": "USCIS-2008-071",
+      "kind": "answer",
+      "targetCode": "2008",
+      "file": "2008/answers/USCIS-2008-071-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/answers/USCIS-2008-071-answer.mp3",
+      "sha256": "bf38f0638054a3fba8762185eaff7b0b3963c7b893c64c829f11ab4b6e3f3704"
+    },
+    {
+      "key": "question:USCIS-2008-072",
+      "questionId": "USCIS-2008-072",
+      "kind": "question",
+      "targetCode": "2008",
+      "file": "2008/questions/USCIS-2008-072-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/questions/USCIS-2008-072-question.mp3",
+      "sha256": "d87f19fc8cda2a92ed38080591e178f534c0306e97851e27425fdc3d63637a8e"
+    },
+    {
+      "key": "answer:USCIS-2008-072",
+      "questionId": "USCIS-2008-072",
+      "kind": "answer",
+      "targetCode": "2008",
+      "file": "2008/answers/USCIS-2008-072-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/answers/USCIS-2008-072-answer.mp3",
+      "sha256": "a6b7045e6c4d2f55be7944589387c7c46a67c1eb850ebe5e499643f09277f435"
+    },
+    {
+      "key": "question:USCIS-2008-073",
+      "questionId": "USCIS-2008-073",
+      "kind": "question",
+      "targetCode": "2008",
+      "file": "2008/questions/USCIS-2008-073-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/questions/USCIS-2008-073-question.mp3",
+      "sha256": "884760a44eaedfeaafeaafcaed5229bf7b0a655e72a0ded5f7543c4209da619e"
+    },
+    {
+      "key": "answer:USCIS-2008-073",
+      "questionId": "USCIS-2008-073",
+      "kind": "answer",
+      "targetCode": "2008",
+      "file": "2008/answers/USCIS-2008-073-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/answers/USCIS-2008-073-answer.mp3",
+      "sha256": "f8691747ac4c659826d115405f586f0ed4e6681d02e6e6d3f7241b8b43985e4e"
+    },
+    {
+      "key": "question:USCIS-2008-074",
+      "questionId": "USCIS-2008-074",
+      "kind": "question",
+      "targetCode": "2008",
+      "file": "2008/questions/USCIS-2008-074-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/questions/USCIS-2008-074-question.mp3",
+      "sha256": "b75d5b24b05f9f19afd46da03dcf754fe665ae562cee5689e851e65f6f22fab6"
+    },
+    {
+      "key": "answer:USCIS-2008-074",
+      "questionId": "USCIS-2008-074",
+      "kind": "answer",
+      "targetCode": "2008",
+      "file": "2008/answers/USCIS-2008-074-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/answers/USCIS-2008-074-answer.mp3",
+      "sha256": "37e6a13a1258923ab545786d672a2fb17bc44dd4e00dde69a75583cc0b3ac86a"
+    },
+    {
+      "key": "question:USCIS-2008-075",
+      "questionId": "USCIS-2008-075",
+      "kind": "question",
+      "targetCode": "2008",
+      "file": "2008/questions/USCIS-2008-075-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/questions/USCIS-2008-075-question.mp3",
+      "sha256": "b390ef6db327b5964f111077e007256a349f31f869bf9a1ce5275bd2ce4e3247"
+    },
+    {
+      "key": "answer:USCIS-2008-075",
+      "questionId": "USCIS-2008-075",
+      "kind": "answer",
+      "targetCode": "2008",
+      "file": "2008/answers/USCIS-2008-075-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/answers/USCIS-2008-075-answer.mp3",
+      "sha256": "4e766a19d02f1ddb9e6ca385f749b3bc0fd088a95e6f6cb6a083aa6fde2fc467"
+    },
+    {
+      "key": "question:USCIS-2008-076",
+      "questionId": "USCIS-2008-076",
+      "kind": "question",
+      "targetCode": "2008",
+      "file": "2008/questions/USCIS-2008-076-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/questions/USCIS-2008-076-question.mp3",
+      "sha256": "caaa3e697e802cf09063d7592d81e4b57e588a5c54adf0313f93e98dcee74f0e"
+    },
+    {
+      "key": "answer:USCIS-2008-076",
+      "questionId": "USCIS-2008-076",
+      "kind": "answer",
+      "targetCode": "2008",
+      "file": "2008/answers/USCIS-2008-076-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/answers/USCIS-2008-076-answer.mp3",
+      "sha256": "40833f8b4618c0893a5e4222b9b89a6886b55c468daac471b4e643acaa2e3d04"
+    },
+    {
+      "key": "question:USCIS-2008-077",
+      "questionId": "USCIS-2008-077",
+      "kind": "question",
+      "targetCode": "2008",
+      "file": "2008/questions/USCIS-2008-077-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/questions/USCIS-2008-077-question.mp3",
+      "sha256": "4dfb35a42bc858f26949d7e7bb2af61c64072b12d0d8b11e08db320b67c6cffc"
+    },
+    {
+      "key": "answer:USCIS-2008-077",
+      "questionId": "USCIS-2008-077",
+      "kind": "answer",
+      "targetCode": "2008",
+      "file": "2008/answers/USCIS-2008-077-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/answers/USCIS-2008-077-answer.mp3",
+      "sha256": "57d6d647a3734d17e5a2358581ec9e5492f7af13672e157550657c094a20c540"
+    },
+    {
+      "key": "question:USCIS-2008-078",
+      "questionId": "USCIS-2008-078",
+      "kind": "question",
+      "targetCode": "2008",
+      "file": "2008/questions/USCIS-2008-078-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/questions/USCIS-2008-078-question.mp3",
+      "sha256": "da0a7f40b10b64b7f03b31bad90dedeebb43802b33db8c44dfd27c555b0faa26"
+    },
+    {
+      "key": "answer:USCIS-2008-078",
+      "questionId": "USCIS-2008-078",
+      "kind": "answer",
+      "targetCode": "2008",
+      "file": "2008/answers/USCIS-2008-078-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/answers/USCIS-2008-078-answer.mp3",
+      "sha256": "b79f90a8a4339748c3f3b18cb0c207bfe6ce149d0bec457723d7d7fdb279fb7c"
+    },
+    {
+      "key": "question:USCIS-2008-079",
+      "questionId": "USCIS-2008-079",
+      "kind": "question",
+      "targetCode": "2008",
+      "file": "2008/questions/USCIS-2008-079-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/questions/USCIS-2008-079-question.mp3",
+      "sha256": "d16473cd86a5541ce18978520c1817b8337b2dc540c5fcb244dcbdb093878aa1"
+    },
+    {
+      "key": "answer:USCIS-2008-079",
+      "questionId": "USCIS-2008-079",
+      "kind": "answer",
+      "targetCode": "2008",
+      "file": "2008/answers/USCIS-2008-079-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/answers/USCIS-2008-079-answer.mp3",
+      "sha256": "7625980d00879db75eb362b6605bbad0c69651daad9d574031e946a97272f6e9"
+    },
+    {
+      "key": "question:USCIS-2008-080",
+      "questionId": "USCIS-2008-080",
+      "kind": "question",
+      "targetCode": "2008",
+      "file": "2008/questions/USCIS-2008-080-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/questions/USCIS-2008-080-question.mp3",
+      "sha256": "9ed43b9bc8381fd5036d16fc92b1e30042486bbd29b2668207b32a3b5b0a41ed"
+    },
+    {
+      "key": "answer:USCIS-2008-080",
+      "questionId": "USCIS-2008-080",
+      "kind": "answer",
+      "targetCode": "2008",
+      "file": "2008/answers/USCIS-2008-080-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/answers/USCIS-2008-080-answer.mp3",
+      "sha256": "e0b8e9a1d40870b1279352b131dedbac450ea4df61e2df64b275724d6f84e5ae"
+    },
+    {
+      "key": "question:USCIS-2008-081",
+      "questionId": "USCIS-2008-081",
+      "kind": "question",
+      "targetCode": "2008",
+      "file": "2008/questions/USCIS-2008-081-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/questions/USCIS-2008-081-question.mp3",
+      "sha256": "023c206044b72551fdde09dc72225aa6d78a591cc0ff0e743637c33a7f6a6598"
+    },
+    {
+      "key": "answer:USCIS-2008-081",
+      "questionId": "USCIS-2008-081",
+      "kind": "answer",
+      "targetCode": "2008",
+      "file": "2008/answers/USCIS-2008-081-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/answers/USCIS-2008-081-answer.mp3",
+      "sha256": "d620ba59bb9ea9c1f8846e781c6aa91664565ab5cf7ce17df7d288b1b737982d"
+    },
+    {
+      "key": "question:USCIS-2008-082",
+      "questionId": "USCIS-2008-082",
+      "kind": "question",
+      "targetCode": "2008",
+      "file": "2008/questions/USCIS-2008-082-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/questions/USCIS-2008-082-question.mp3",
+      "sha256": "50bacec350b0fdf047ee5f8e63ed62b98cd4c56552293ffa23f416f34f7afc4c"
+    },
+    {
+      "key": "answer:USCIS-2008-082",
+      "questionId": "USCIS-2008-082",
+      "kind": "answer",
+      "targetCode": "2008",
+      "file": "2008/answers/USCIS-2008-082-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/answers/USCIS-2008-082-answer.mp3",
+      "sha256": "2a2a53b486f33aa4f07f166b594d3149f2838a0d73f217db26bb4ffb94c00487"
+    },
+    {
+      "key": "question:USCIS-2008-083",
+      "questionId": "USCIS-2008-083",
+      "kind": "question",
+      "targetCode": "2008",
+      "file": "2008/questions/USCIS-2008-083-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/questions/USCIS-2008-083-question.mp3",
+      "sha256": "92a16b68b78e96be08a31e3f43697e846afe01853319832d7539227989abe7c2"
+    },
+    {
+      "key": "answer:USCIS-2008-083",
+      "questionId": "USCIS-2008-083",
+      "kind": "answer",
+      "targetCode": "2008",
+      "file": "2008/answers/USCIS-2008-083-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/answers/USCIS-2008-083-answer.mp3",
+      "sha256": "73e55d9ea90120133da74edb33de03febbf5eec99c2f807365c67ad7ed3ecea8"
+    },
+    {
+      "key": "question:USCIS-2008-084",
+      "questionId": "USCIS-2008-084",
+      "kind": "question",
+      "targetCode": "2008",
+      "file": "2008/questions/USCIS-2008-084-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/questions/USCIS-2008-084-question.mp3",
+      "sha256": "60346dd5a075453b25aeeec406a3b0cfe15691c90fc8b11f37ca877dbf287117"
+    },
+    {
+      "key": "answer:USCIS-2008-084",
+      "questionId": "USCIS-2008-084",
+      "kind": "answer",
+      "targetCode": "2008",
+      "file": "2008/answers/USCIS-2008-084-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/answers/USCIS-2008-084-answer.mp3",
+      "sha256": "ac16128e5e2bb684c2ed1f257b9fad0e467533436cace5e84c28389fc94480c1"
+    },
+    {
+      "key": "question:USCIS-2008-085",
+      "questionId": "USCIS-2008-085",
+      "kind": "question",
+      "targetCode": "2008",
+      "file": "2008/questions/USCIS-2008-085-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/questions/USCIS-2008-085-question.mp3",
+      "sha256": "b7dbc6e0f99bbf8eb97f4d97b5895259c22ac68e2e15e5f4973f61b44b668da0"
+    },
+    {
+      "key": "answer:USCIS-2008-085",
+      "questionId": "USCIS-2008-085",
+      "kind": "answer",
+      "targetCode": "2008",
+      "file": "2008/answers/USCIS-2008-085-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/answers/USCIS-2008-085-answer.mp3",
+      "sha256": "be5b3e39d12f7ca702405c8530c3e416cf788b5f21326c0c73766dfdfbb64962"
+    },
+    {
+      "key": "question:USCIS-2008-086",
+      "questionId": "USCIS-2008-086",
+      "kind": "question",
+      "targetCode": "2008",
+      "file": "2008/questions/USCIS-2008-086-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/questions/USCIS-2008-086-question.mp3",
+      "sha256": "7ac7461a4aed4e1e25194d9d2747f86411fceeb37eab569a6b2aec277b55acb9"
+    },
+    {
+      "key": "answer:USCIS-2008-086",
+      "questionId": "USCIS-2008-086",
+      "kind": "answer",
+      "targetCode": "2008",
+      "file": "2008/answers/USCIS-2008-086-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/answers/USCIS-2008-086-answer.mp3",
+      "sha256": "84864ff9360321c1bc1192c29229738450a2dec3f10b0e4f3d894f262d1a7d65"
+    },
+    {
+      "key": "question:USCIS-2008-087",
+      "questionId": "USCIS-2008-087",
+      "kind": "question",
+      "targetCode": "2008",
+      "file": "2008/questions/USCIS-2008-087-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/questions/USCIS-2008-087-question.mp3",
+      "sha256": "beef27651369d5227434422ae1b3664301b8d61db9bc71a7d19f8553fc9a602c"
+    },
+    {
+      "key": "answer:USCIS-2008-087",
+      "questionId": "USCIS-2008-087",
+      "kind": "answer",
+      "targetCode": "2008",
+      "file": "2008/answers/USCIS-2008-087-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/answers/USCIS-2008-087-answer.mp3",
+      "sha256": "445016df2d30fef9b1d3e5032d5b57ad8fa423b51125d467bc7a6b723443275e"
+    },
+    {
+      "key": "question:USCIS-2008-088",
+      "questionId": "USCIS-2008-088",
+      "kind": "question",
+      "targetCode": "2008",
+      "file": "2008/questions/USCIS-2008-088-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/questions/USCIS-2008-088-question.mp3",
+      "sha256": "869b26e1a64eb986b3fbd66b34fcbc64f4e95c41ea1c965cf7679a316e627707"
+    },
+    {
+      "key": "answer:USCIS-2008-088",
+      "questionId": "USCIS-2008-088",
+      "kind": "answer",
+      "targetCode": "2008",
+      "file": "2008/answers/USCIS-2008-088-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/answers/USCIS-2008-088-answer.mp3",
+      "sha256": "74e66d70bb6eda5ba8db53827b8d4bd6e37da8755b943a9e906332a5d8ef9144"
+    },
+    {
+      "key": "question:USCIS-2008-089",
+      "questionId": "USCIS-2008-089",
+      "kind": "question",
+      "targetCode": "2008",
+      "file": "2008/questions/USCIS-2008-089-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/questions/USCIS-2008-089-question.mp3",
+      "sha256": "ce5dd766816480cd90356b6d6ab87216e522a005bed8ad04ce73438487db7a93"
+    },
+    {
+      "key": "answer:USCIS-2008-089",
+      "questionId": "USCIS-2008-089",
+      "kind": "answer",
+      "targetCode": "2008",
+      "file": "2008/answers/USCIS-2008-089-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/answers/USCIS-2008-089-answer.mp3",
+      "sha256": "598b8fce41e75617860013da977c259b300163af851eacc31989795e4c5f9ade"
+    },
+    {
+      "key": "question:USCIS-2008-090",
+      "questionId": "USCIS-2008-090",
+      "kind": "question",
+      "targetCode": "2008",
+      "file": "2008/questions/USCIS-2008-090-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/questions/USCIS-2008-090-question.mp3",
+      "sha256": "11658fc5aa840cba5bdf2848252e2022c16e224bee5fdc1b87bc812ee9ecd4e5"
+    },
+    {
+      "key": "answer:USCIS-2008-090",
+      "questionId": "USCIS-2008-090",
+      "kind": "answer",
+      "targetCode": "2008",
+      "file": "2008/answers/USCIS-2008-090-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/answers/USCIS-2008-090-answer.mp3",
+      "sha256": "c9310d35f3264dcde496523195664ea726b7db423a83d958b1ee27d1114a5fe9"
+    },
+    {
+      "key": "question:USCIS-2008-091",
+      "questionId": "USCIS-2008-091",
+      "kind": "question",
+      "targetCode": "2008",
+      "file": "2008/questions/USCIS-2008-091-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/questions/USCIS-2008-091-question.mp3",
+      "sha256": "1104f2a77bd5c99ffdf17b9d360205a67df314d38355deeba9a814ec9e116a11"
+    },
+    {
+      "key": "answer:USCIS-2008-091",
+      "questionId": "USCIS-2008-091",
+      "kind": "answer",
+      "targetCode": "2008",
+      "file": "2008/answers/USCIS-2008-091-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/answers/USCIS-2008-091-answer.mp3",
+      "sha256": "bc3bd97b9fdbfa21b3693beb9867848d34c92ecfa3ae4f0045a09032f37d1d80"
+    },
+    {
+      "key": "question:USCIS-2008-092",
+      "questionId": "USCIS-2008-092",
+      "kind": "question",
+      "targetCode": "2008",
+      "file": "2008/questions/USCIS-2008-092-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/questions/USCIS-2008-092-question.mp3",
+      "sha256": "986aa47f7767e1077be7743c8570bf6899060b60cc6e8bbf43c5997a7bb7b9c0"
+    },
+    {
+      "key": "answer:USCIS-2008-092",
+      "questionId": "USCIS-2008-092",
+      "kind": "answer",
+      "targetCode": "2008",
+      "file": "2008/answers/USCIS-2008-092-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/answers/USCIS-2008-092-answer.mp3",
+      "sha256": "d8d579f456974e6ec40bb1dd09ce8eceb27bc778d6865e3a9474b2cd41250586"
+    },
+    {
+      "key": "question:USCIS-2008-093",
+      "questionId": "USCIS-2008-093",
+      "kind": "question",
+      "targetCode": "2008",
+      "file": "2008/questions/USCIS-2008-093-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/questions/USCIS-2008-093-question.mp3",
+      "sha256": "e8f6ab26a35620c18190e24a8db9574dfe6919e94abb2dab9fd7abc2d709e2f1"
+    },
+    {
+      "key": "answer:USCIS-2008-093",
+      "questionId": "USCIS-2008-093",
+      "kind": "answer",
+      "targetCode": "2008",
+      "file": "2008/answers/USCIS-2008-093-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/answers/USCIS-2008-093-answer.mp3",
+      "sha256": "c2583b72cf85a8f6c0091b5221fa6c17ef3b50ec7bf46fa358887d418a406e77"
+    },
+    {
+      "key": "question:USCIS-2008-094",
+      "questionId": "USCIS-2008-094",
+      "kind": "question",
+      "targetCode": "2008",
+      "file": "2008/questions/USCIS-2008-094-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/questions/USCIS-2008-094-question.mp3",
+      "sha256": "41a51497abbec22053eb617ac8c5fd7badbf2cbb4bc1d94aa5c8a3bab35bbf28"
+    },
+    {
+      "key": "answer:USCIS-2008-094",
+      "questionId": "USCIS-2008-094",
+      "kind": "answer",
+      "targetCode": "2008",
+      "file": "2008/answers/USCIS-2008-094-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/answers/USCIS-2008-094-answer.mp3",
+      "sha256": "d358b885350f55368add78364fd7af2208584a09dca610a39d8553dc5ef7f4d3"
+    },
+    {
+      "key": "question:USCIS-2008-095",
+      "questionId": "USCIS-2008-095",
+      "kind": "question",
+      "targetCode": "2008",
+      "file": "2008/questions/USCIS-2008-095-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/questions/USCIS-2008-095-question.mp3",
+      "sha256": "691af27b7e82d46f9dfe47a4b822bd55ffb2766c06664ebdeeac82aa6f3dac4c"
+    },
+    {
+      "key": "answer:USCIS-2008-095",
+      "questionId": "USCIS-2008-095",
+      "kind": "answer",
+      "targetCode": "2008",
+      "file": "2008/answers/USCIS-2008-095-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/answers/USCIS-2008-095-answer.mp3",
+      "sha256": "4cb5f0f398ef47c17132f58365dfa5165e44a3e2cd14028b997f671d20e21c52"
+    },
+    {
+      "key": "question:USCIS-2008-096",
+      "questionId": "USCIS-2008-096",
+      "kind": "question",
+      "targetCode": "2008",
+      "file": "2008/questions/USCIS-2008-096-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/questions/USCIS-2008-096-question.mp3",
+      "sha256": "2fa3fcab33d7bd0b71f66113f45d127da8385c275e932cacdc866b0823e4a08b"
+    },
+    {
+      "key": "answer:USCIS-2008-096",
+      "questionId": "USCIS-2008-096",
+      "kind": "answer",
+      "targetCode": "2008",
+      "file": "2008/answers/USCIS-2008-096-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/answers/USCIS-2008-096-answer.mp3",
+      "sha256": "4a6b888b246944993dd75d639e667de0c6b731d720838f5e0a36166d78737bd3"
+    },
+    {
+      "key": "question:USCIS-2008-097",
+      "questionId": "USCIS-2008-097",
+      "kind": "question",
+      "targetCode": "2008",
+      "file": "2008/questions/USCIS-2008-097-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/questions/USCIS-2008-097-question.mp3",
+      "sha256": "d4c33cff0359d110313e11156e0da42a39e87e76254a7abe9b592561b0d25ce7"
+    },
+    {
+      "key": "answer:USCIS-2008-097",
+      "questionId": "USCIS-2008-097",
+      "kind": "answer",
+      "targetCode": "2008",
+      "file": "2008/answers/USCIS-2008-097-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/answers/USCIS-2008-097-answer.mp3",
+      "sha256": "b0b404c5175d542edfefa19f672e4f623562941dc216947a567c13c55475b73c"
+    },
+    {
+      "key": "question:USCIS-2008-098",
+      "questionId": "USCIS-2008-098",
+      "kind": "question",
+      "targetCode": "2008",
+      "file": "2008/questions/USCIS-2008-098-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/questions/USCIS-2008-098-question.mp3",
+      "sha256": "ee04a15fc9b4a05c74dd38afc62daef6202dec3dc5e2d4f7c130b6c464ef4882"
+    },
+    {
+      "key": "answer:USCIS-2008-098",
+      "questionId": "USCIS-2008-098",
+      "kind": "answer",
+      "targetCode": "2008",
+      "file": "2008/answers/USCIS-2008-098-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/answers/USCIS-2008-098-answer.mp3",
+      "sha256": "2e7cb0ebc9d9bf64988f8d80ed6cb916e9c1cfb3785db76ac9b34cb8c59f0976"
+    },
+    {
+      "key": "question:USCIS-2008-099",
+      "questionId": "USCIS-2008-099",
+      "kind": "question",
+      "targetCode": "2008",
+      "file": "2008/questions/USCIS-2008-099-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/questions/USCIS-2008-099-question.mp3",
+      "sha256": "b67cfd7a0502ed3d606ead2bf20345e10ea16ccc6d981ad6acf2efde9f809bf0"
+    },
+    {
+      "key": "answer:USCIS-2008-099",
+      "questionId": "USCIS-2008-099",
+      "kind": "answer",
+      "targetCode": "2008",
+      "file": "2008/answers/USCIS-2008-099-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/answers/USCIS-2008-099-answer.mp3",
+      "sha256": "39e66f4e8467bd94c9d43c931123b58234d762001e2a0b7c6ac383c2c6c2fb33"
+    },
+    {
+      "key": "question:USCIS-2008-100",
+      "questionId": "USCIS-2008-100",
+      "kind": "question",
+      "targetCode": "2008",
+      "file": "2008/questions/USCIS-2008-100-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/questions/USCIS-2008-100-question.mp3",
+      "sha256": "7738faeefe03d30d435c48ceab753caba44d3ceb7262017893d097dbc7879699"
+    },
+    {
+      "key": "answer:USCIS-2008-100",
+      "questionId": "USCIS-2008-100",
+      "kind": "answer",
+      "targetCode": "2008",
+      "file": "2008/answers/USCIS-2008-100-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2008/answers/USCIS-2008-100-answer.mp3",
+      "sha256": "6c0f49f026e4b7c552807e178bc7a6efedf2062755aba43d215ef9d154ea5a5d"
+    },
+    {
+      "key": "question:USCIS-2025-001",
+      "questionId": "USCIS-2025-001",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-001-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-001-question.mp3",
+      "sha256": "30e71ca8f5f6cc248ef294b31348a702ee2fca4fa17a9d9ac1e02810cebdbfe8"
+    },
+    {
+      "key": "answer:USCIS-2025-001",
+      "questionId": "USCIS-2025-001",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-001-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-001-answer.mp3",
+      "sha256": "173cd4db846e02d33bb01e9576fb17d88646410d8e7967e276f9f6b4758f8618"
+    },
+    {
+      "key": "question:USCIS-2025-002",
+      "questionId": "USCIS-2025-002",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-002-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-002-question.mp3",
+      "sha256": "683f2181f73e8d7f1235eba4879fb3f7dc81687b7c3c0ee06d40ade85210e746"
+    },
+    {
+      "key": "answer:USCIS-2025-002",
+      "questionId": "USCIS-2025-002",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-002-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-002-answer.mp3",
+      "sha256": "5fead8ba22f8b82222f632d9a71e521ae53dfdb790407cf27d415dacb51b8742"
+    },
+    {
+      "key": "question:USCIS-2025-003",
+      "questionId": "USCIS-2025-003",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-003-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-003-question.mp3",
+      "sha256": "3495ae7a37b84ae19f01957159c736acedbc4b9eefeb7b9ca9e36ce094ee259d"
+    },
+    {
+      "key": "answer:USCIS-2025-003",
+      "questionId": "USCIS-2025-003",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-003-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-003-answer.mp3",
+      "sha256": "9fa05ade07e5217580200617beeba7d0e78529356d33213e7fbd8c916686b86f"
+    },
+    {
+      "key": "question:USCIS-2025-004",
+      "questionId": "USCIS-2025-004",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-004-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-004-question.mp3",
+      "sha256": "cda36f23ff507f6b015368992d5977a2ddccf770714752238ba9992e9652121f"
+    },
+    {
+      "key": "answer:USCIS-2025-004",
+      "questionId": "USCIS-2025-004",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-004-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-004-answer.mp3",
+      "sha256": "d14b63fd941d4d2af319948555d423b5d924d5b6239828b9ecece306a5b208e7"
+    },
+    {
+      "key": "question:USCIS-2025-005",
+      "questionId": "USCIS-2025-005",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-005-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-005-question.mp3",
+      "sha256": "13e3516b01dca69942df21044cae0da01a8b5edd15ac82a7f917477bcff49251"
+    },
+    {
+      "key": "answer:USCIS-2025-005",
+      "questionId": "USCIS-2025-005",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-005-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-005-answer.mp3",
+      "sha256": "559b69ad9b36291a4d023c71150b75365fc17d46828bbdcf1369184d32ac9f98"
+    },
+    {
+      "key": "question:USCIS-2025-006",
+      "questionId": "USCIS-2025-006",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-006-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-006-question.mp3",
+      "sha256": "1fb538f800a510bd212fa3b5ea8abd8ddb5d2394df71ff1f1827ef03c21c9125"
+    },
+    {
+      "key": "answer:USCIS-2025-006",
+      "questionId": "USCIS-2025-006",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-006-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-006-answer.mp3",
+      "sha256": "629aebb37faf186aeebef6e33930df3626576f993a551bba49c786d9b92d9994"
+    },
+    {
+      "key": "question:USCIS-2025-007",
+      "questionId": "USCIS-2025-007",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-007-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-007-question.mp3",
+      "sha256": "a08784e74f8e5b5fd69dd804298a376e9cdcb7a90aa2ea4f3e05f55252a85718"
+    },
+    {
+      "key": "answer:USCIS-2025-007",
+      "questionId": "USCIS-2025-007",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-007-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-007-answer.mp3",
+      "sha256": "d790a90344063ecd5d6aa8495e18c08128aa88c99797dfbf12029e7020114008"
+    },
+    {
+      "key": "question:USCIS-2025-008",
+      "questionId": "USCIS-2025-008",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-008-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-008-question.mp3",
+      "sha256": "3bd369e542e3f08f7e5f9df54e1e8493e13416217dfd6b8dcaa6367898b2e1ab"
+    },
+    {
+      "key": "answer:USCIS-2025-008",
+      "questionId": "USCIS-2025-008",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-008-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-008-answer.mp3",
+      "sha256": "16971b4d3dee219cdd922b403d507e447f5a5176cc1c8e6b9ecfe681a33d0487"
+    },
+    {
+      "key": "question:USCIS-2025-009",
+      "questionId": "USCIS-2025-009",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-009-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-009-question.mp3",
+      "sha256": "e70a88334b6128c363628b4726a5a425c50e4e7608f8647fd9ea8ea4afba741f"
+    },
+    {
+      "key": "answer:USCIS-2025-009",
+      "questionId": "USCIS-2025-009",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-009-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-009-answer.mp3",
+      "sha256": "f3532c5b90355ff32d2062d97521edcbf4d2ac6562bbf1b0260201f17091c781"
+    },
+    {
+      "key": "question:USCIS-2025-010",
+      "questionId": "USCIS-2025-010",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-010-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-010-question.mp3",
+      "sha256": "f8e3924babd13f7ec5183ea50ef2c3ad29f414bea20b570d9a1d3ce5a41632c6"
+    },
+    {
+      "key": "answer:USCIS-2025-010",
+      "questionId": "USCIS-2025-010",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-010-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-010-answer.mp3",
+      "sha256": "1c2d77bf0f5a501b464e93cc48759fe33ed94490124bba4fab07cff6c36c5942"
+    },
+    {
+      "key": "question:USCIS-2025-011",
+      "questionId": "USCIS-2025-011",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-011-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-011-question.mp3",
+      "sha256": "3de39aa3dbfe87c6a0be851f2196af4b9651d14770d4887530e68ff12e5e3df2"
+    },
+    {
+      "key": "answer:USCIS-2025-011",
+      "questionId": "USCIS-2025-011",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-011-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-011-answer.mp3",
+      "sha256": "f3532c5b90355ff32d2062d97521edcbf4d2ac6562bbf1b0260201f17091c781"
+    },
+    {
+      "key": "question:USCIS-2025-012",
+      "questionId": "USCIS-2025-012",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-012-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-012-question.mp3",
+      "sha256": "6dba67154a3aa687c52ecac1d79bf48fedfc7d8dfe01aa33178acb15a5c58dd4"
+    },
+    {
+      "key": "answer:USCIS-2025-012",
+      "questionId": "USCIS-2025-012",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-012-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-012-answer.mp3",
+      "sha256": "d01205e146570491d9f3bc9a5f39401962be558869b0be1ee08f83bfab0bdeb0"
+    },
+    {
+      "key": "question:USCIS-2025-013",
+      "questionId": "USCIS-2025-013",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-013-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-013-question.mp3",
+      "sha256": "4c159dbaa1b75daabe8de0fc27fe2ae31a0d6c0a141eb77c57ab495786ef3896"
+    },
+    {
+      "key": "answer:USCIS-2025-013",
+      "questionId": "USCIS-2025-013",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-013-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-013-answer.mp3",
+      "sha256": "09c9438017b5b42685a94ec6fc80f081458c588adf9f3597b2aea189307d3495"
+    },
+    {
+      "key": "question:USCIS-2025-014",
+      "questionId": "USCIS-2025-014",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-014-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-014-question.mp3",
+      "sha256": "f51cafbcee95f2071bf3d386ec94b65de6e92872170cf6168f7815cb02dc6429"
+    },
+    {
+      "key": "answer:USCIS-2025-014",
+      "questionId": "USCIS-2025-014",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-014-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-014-answer.mp3",
+      "sha256": "f3532c5b90355ff32d2062d97521edcbf4d2ac6562bbf1b0260201f17091c781"
+    },
+    {
+      "key": "question:USCIS-2025-015",
+      "questionId": "USCIS-2025-015",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-015-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-015-question.mp3",
+      "sha256": "ddb39573181d64046956df8442351fcf7b2d48a5687dfaa2c994c8c6c04e2229"
+    },
+    {
+      "key": "answer:USCIS-2025-015",
+      "questionId": "USCIS-2025-015",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-015-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-015-answer.mp3",
+      "sha256": "a871940248aae96253bb1de13ce1c21abc0800661a489336b14558c849fe1858"
+    },
+    {
+      "key": "question:USCIS-2025-016",
+      "questionId": "USCIS-2025-016",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-016-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-016-question.mp3",
+      "sha256": "5f705499fa0b99d04e742e18be9616a93956426e0d9829717633eb80a800c2fe"
+    },
+    {
+      "key": "answer:USCIS-2025-016",
+      "questionId": "USCIS-2025-016",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-016-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-016-answer.mp3",
+      "sha256": "245518f147a6976f1f0ddf5c7e185deb140e91270a767e6eaa569f35a52f48c9"
+    },
+    {
+      "key": "question:USCIS-2025-017",
+      "questionId": "USCIS-2025-017",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-017-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-017-question.mp3",
+      "sha256": "2e6ba9740f18410fa72d5ba414c0cc53802e77b80d630c941f71325604f97307"
+    },
+    {
+      "key": "answer:USCIS-2025-017",
+      "questionId": "USCIS-2025-017",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-017-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-017-answer.mp3",
+      "sha256": "bf89ecf9faee0be431889401ba7155c03abcf0686c39ea4b89ca0d8f377c8a66"
+    },
+    {
+      "key": "question:USCIS-2025-018",
+      "questionId": "USCIS-2025-018",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-018-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-018-question.mp3",
+      "sha256": "a3e99be254e3abdd10243c1a732f0616593207906fed0c827c499e35398d4f2b"
+    },
+    {
+      "key": "answer:USCIS-2025-018",
+      "questionId": "USCIS-2025-018",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-018-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-018-answer.mp3",
+      "sha256": "cbe53432cd5c6dee0d2f6f12f800d49d65f59e12a9ddde0aeebf2c9d5722a8ae"
+    },
+    {
+      "key": "question:USCIS-2025-019",
+      "questionId": "USCIS-2025-019",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-019-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-019-question.mp3",
+      "sha256": "839830324a3212b530ca770f3a0a69ce75683bc9a75bc54bee3d71af33638d66"
+    },
+    {
+      "key": "answer:USCIS-2025-019",
+      "questionId": "USCIS-2025-019",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-019-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-019-answer.mp3",
+      "sha256": "910d7b65250fc24e3c2de66f19015da22c7102a7613936d48bfa9e5b72f73b85"
+    },
+    {
+      "key": "question:USCIS-2025-020",
+      "questionId": "USCIS-2025-020",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-020-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-020-question.mp3",
+      "sha256": "8bac790aa6d45fc667b78a399300018428a1e18096a4de7a8c1122c86e198e98"
+    },
+    {
+      "key": "answer:USCIS-2025-020",
+      "questionId": "USCIS-2025-020",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-020-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-020-answer.mp3",
+      "sha256": "12ab3dd8fb7ec5cbc2bd1376253464fa844880b121d868eb39f5fe3e33561104"
+    },
+    {
+      "key": "question:USCIS-2025-021",
+      "questionId": "USCIS-2025-021",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-021-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-021-question.mp3",
+      "sha256": "ac21d29e501e1662b46d6671b2023fc6c36533db90282671c7c2ae49c513edd0"
+    },
+    {
+      "key": "answer:USCIS-2025-021",
+      "questionId": "USCIS-2025-021",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-021-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-021-answer.mp3",
+      "sha256": "d124ac633e303a0f5edf6b2e8fd10baafd07019296d1f57412f0924b3af3838b"
+    },
+    {
+      "key": "question:USCIS-2025-022",
+      "questionId": "USCIS-2025-022",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-022-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-022-question.mp3",
+      "sha256": "2afababa94c6aa097ad80f62ca6335086e3b727dc1531ed8561fb64b8e9099ad"
+    },
+    {
+      "key": "answer:USCIS-2025-022",
+      "questionId": "USCIS-2025-022",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-022-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-022-answer.mp3",
+      "sha256": "7083c548de2b9aca4becca407d6b1c180d8d9dd7d23a84e6eb27dc4a95c2fde7"
+    },
+    {
+      "key": "question:USCIS-2025-023",
+      "questionId": "USCIS-2025-023",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-023-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-023-question.mp3",
+      "sha256": "5d0b6f0077b983cdbdb31c86033936bc007e38daad06f002e3474d997aea5b37"
+    },
+    {
+      "key": "answer:USCIS-2025-023",
+      "questionId": "USCIS-2025-023",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-023-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-023-answer.mp3",
+      "sha256": "e6b2cdce31c578771288bab7837afa020d899592fdd883ace34d55d36edb4e5c"
+    },
+    {
+      "key": "question:USCIS-2025-024",
+      "questionId": "USCIS-2025-024",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-024-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-024-question.mp3",
+      "sha256": "474e8f1537c8b94321513286959ff29a3fdba81964a9a9c36d327bd02e342bda"
+    },
+    {
+      "key": "answer:USCIS-2025-024",
+      "questionId": "USCIS-2025-024",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-024-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-024-answer.mp3",
+      "sha256": "6ade9d273ad88d04ef0f2a13d74df646cd282c8d54f0efbc24c22fb7661a9a05"
+    },
+    {
+      "key": "question:USCIS-2025-025",
+      "questionId": "USCIS-2025-025",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-025-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-025-question.mp3",
+      "sha256": "9cbbfd2abbc21dbdcfd067e0e2570b0700ff95dce05da5ae0403bfa926c9c1c5"
+    },
+    {
+      "key": "answer:USCIS-2025-025",
+      "questionId": "USCIS-2025-025",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-025-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-025-answer.mp3",
+      "sha256": "2ae359d7044c926a50b79c580443a902633b1228f043909cf1159435bf8d79ec"
+    },
+    {
+      "key": "question:USCIS-2025-026",
+      "questionId": "USCIS-2025-026",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-026-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-026-question.mp3",
+      "sha256": "610d1b37be9636084355615d52ab198ea4adc2b4bb82eb3e357adf39eb6a9e50"
+    },
+    {
+      "key": "answer:USCIS-2025-026",
+      "questionId": "USCIS-2025-026",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-026-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-026-answer.mp3",
+      "sha256": "8154619bebb45cda595e9f69b1bd719af4546c01576ec44c34fc9df5f6deebd6"
+    },
+    {
+      "key": "question:USCIS-2025-027",
+      "questionId": "USCIS-2025-027",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-027-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-027-question.mp3",
+      "sha256": "f14e54d6793f8ab31c2a351ffeb79b5a3183e1ba850aa55adab8f1f0ab754f7c"
+    },
+    {
+      "key": "answer:USCIS-2025-027",
+      "questionId": "USCIS-2025-027",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-027-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-027-answer.mp3",
+      "sha256": "edc1d9240802ea2ee299d746985463dcb7482b26702e35fde90a4eeb7165a91b"
+    },
+    {
+      "key": "question:USCIS-2025-028",
+      "questionId": "USCIS-2025-028",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-028-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-028-question.mp3",
+      "sha256": "f04046935c76a6bc5ed2c19b45507400605e02b36c3160a9a2e7983a19608002"
+    },
+    {
+      "key": "answer:USCIS-2025-028",
+      "questionId": "USCIS-2025-028",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-028-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-028-answer.mp3",
+      "sha256": "706b45b0a483b5b72cf8f3718a251dc194b2bdefbfc9b6c494fd00b9b19d43b6"
+    },
+    {
+      "key": "question:USCIS-2025-029",
+      "questionId": "USCIS-2025-029",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-029-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-029-question.mp3",
+      "sha256": "05973cee556077581337913ecf9abc99fe7912003d68454f55a1bba2fdc280cf"
+    },
+    {
+      "key": "answer:USCIS-2025-029",
+      "questionId": "USCIS-2025-029",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-029-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-029-answer.mp3",
+      "sha256": "3b8b73fac6e4dedaae58c3408252334053086a1e47fb93e3a5433f5e1deb5b34"
+    },
+    {
+      "key": "question:USCIS-2025-030",
+      "questionId": "USCIS-2025-030",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-030-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-030-question.mp3",
+      "sha256": "891fbcaced6752b74687379bf548ae9851d7cf8fa971e78800acec48f72c0f96"
+    },
+    {
+      "key": "answer:USCIS-2025-030",
+      "questionId": "USCIS-2025-030",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-030-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-030-answer.mp3",
+      "sha256": "ab6bd8676fbe73dd11476355703b1816d9f6e27a29976f0927e38becdea0fdb4"
+    },
+    {
+      "key": "question:USCIS-2025-031",
+      "questionId": "USCIS-2025-031",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-031-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-031-question.mp3",
+      "sha256": "3c344ba08774bbb34134923f5cbbd8a4dd77f4fba77b558c228a70ebfdb87485"
+    },
+    {
+      "key": "answer:USCIS-2025-031",
+      "questionId": "USCIS-2025-031",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-031-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-031-answer.mp3",
+      "sha256": "830a7c7069a8e6e8daf2f6a72695bc5644b43383d74356b6d5769b67f107bed9"
+    },
+    {
+      "key": "question:USCIS-2025-032",
+      "questionId": "USCIS-2025-032",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-032-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-032-question.mp3",
+      "sha256": "d3af1109bddb7bddefd5835592250f2353df4e2b6053cb942e9ba182af335053"
+    },
+    {
+      "key": "answer:USCIS-2025-032",
+      "questionId": "USCIS-2025-032",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-032-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-032-answer.mp3",
+      "sha256": "bc2a56d2ee735ecd128875f1689df1a52daa2692ca110f073e97bc078be03081"
+    },
+    {
+      "key": "question:USCIS-2025-033",
+      "questionId": "USCIS-2025-033",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-033-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-033-question.mp3",
+      "sha256": "80b332c15ee330881b3940c56897bf8b9339e15774524331c4145384f0a20a2e"
+    },
+    {
+      "key": "answer:USCIS-2025-033",
+      "questionId": "USCIS-2025-033",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-033-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-033-answer.mp3",
+      "sha256": "c3a509bca0ad06eaccabc6546c279da17326f5b2088d8ebf2d6e102d6a77ef57"
+    },
+    {
+      "key": "question:USCIS-2025-034",
+      "questionId": "USCIS-2025-034",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-034-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-034-question.mp3",
+      "sha256": "12791d67f0b64b38aafdd9a09252f3c5c90b2cbf137d3beaddd209ff65a00c28"
+    },
+    {
+      "key": "answer:USCIS-2025-034",
+      "questionId": "USCIS-2025-034",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-034-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-034-answer.mp3",
+      "sha256": "701f86f731e3015b3fb1d09944c3a3037cdbc5b8b9cce21b5286a5dd15d19339"
+    },
+    {
+      "key": "question:USCIS-2025-035",
+      "questionId": "USCIS-2025-035",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-035-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-035-question.mp3",
+      "sha256": "304a0f645ad524099bbe7bd2d04480971ed1ab991e1fdfdc25f0a831eccd057c"
+    },
+    {
+      "key": "answer:USCIS-2025-035",
+      "questionId": "USCIS-2025-035",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-035-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-035-answer.mp3",
+      "sha256": "e36327c1ad6a71da7b2caca84d5dd7ad6d6dd92f00c7288969bf51fd75308dcc"
+    },
+    {
+      "key": "question:USCIS-2025-036",
+      "questionId": "USCIS-2025-036",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-036-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-036-question.mp3",
+      "sha256": "d14088c68d1ee185a4e12a9206a5430ce03d125f75371b25e8d2a24cc8a6f082"
+    },
+    {
+      "key": "answer:USCIS-2025-036",
+      "questionId": "USCIS-2025-036",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-036-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-036-answer.mp3",
+      "sha256": "6cc8339a070112c079bf90b922d641da9bfc219155ec6feae271b6ee1128e5d7"
+    },
+    {
+      "key": "question:USCIS-2025-037",
+      "questionId": "USCIS-2025-037",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-037-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-037-question.mp3",
+      "sha256": "b2ca5a2f25503c48ea03f87abdf5c7606d9562c69581963bd8fa3d9d3932b2b5"
+    },
+    {
+      "key": "answer:USCIS-2025-037",
+      "questionId": "USCIS-2025-037",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-037-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-037-answer.mp3",
+      "sha256": "be1aa9085947fc369971b6680faa296323c1e5ea969b07e4d843835216f1be68"
+    },
+    {
+      "key": "question:USCIS-2025-038",
+      "questionId": "USCIS-2025-038",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-038-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-038-question.mp3",
+      "sha256": "d9bc6678a952479d1974b8e72b3f8cc7403fa95b24fb001d1a636e8275ef7324"
+    },
+    {
+      "key": "answer:USCIS-2025-038",
+      "questionId": "USCIS-2025-038",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-038-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-038-answer.mp3",
+      "sha256": "273bae221f75560d5a5e522e4673bdf9ee463b0ccb7bc0af553f81dd696003da"
+    },
+    {
+      "key": "question:USCIS-2025-039",
+      "questionId": "USCIS-2025-039",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-039-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-039-question.mp3",
+      "sha256": "3b60281bb112496d8558f0bb256e33b8899894342d4490aaa6560814bf1e4787"
+    },
+    {
+      "key": "answer:USCIS-2025-039",
+      "questionId": "USCIS-2025-039",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-039-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-039-answer.mp3",
+      "sha256": "2badb228eb74fb1cde59b69126d2c274d6d89fec010942e346402cb4040518ef"
+    },
+    {
+      "key": "question:USCIS-2025-040",
+      "questionId": "USCIS-2025-040",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-040-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-040-question.mp3",
+      "sha256": "5af06a5bade6de15b7e918d0b544700b4268160bb74e8c5fe410c7af9705fc5c"
+    },
+    {
+      "key": "answer:USCIS-2025-040",
+      "questionId": "USCIS-2025-040",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-040-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-040-answer.mp3",
+      "sha256": "27299ea52ded1ef15f8495c26f0fe235c9a7e98985ebf40f44ab6c752acc0682"
+    },
+    {
+      "key": "question:USCIS-2025-041",
+      "questionId": "USCIS-2025-041",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-041-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-041-question.mp3",
+      "sha256": "ada0c082db5e0a1b78b0f20e386621daa22f71f85534d676f07dcca32a2d2b1b"
+    },
+    {
+      "key": "answer:USCIS-2025-041",
+      "questionId": "USCIS-2025-041",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-041-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-041-answer.mp3",
+      "sha256": "f52d36ba926b2569b5418546445a289ee109054c1fec7156758287c01850fdce"
+    },
+    {
+      "key": "question:USCIS-2025-042",
+      "questionId": "USCIS-2025-042",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-042-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-042-question.mp3",
+      "sha256": "ad01ac5cf784c9fef7a5c7764eec341d202cf94cb896d017fe4868372f66ea63"
+    },
+    {
+      "key": "answer:USCIS-2025-042",
+      "questionId": "USCIS-2025-042",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-042-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-042-answer.mp3",
+      "sha256": "565369ba956d22ee79b0b6d52ef5286e628f78f00c49e2c977bc83b32ebb64cc"
+    },
+    {
+      "key": "question:USCIS-2025-043",
+      "questionId": "USCIS-2025-043",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-043-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-043-question.mp3",
+      "sha256": "9439f9f73d4444ebdcdaca218b1536c593523ca2cb19ba66eccdfc7cb7781a32"
+    },
+    {
+      "key": "answer:USCIS-2025-043",
+      "questionId": "USCIS-2025-043",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-043-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-043-answer.mp3",
+      "sha256": "565369ba956d22ee79b0b6d52ef5286e628f78f00c49e2c977bc83b32ebb64cc"
+    },
+    {
+      "key": "question:USCIS-2025-044",
+      "questionId": "USCIS-2025-044",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-044-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-044-question.mp3",
+      "sha256": "0e27334afc7a292d3b7378fb0cf20d48f1794d9b49a526e3162fcd9668a3f2ac"
+    },
+    {
+      "key": "answer:USCIS-2025-044",
+      "questionId": "USCIS-2025-044",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-044-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-044-answer.mp3",
+      "sha256": "565369ba956d22ee79b0b6d52ef5286e628f78f00c49e2c977bc83b32ebb64cc"
+    },
+    {
+      "key": "question:USCIS-2025-045",
+      "questionId": "USCIS-2025-045",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-045-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-045-question.mp3",
+      "sha256": "f2b711cffe83b1e029443f6faccbfbc92d0803580467ce87f96247a11dceeb5d"
+    },
+    {
+      "key": "answer:USCIS-2025-045",
+      "questionId": "USCIS-2025-045",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-045-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-045-answer.mp3",
+      "sha256": "565369ba956d22ee79b0b6d52ef5286e628f78f00c49e2c977bc83b32ebb64cc"
+    },
+    {
+      "key": "question:USCIS-2025-046",
+      "questionId": "USCIS-2025-046",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-046-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-046-question.mp3",
+      "sha256": "dc114f5b219ad2b0c9d78d5495dcd1eca89fd1c741116b0e77701ab1c83438e4"
+    },
+    {
+      "key": "answer:USCIS-2025-046",
+      "questionId": "USCIS-2025-046",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-046-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-046-answer.mp3",
+      "sha256": "0d20c82660e6834e439c5c3b08e2e86aecbd753b9603276acd86cda47eae5aab"
+    },
+    {
+      "key": "question:USCIS-2025-047",
+      "questionId": "USCIS-2025-047",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-047-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-047-question.mp3",
+      "sha256": "f0c80c1e63575ebff690771dc7e1f265aff0d487ec00b471d5938dd22c492855"
+    },
+    {
+      "key": "answer:USCIS-2025-047",
+      "questionId": "USCIS-2025-047",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-047-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-047-answer.mp3",
+      "sha256": "619351ec0b68a117bb07d95375ec49a0c26b693f814958d5de5b6237d3e14fed"
+    },
+    {
+      "key": "question:USCIS-2025-048",
+      "questionId": "USCIS-2025-048",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-048-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-048-question.mp3",
+      "sha256": "72dfc0c75ddca73326fa20095fc160beb5c8068a8c2d354e505f3d9baf9f7f9a"
+    },
+    {
+      "key": "answer:USCIS-2025-048",
+      "questionId": "USCIS-2025-048",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-048-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-048-answer.mp3",
+      "sha256": "12d4b8fc435857cdb95f404d28e025d274949c1ca8516bc1ce3a265de4288369"
+    },
+    {
+      "key": "question:USCIS-2025-049",
+      "questionId": "USCIS-2025-049",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-049-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-049-question.mp3",
+      "sha256": "c28282bbb40c8e488c5776662ff024310b1244a57c2267dcc8f7110e08e5f190"
+    },
+    {
+      "key": "answer:USCIS-2025-049",
+      "questionId": "USCIS-2025-049",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-049-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-049-answer.mp3",
+      "sha256": "f45291d475d96bee463e3fe84e05344343d7262d327d1d7859a1d10159d57301"
+    },
+    {
+      "key": "question:USCIS-2025-050",
+      "questionId": "USCIS-2025-050",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-050-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-050-question.mp3",
+      "sha256": "380a2f1db0d8581be0f9dcdb60f686d459ad2c16f6d8ddf2ac59dab03d5bbfb6"
+    },
+    {
+      "key": "answer:USCIS-2025-050",
+      "questionId": "USCIS-2025-050",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-050-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-050-answer.mp3",
+      "sha256": "70bce55c985aaf092f98196152ca4fd89c369b9a2e6bbdd59df40a3cd3802bdc"
+    },
+    {
+      "key": "question:USCIS-2025-051",
+      "questionId": "USCIS-2025-051",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-051-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-051-question.mp3",
+      "sha256": "383afaace344da6aaedaddc145eb6af57f68509bf352b9f9b259a2c9b714f116"
+    },
+    {
+      "key": "answer:USCIS-2025-051",
+      "questionId": "USCIS-2025-051",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-051-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-051-answer.mp3",
+      "sha256": "b247f5994470dae70bc24fd17fc75a231dc28ffa48ead646b5443ef1386e76c3"
+    },
+    {
+      "key": "question:USCIS-2025-052",
+      "questionId": "USCIS-2025-052",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-052-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-052-question.mp3",
+      "sha256": "2b2118b16b0581083c63f4b2d8460c559aaf77d84a88bc3cfe34ad1cb937640f"
+    },
+    {
+      "key": "answer:USCIS-2025-052",
+      "questionId": "USCIS-2025-052",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-052-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-052-answer.mp3",
+      "sha256": "70bce55c985aaf092f98196152ca4fd89c369b9a2e6bbdd59df40a3cd3802bdc"
+    },
+    {
+      "key": "question:USCIS-2025-053",
+      "questionId": "USCIS-2025-053",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-053-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-053-question.mp3",
+      "sha256": "6dc6f9e9522b59348400f0c3623e82a1bea88f7c41a76dabf446d6074cd8414b"
+    },
+    {
+      "key": "answer:USCIS-2025-053",
+      "questionId": "USCIS-2025-053",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-053-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-053-answer.mp3",
+      "sha256": "a092511c7bb28d98cfa4db9fde957d5e444e50e6fcbc6e34d25672423b759913"
+    },
+    {
+      "key": "question:USCIS-2025-054",
+      "questionId": "USCIS-2025-054",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-054-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-054-question.mp3",
+      "sha256": "bdfd718026d1424ad5d2e481d9ca42138d0da92dfdf6b7ad1fc2450f99dd226f"
+    },
+    {
+      "key": "answer:USCIS-2025-054",
+      "questionId": "USCIS-2025-054",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-054-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-054-answer.mp3",
+      "sha256": "ed1337032b30f42fd21c12d183323a8b47860ba9a25a30480455e7ca0301b4d6"
+    },
+    {
+      "key": "question:USCIS-2025-055",
+      "questionId": "USCIS-2025-055",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-055-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-055-question.mp3",
+      "sha256": "1155e2d529cfb93be2e460938ed09d076492e1d3d761239ff20348d4fbc386c2"
+    },
+    {
+      "key": "answer:USCIS-2025-055",
+      "questionId": "USCIS-2025-055",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-055-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-055-answer.mp3",
+      "sha256": "a5fa04d05034c71fec27b82818695154567f87039ca38b47c5ae10e675336bdb"
+    },
+    {
+      "key": "question:USCIS-2025-056",
+      "questionId": "USCIS-2025-056",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-056-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-056-question.mp3",
+      "sha256": "c793d90e63142ca8570236801304a7ec3af58b3a10ee7e2c366f9b0fdd7ad41e"
+    },
+    {
+      "key": "answer:USCIS-2025-056",
+      "questionId": "USCIS-2025-056",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-056-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-056-answer.mp3",
+      "sha256": "5c47ab01cca8647c04dea4e16afe2ac1ccf3395af299a746bcafe08c170ccb56"
+    },
+    {
+      "key": "question:USCIS-2025-057",
+      "questionId": "USCIS-2025-057",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-057-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-057-question.mp3",
+      "sha256": "923d3685f44f7a651fa09f875f081075728313da06d5fb0e463cf5df678a93a2"
+    },
+    {
+      "key": "answer:USCIS-2025-057",
+      "questionId": "USCIS-2025-057",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-057-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-057-answer.mp3",
+      "sha256": "00117126bb94e4717124a4ce4bf21d161df5e9d78bfdabf7ebbe74fd22a7f423"
+    },
+    {
+      "key": "question:USCIS-2025-058",
+      "questionId": "USCIS-2025-058",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-058-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-058-question.mp3",
+      "sha256": "cccb48e43e5057365a98f0258858f16475d98e2b090ccf78820bf8dfe70800fc"
+    },
+    {
+      "key": "answer:USCIS-2025-058",
+      "questionId": "USCIS-2025-058",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-058-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-058-answer.mp3",
+      "sha256": "f1f2b1bbb042c048438a8bd7fe049681e2c374d3a2ee6dd0564da90b0a24af2c"
+    },
+    {
+      "key": "question:USCIS-2025-059",
+      "questionId": "USCIS-2025-059",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-059-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-059-question.mp3",
+      "sha256": "f48b439960471b480f12f2a9ef11c651ae70a8f9c8d0569bec09d3958204dd19"
+    },
+    {
+      "key": "answer:USCIS-2025-059",
+      "questionId": "USCIS-2025-059",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-059-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-059-answer.mp3",
+      "sha256": "68a3089adf357ecc052377d38a2e90bee2fc5f71b3a9806d49fc3d7f0ed19743"
+    },
+    {
+      "key": "question:USCIS-2025-060",
+      "questionId": "USCIS-2025-060",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-060-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-060-question.mp3",
+      "sha256": "d34a80d78d32f6762f5f90ad2e8d4082db331c917feae382ef533439577fe998"
+    },
+    {
+      "key": "answer:USCIS-2025-060",
+      "questionId": "USCIS-2025-060",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-060-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-060-answer.mp3",
+      "sha256": "f9cac1650ef35ee02aee0fe1b3b7cd172edbaf665e472af9d17a13939d4cb2f5"
+    },
+    {
+      "key": "question:USCIS-2025-061",
+      "questionId": "USCIS-2025-061",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-061-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-061-question.mp3",
+      "sha256": "11273f7f064cf75e3eb068d74a37b3c878407e3c7072011b0643d27c7848cdb5"
+    },
+    {
+      "key": "answer:USCIS-2025-061",
+      "questionId": "USCIS-2025-061",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-061-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-061-answer.mp3",
+      "sha256": "0171283384af23ea1e05e33e3a6acd434e795f51ea1a9c4aff7e3cdde1d515fe"
+    },
+    {
+      "key": "question:USCIS-2025-062",
+      "questionId": "USCIS-2025-062",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-062-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-062-question.mp3",
+      "sha256": "4561795fc2c8d74457d13e15908e7388637c7b7270eeaab48f26b3c77d2252c2"
+    },
+    {
+      "key": "answer:USCIS-2025-062",
+      "questionId": "USCIS-2025-062",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-062-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-062-answer.mp3",
+      "sha256": "9aeb053d0f7e6eff2d97ffc0330da86d04ecef6a4c7eab5af866a893619f4b05"
+    },
+    {
+      "key": "question:USCIS-2025-063",
+      "questionId": "USCIS-2025-063",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-063-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-063-question.mp3",
+      "sha256": "8fe37a62e060983efd68bf5444db1d550a81357193556dfdd309410ec0aa9724"
+    },
+    {
+      "key": "answer:USCIS-2025-063",
+      "questionId": "USCIS-2025-063",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-063-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-063-answer.mp3",
+      "sha256": "81c02e7bb25125e6aed8118a48cb4f23cc2c38d69e0e98587e27c85e19d158d0"
+    },
+    {
+      "key": "question:USCIS-2025-064",
+      "questionId": "USCIS-2025-064",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-064-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-064-question.mp3",
+      "sha256": "60f1918eec531394b385cd63ff236caa3308ec8daf5ba2409ac294a3af6c44db"
+    },
+    {
+      "key": "answer:USCIS-2025-064",
+      "questionId": "USCIS-2025-064",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-064-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-064-answer.mp3",
+      "sha256": "2671d4e744221aaa79bde5613c7dbaa575c9a2f45511d0084afb4cb164fe9947"
+    },
+    {
+      "key": "question:USCIS-2025-065",
+      "questionId": "USCIS-2025-065",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-065-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-065-question.mp3",
+      "sha256": "cb7802f9907b3e126bf2e8ac99af7dd028acedcb420e3b2e7c1620c9cf518480"
+    },
+    {
+      "key": "answer:USCIS-2025-065",
+      "questionId": "USCIS-2025-065",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-065-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-065-answer.mp3",
+      "sha256": "d6e2a70eef88f0e8f708bf736f7510fa42c80392a5941c892c53dddd85bced0d"
+    },
+    {
+      "key": "question:USCIS-2025-066",
+      "questionId": "USCIS-2025-066",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-066-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-066-question.mp3",
+      "sha256": "a0d0cd5cdc625286bb04ad70a87da916ea14572a6cd3aac536a226bf0b8bce47"
+    },
+    {
+      "key": "answer:USCIS-2025-066",
+      "questionId": "USCIS-2025-066",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-066-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-066-answer.mp3",
+      "sha256": "9221115b4b049dfda3dec8d1bf1ae023d192f1872cc30ab465bd2598a8f762e6"
+    },
+    {
+      "key": "question:USCIS-2025-067",
+      "questionId": "USCIS-2025-067",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-067-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-067-question.mp3",
+      "sha256": "718acce0c0f0706b332d2ca212aebef9add39d85e3bf91b7989d09ba2b27e676"
+    },
+    {
+      "key": "answer:USCIS-2025-067",
+      "questionId": "USCIS-2025-067",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-067-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-067-answer.mp3",
+      "sha256": "7fae0aa52ad30253d8da078b9867bbdd03abba5749b55a28d5e5ded3d9931dae"
+    },
+    {
+      "key": "question:USCIS-2025-068",
+      "questionId": "USCIS-2025-068",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-068-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-068-question.mp3",
+      "sha256": "ec2b6621a57d523e9958f8ea045f8f07f9278036a341ab6e1a10926bd0e17cc8"
+    },
+    {
+      "key": "answer:USCIS-2025-068",
+      "questionId": "USCIS-2025-068",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-068-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-068-answer.mp3",
+      "sha256": "0ad51f4cbe3fbadd03b94ad9cfb3b1f885160ecd3e0f3c3893199c4209015574"
+    },
+    {
+      "key": "question:USCIS-2025-069",
+      "questionId": "USCIS-2025-069",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-069-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-069-question.mp3",
+      "sha256": "af472ac9790d67f1589fe0ecb3920a30e5e72361def927ddf8ab8726f940abf9"
+    },
+    {
+      "key": "answer:USCIS-2025-069",
+      "questionId": "USCIS-2025-069",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-069-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-069-answer.mp3",
+      "sha256": "ac2e62171f8ba741f566d0826cce9d2c8acf97c8f45f0b1b47b0aa24d8e88a91"
+    },
+    {
+      "key": "question:USCIS-2025-070",
+      "questionId": "USCIS-2025-070",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-070-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-070-question.mp3",
+      "sha256": "45e01f2f09abdfb8fab6ad3be9072a318bcbf3a1f820d62e4d5e87367bf06936"
+    },
+    {
+      "key": "answer:USCIS-2025-070",
+      "questionId": "USCIS-2025-070",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-070-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-070-answer.mp3",
+      "sha256": "ac2e62171f8ba741f566d0826cce9d2c8acf97c8f45f0b1b47b0aa24d8e88a91"
+    },
+    {
+      "key": "question:USCIS-2025-071",
+      "questionId": "USCIS-2025-071",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-071-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-071-question.mp3",
+      "sha256": "442ad5631a3097428843ee7965c087143c3443de1df9ef24a1355d9de137ed39"
+    },
+    {
+      "key": "answer:USCIS-2025-071",
+      "questionId": "USCIS-2025-071",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-071-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-071-answer.mp3",
+      "sha256": "3158bb15476cd58fb73de8a9030e11a8117a057f48b7e1077aec29c01befd82a"
+    },
+    {
+      "key": "question:USCIS-2025-072",
+      "questionId": "USCIS-2025-072",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-072-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-072-question.mp3",
+      "sha256": "c8c8b9709ead24a587516743bf755a289be77a575f7ad1708041943ca1f81bb6"
+    },
+    {
+      "key": "answer:USCIS-2025-072",
+      "questionId": "USCIS-2025-072",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-072-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-072-answer.mp3",
+      "sha256": "3158bb15476cd58fb73de8a9030e11a8117a057f48b7e1077aec29c01befd82a"
+    },
+    {
+      "key": "question:USCIS-2025-073",
+      "questionId": "USCIS-2025-073",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-073-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-073-question.mp3",
+      "sha256": "d9d6ed12dee79bafd8db63c68083105b28c661c62826b64527673f907dfd2abb"
+    },
+    {
+      "key": "answer:USCIS-2025-073",
+      "questionId": "USCIS-2025-073",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-073-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-073-answer.mp3",
+      "sha256": "5f1e88bcdda6f70c547c23f9604b5b12be25056dada55be7037e0592c8d6ad9e"
+    },
+    {
+      "key": "question:USCIS-2025-074",
+      "questionId": "USCIS-2025-074",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-074-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-074-question.mp3",
+      "sha256": "b0b8db7f3002717f2465e7134d5f0e9c12bfec857234d37cb69f92309dc86b0e"
+    },
+    {
+      "key": "answer:USCIS-2025-074",
+      "questionId": "USCIS-2025-074",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-074-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-074-answer.mp3",
+      "sha256": "80d74ae5ea85303654e733a76df17a31411895178ebde171dae8655585f2cdc0"
+    },
+    {
+      "key": "question:USCIS-2025-075",
+      "questionId": "USCIS-2025-075",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-075-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-075-question.mp3",
+      "sha256": "69b75491eb5f667d11b79bdf99d555da176291437357ed85a778c03683ea7cc1"
+    },
+    {
+      "key": "answer:USCIS-2025-075",
+      "questionId": "USCIS-2025-075",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-075-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-075-answer.mp3",
+      "sha256": "8ba90ac23427ff9fd309d29d4aff09359785f4670fd26bdc404d6e2445b518e8"
+    },
+    {
+      "key": "question:USCIS-2025-076",
+      "questionId": "USCIS-2025-076",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-076-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-076-question.mp3",
+      "sha256": "39a4feb1e70b36bdbc0711b9bc3a726436d5e85ac40a65fe309cc314868eef35"
+    },
+    {
+      "key": "answer:USCIS-2025-076",
+      "questionId": "USCIS-2025-076",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-076-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-076-answer.mp3",
+      "sha256": "bcb24e561b29ec343f0a358ea7d2a42e0af2b469db6e3b4030774578655f8991"
+    },
+    {
+      "key": "question:USCIS-2025-077",
+      "questionId": "USCIS-2025-077",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-077-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-077-question.mp3",
+      "sha256": "5704fe5bf2aff776530641533e795c104681b78b52ee3d9c64ead24205a1a311"
+    },
+    {
+      "key": "answer:USCIS-2025-077",
+      "questionId": "USCIS-2025-077",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-077-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-077-answer.mp3",
+      "sha256": "d3031d2665d80e03c4471e6c6f37d264e17fffffb8e2a7117b51cb2955a61a60"
+    },
+    {
+      "key": "question:USCIS-2025-078",
+      "questionId": "USCIS-2025-078",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-078-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-078-question.mp3",
+      "sha256": "22e9f48bb385581c34c163592b50b8fda7e40887c16dc731fb5f7ea4aaa9c30b"
+    },
+    {
+      "key": "answer:USCIS-2025-078",
+      "questionId": "USCIS-2025-078",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-078-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-078-answer.mp3",
+      "sha256": "ebb1ee53231d38f3c04e2c2628cf45a798daa195db45cf9aaf73205abc064db4"
+    },
+    {
+      "key": "question:USCIS-2025-079",
+      "questionId": "USCIS-2025-079",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-079-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-079-question.mp3",
+      "sha256": "17b780b27369807b1a05c0be80169e933fecaa9a0b7948822adb9900b5feab5d"
+    },
+    {
+      "key": "answer:USCIS-2025-079",
+      "questionId": "USCIS-2025-079",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-079-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-079-answer.mp3",
+      "sha256": "fdaa0743a51560c40ebe6edf8c54403cefec6585db55db85f1f27e3ead893616"
+    },
+    {
+      "key": "question:USCIS-2025-080",
+      "questionId": "USCIS-2025-080",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-080-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-080-question.mp3",
+      "sha256": "a5b6e563fe364515c5549610ba64d677f9189bbcc99fbf5bab8503cb876c1b7d"
+    },
+    {
+      "key": "answer:USCIS-2025-080",
+      "questionId": "USCIS-2025-080",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-080-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-080-answer.mp3",
+      "sha256": "42e58d749d93583f33ec5e01959151064db80e14de563ae35cfdd3dbcd2cc960"
+    },
+    {
+      "key": "question:USCIS-2025-081",
+      "questionId": "USCIS-2025-081",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-081-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-081-question.mp3",
+      "sha256": "b6aed434bb9f706e831e1a99f27adc4f75a5573a7e9689c1226b4abbe8f8ae2f"
+    },
+    {
+      "key": "answer:USCIS-2025-081",
+      "questionId": "USCIS-2025-081",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-081-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-081-answer.mp3",
+      "sha256": "faa49d8a25f5aff91cfea4e43498abebf65e8cc2fa17c1cb505ee5e6314e6728"
+    },
+    {
+      "key": "question:USCIS-2025-082",
+      "questionId": "USCIS-2025-082",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-082-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-082-question.mp3",
+      "sha256": "6c4bd596dd36698e22dc13ac0cde515676fd12dcca3be7aee316df4af324a82b"
+    },
+    {
+      "key": "answer:USCIS-2025-082",
+      "questionId": "USCIS-2025-082",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-082-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-082-answer.mp3",
+      "sha256": "5fead8ba22f8b82222f632d9a71e521ae53dfdb790407cf27d415dacb51b8742"
+    },
+    {
+      "key": "question:USCIS-2025-083",
+      "questionId": "USCIS-2025-083",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-083-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-083-question.mp3",
+      "sha256": "cb8b31906cc22edcc5b1199adea68bb5774a7d9e5860fd3b8e76f1c08dfca8e3"
+    },
+    {
+      "key": "answer:USCIS-2025-083",
+      "questionId": "USCIS-2025-083",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-083-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-083-answer.mp3",
+      "sha256": "e5d28f3dad6c72dd028b3bb440ac1e032d5768dde1a1f117a3d5b7396fa204e7"
+    },
+    {
+      "key": "question:USCIS-2025-084",
+      "questionId": "USCIS-2025-084",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-084-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-084-question.mp3",
+      "sha256": "eb266359200a59482af29a71e37c57a8228db5530e52e7994f6718f9c1684029"
+    },
+    {
+      "key": "answer:USCIS-2025-084",
+      "questionId": "USCIS-2025-084",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-084-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-084-answer.mp3",
+      "sha256": "4796b4e9e2a0c089163eb5f2a43f0d2c751628191a62c7a9557aef83769df8a6"
+    },
+    {
+      "key": "question:USCIS-2025-085",
+      "questionId": "USCIS-2025-085",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-085-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-085-question.mp3",
+      "sha256": "29a887cafe672add80b4c4a7a8042b5f218a8d2ebda729c0cffbd777f91a00df"
+    },
+    {
+      "key": "answer:USCIS-2025-085",
+      "questionId": "USCIS-2025-085",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-085-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-085-answer.mp3",
+      "sha256": "f84431be7e02414f0e5170152a670df13aa1a9b02333a4a292d4a15d0fbc2005"
+    },
+    {
+      "key": "question:USCIS-2025-086",
+      "questionId": "USCIS-2025-086",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-086-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-086-question.mp3",
+      "sha256": "691535db5ceb8c7207f7be553ae0ffdc3bd591abb6e38798037ec810abba5b01"
+    },
+    {
+      "key": "answer:USCIS-2025-086",
+      "questionId": "USCIS-2025-086",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-086-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-086-answer.mp3",
+      "sha256": "857979219f4173680203eeec273a254591a868fbefb0edaca1345ba33ab7fd58"
+    },
+    {
+      "key": "question:USCIS-2025-087",
+      "questionId": "USCIS-2025-087",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-087-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-087-question.mp3",
+      "sha256": "60512aa87ef1aaf867ff477c3a1437373ac28eac8ea6668529f2d081d6659c44"
+    },
+    {
+      "key": "answer:USCIS-2025-087",
+      "questionId": "USCIS-2025-087",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-087-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-087-answer.mp3",
+      "sha256": "1ed96edd493c6f9370d9ada764f65fdc37cd957fd8821782842c25e025340b70"
+    },
+    {
+      "key": "question:USCIS-2025-088",
+      "questionId": "USCIS-2025-088",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-088-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-088-question.mp3",
+      "sha256": "97ddb6a9a605c6ac75ef928bdce11e250af81ef7d6473f53d3f84dd1e982ecbc"
+    },
+    {
+      "key": "answer:USCIS-2025-088",
+      "questionId": "USCIS-2025-088",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-088-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-088-answer.mp3",
+      "sha256": "1978c37c636f6c58d5cba432fde865e1f4ca589135fd714fa07a1458a184f7ed"
+    },
+    {
+      "key": "question:USCIS-2025-089",
+      "questionId": "USCIS-2025-089",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-089-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-089-question.mp3",
+      "sha256": "04daaa164b74562cd65568d7d66f1fd933425740f7b91ea1a5d50a9c575cb432"
+    },
+    {
+      "key": "answer:USCIS-2025-089",
+      "questionId": "USCIS-2025-089",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-089-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-089-answer.mp3",
+      "sha256": "7ff465df60ea5ee9608b69e08ea9380f5265a7e124845f4eaaec6a946643997f"
+    },
+    {
+      "key": "question:USCIS-2025-090",
+      "questionId": "USCIS-2025-090",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-090-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-090-question.mp3",
+      "sha256": "7272ae081ece5e3a0ce962968000cb9f232c7b6ee533559f2a610caafb905a5d"
+    },
+    {
+      "key": "answer:USCIS-2025-090",
+      "questionId": "USCIS-2025-090",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-090-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-090-answer.mp3",
+      "sha256": "8c8d8dc08aea1d443498e4bfbf73ea7acfa43ddfa4a3b192901eab14b75f837a"
+    },
+    {
+      "key": "question:USCIS-2025-091",
+      "questionId": "USCIS-2025-091",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-091-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-091-question.mp3",
+      "sha256": "d87f19fc8cda2a92ed38080591e178f534c0306e97851e27425fdc3d63637a8e"
+    },
+    {
+      "key": "answer:USCIS-2025-091",
+      "questionId": "USCIS-2025-091",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-091-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-091-answer.mp3",
+      "sha256": "a6b7045e6c4d2f55be7944589387c7c46a67c1eb850ebe5e499643f09277f435"
+    },
+    {
+      "key": "question:USCIS-2025-092",
+      "questionId": "USCIS-2025-092",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-092-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-092-question.mp3",
+      "sha256": "884760a44eaedfeaafeaafcaed5229bf7b0a655e72a0ded5f7543c4209da619e"
+    },
+    {
+      "key": "answer:USCIS-2025-092",
+      "questionId": "USCIS-2025-092",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-092-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-092-answer.mp3",
+      "sha256": "f8691747ac4c659826d115405f586f0ed4e6681d02e6e6d3f7241b8b43985e4e"
+    },
+    {
+      "key": "question:USCIS-2025-093",
+      "questionId": "USCIS-2025-093",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-093-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-093-question.mp3",
+      "sha256": "ac6966d458089983e5f2a875d5ab5f094b3f4b23b2bc5890713e79c42e3d0977"
+    },
+    {
+      "key": "answer:USCIS-2025-093",
+      "questionId": "USCIS-2025-093",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-093-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-093-answer.mp3",
+      "sha256": "ec6f7e8dc3d2809de387617393b583de85013ae1f922086988194e4915137e37"
+    },
+    {
+      "key": "question:USCIS-2025-094",
+      "questionId": "USCIS-2025-094",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-094-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-094-question.mp3",
+      "sha256": "42371386a0c0b98c7bf99d797799de5be1f33356351fda122cb4b2d781fdd64f"
+    },
+    {
+      "key": "answer:USCIS-2025-094",
+      "questionId": "USCIS-2025-094",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-094-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-094-answer.mp3",
+      "sha256": "4e766a19d02f1ddb9e6ca385f749b3bc0fd088a95e6f6cb6a083aa6fde2fc467"
+    },
+    {
+      "key": "question:USCIS-2025-095",
+      "questionId": "USCIS-2025-095",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-095-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-095-question.mp3",
+      "sha256": "caaa3e697e802cf09063d7592d81e4b57e588a5c54adf0313f93e98dcee74f0e"
+    },
+    {
+      "key": "answer:USCIS-2025-095",
+      "questionId": "USCIS-2025-095",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-095-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-095-answer.mp3",
+      "sha256": "40833f8b4618c0893a5e4222b9b89a6886b55c468daac471b4e643acaa2e3d04"
+    },
+    {
+      "key": "question:USCIS-2025-096",
+      "questionId": "USCIS-2025-096",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-096-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-096-question.mp3",
+      "sha256": "a1bfcc5d6096a7fd26debdd6ca7d8732b20e9306de6fb6f02da12a3a7cd8476e"
+    },
+    {
+      "key": "answer:USCIS-2025-096",
+      "questionId": "USCIS-2025-096",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-096-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-096-answer.mp3",
+      "sha256": "f8691747ac4c659826d115405f586f0ed4e6681d02e6e6d3f7241b8b43985e4e"
+    },
+    {
+      "key": "question:USCIS-2025-097",
+      "questionId": "USCIS-2025-097",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-097-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-097-question.mp3",
+      "sha256": "4246938650f66a4ad2e95a0457d199c21cab51eaa2987a4ab5ec61b661ca509a"
+    },
+    {
+      "key": "answer:USCIS-2025-097",
+      "questionId": "USCIS-2025-097",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-097-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-097-answer.mp3",
+      "sha256": "150b12939017442bd44a783eb5b693f2cddfcdb9488259bdfd4ebaac105f10ad"
+    },
+    {
+      "key": "question:USCIS-2025-098",
+      "questionId": "USCIS-2025-098",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-098-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-098-question.mp3",
+      "sha256": "1a7dccf6b4ac7737fdd0d83e2c1f840950211291fdcd4a134424e9b4e62a9ec8"
+    },
+    {
+      "key": "answer:USCIS-2025-098",
+      "questionId": "USCIS-2025-098",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-098-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-098-answer.mp3",
+      "sha256": "923e0d9fe246af43b358336916b864ff19fb9531e509db27f8f1b07f6f5e6991"
+    },
+    {
+      "key": "question:USCIS-2025-099",
+      "questionId": "USCIS-2025-099",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-099-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-099-question.mp3",
+      "sha256": "8edd2e179b28ff5d667f4c3464fa77180de03f0ec1f5f7f40aa4b6451b92b746"
+    },
+    {
+      "key": "answer:USCIS-2025-099",
+      "questionId": "USCIS-2025-099",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-099-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-099-answer.mp3",
+      "sha256": "014d96556c892b260e4edbea609a26aa6e5f0a7fee4b6012a333eff0e86e9488"
+    },
+    {
+      "key": "question:USCIS-2025-100",
+      "questionId": "USCIS-2025-100",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-100-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-100-question.mp3",
+      "sha256": "da0a7f40b10b64b7f03b31bad90dedeebb43802b33db8c44dfd27c555b0faa26"
+    },
+    {
+      "key": "answer:USCIS-2025-100",
+      "questionId": "USCIS-2025-100",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-100-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-100-answer.mp3",
+      "sha256": "b79f90a8a4339748c3f3b18cb0c207bfe6ce149d0bec457723d7d7fdb279fb7c"
+    },
+    {
+      "key": "question:USCIS-2025-101",
+      "questionId": "USCIS-2025-101",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-101-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-101-question.mp3",
+      "sha256": "47d16996f4d056015c836fde5590534b78a52a07ec868d876af5b416021d91d6"
+    },
+    {
+      "key": "answer:USCIS-2025-101",
+      "questionId": "USCIS-2025-101",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-101-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-101-answer.mp3",
+      "sha256": "d638991f9a38c2370716781a0308d50b9cf7d563da7c5afe7bf7b8c7248aa55f"
+    },
+    {
+      "key": "question:USCIS-2025-102",
+      "questionId": "USCIS-2025-102",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-102-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-102-question.mp3",
+      "sha256": "c8bb26e86ec8fb329aac46f1a7b543ad0f5e544c8ac1d9a44f274d2488247c1f"
+    },
+    {
+      "key": "answer:USCIS-2025-102",
+      "questionId": "USCIS-2025-102",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-102-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-102-answer.mp3",
+      "sha256": "dfe910854671e9b05b34bf6de63ab5fe6eeca140b859cd2a6ff45bc6028dfd0d"
+    },
+    {
+      "key": "question:USCIS-2025-103",
+      "questionId": "USCIS-2025-103",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-103-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-103-question.mp3",
+      "sha256": "fd75011de1452a6ebaa9587596b3d9e4459794bc3f80a979f0a9b27bede9ed23"
+    },
+    {
+      "key": "answer:USCIS-2025-103",
+      "questionId": "USCIS-2025-103",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-103-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-103-answer.mp3",
+      "sha256": "fa25ec226bbf0bed048dc17fe563263089e9b509140337fa0488caf571c8e02d"
+    },
+    {
+      "key": "question:USCIS-2025-104",
+      "questionId": "USCIS-2025-104",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-104-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-104-question.mp3",
+      "sha256": "213bb92457c0c3548419203d6f5161dc19ffcbabd48a6292e3f47f35005966dd"
+    },
+    {
+      "key": "answer:USCIS-2025-104",
+      "questionId": "USCIS-2025-104",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-104-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-104-answer.mp3",
+      "sha256": "149141a9880f7f31e49c2298a0ade5cbb45b21e2ae8e1baf01c7ac35e8039f99"
+    },
+    {
+      "key": "question:USCIS-2025-105",
+      "questionId": "USCIS-2025-105",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-105-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-105-question.mp3",
+      "sha256": "9ed43b9bc8381fd5036d16fc92b1e30042486bbd29b2668207b32a3b5b0a41ed"
+    },
+    {
+      "key": "answer:USCIS-2025-105",
+      "questionId": "USCIS-2025-105",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-105-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-105-answer.mp3",
+      "sha256": "e0b8e9a1d40870b1279352b131dedbac450ea4df61e2df64b275724d6f84e5ae"
+    },
+    {
+      "key": "question:USCIS-2025-106",
+      "questionId": "USCIS-2025-106",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-106-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-106-question.mp3",
+      "sha256": "c6035e821155e0bb1cf9b0725dede78061bd28e05af4d4a2e5eeb3ed8683ec02"
+    },
+    {
+      "key": "answer:USCIS-2025-106",
+      "questionId": "USCIS-2025-106",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-106-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-106-answer.mp3",
+      "sha256": "97f50847109164b2117649ebafb8ceae5bf94ad882f3f640a82630c0864323ca"
+    },
+    {
+      "key": "question:USCIS-2025-107",
+      "questionId": "USCIS-2025-107",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-107-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-107-question.mp3",
+      "sha256": "168b4b71849dee8da15407a4cd9a4bc90f69e405f0ee6d11f5e4d677cf898f9b"
+    },
+    {
+      "key": "answer:USCIS-2025-107",
+      "questionId": "USCIS-2025-107",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-107-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-107-answer.mp3",
+      "sha256": "5d353596102c87fcb4f9a3499bfe2139652744b7c51ad25e42b523475b0e2ed0"
+    },
+    {
+      "key": "question:USCIS-2025-108",
+      "questionId": "USCIS-2025-108",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-108-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-108-question.mp3",
+      "sha256": "b6dea4e78d463ede6361b55109415086024587b08a6791f75e2460ba8ec8c558"
+    },
+    {
+      "key": "answer:USCIS-2025-108",
+      "questionId": "USCIS-2025-108",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-108-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-108-answer.mp3",
+      "sha256": "3913df25f90ef245ac10c6d66916160a461a2ee3d896eb73b013e25e9eed3b9a"
+    },
+    {
+      "key": "question:USCIS-2025-109",
+      "questionId": "USCIS-2025-109",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-109-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-109-question.mp3",
+      "sha256": "150d95187d3fac290bc81a22dc82dbb6e1621399fed6c6431c57c8e4e609dfce"
+    },
+    {
+      "key": "answer:USCIS-2025-109",
+      "questionId": "USCIS-2025-109",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-109-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-109-answer.mp3",
+      "sha256": "73e55d9ea90120133da74edb33de03febbf5eec99c2f807365c67ad7ed3ecea8"
+    },
+    {
+      "key": "question:USCIS-2025-110",
+      "questionId": "USCIS-2025-110",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-110-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-110-question.mp3",
+      "sha256": "9257bb18aa0edee23b36ab2f453ce10be5471f18967713ae839cd311e99eda71"
+    },
+    {
+      "key": "answer:USCIS-2025-110",
+      "questionId": "USCIS-2025-110",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-110-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-110-answer.mp3",
+      "sha256": "2330b0b0e810d845018fc952b9e89d88c4377e0867dca684d0031077eddf95be"
+    },
+    {
+      "key": "question:USCIS-2025-111",
+      "questionId": "USCIS-2025-111",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-111-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-111-question.mp3",
+      "sha256": "8aa2599e951582582702defefe5a56c7aafa0909e8c98ee983312809856fe224"
+    },
+    {
+      "key": "answer:USCIS-2025-111",
+      "questionId": "USCIS-2025-111",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-111-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-111-answer.mp3",
+      "sha256": "2330b0b0e810d845018fc952b9e89d88c4377e0867dca684d0031077eddf95be"
+    },
+    {
+      "key": "question:USCIS-2025-112",
+      "questionId": "USCIS-2025-112",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-112-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-112-question.mp3",
+      "sha256": "7f2559c803ea03a39a9b48dc87576db13ef3541ea925ff8e91b0dde04b6093cd"
+    },
+    {
+      "key": "answer:USCIS-2025-112",
+      "questionId": "USCIS-2025-112",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-112-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-112-answer.mp3",
+      "sha256": "b94ba35c0e3770a762513cfc5dd0b53731dc05a95c366a409ca384f838c4d5a9"
+    },
+    {
+      "key": "question:USCIS-2025-113",
+      "questionId": "USCIS-2025-113",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-113-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-113-question.mp3",
+      "sha256": "f43e9ff3efd18a3ada65eec32f269fef7b2f768deb8ff879858637578695a1bb"
+    },
+    {
+      "key": "answer:USCIS-2025-113",
+      "questionId": "USCIS-2025-113",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-113-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-113-answer.mp3",
+      "sha256": "be5b3e39d12f7ca702405c8530c3e416cf788b5f21326c0c73766dfdfbb64962"
+    },
+    {
+      "key": "question:USCIS-2025-114",
+      "questionId": "USCIS-2025-114",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-114-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-114-question.mp3",
+      "sha256": "c0e8b2aaaf3b34bd60b7ca011d19b261927b7f83a6e0988efbfdba20a2935e56"
+    },
+    {
+      "key": "answer:USCIS-2025-114",
+      "questionId": "USCIS-2025-114",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-114-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-114-answer.mp3",
+      "sha256": "1deb2cbfbb7673208f3c5d4e655868155e3b2004e46a647b083338ff2c24d53a"
+    },
+    {
+      "key": "question:USCIS-2025-115",
+      "questionId": "USCIS-2025-115",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-115-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-115-question.mp3",
+      "sha256": "d38de802968ad24b7f34347833bf174d9bdbd68a728f1593077e352d968a06ad"
+    },
+    {
+      "key": "answer:USCIS-2025-115",
+      "questionId": "USCIS-2025-115",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-115-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-115-answer.mp3",
+      "sha256": "84864ff9360321c1bc1192c29229738450a2dec3f10b0e4f3d894f262d1a7d65"
+    },
+    {
+      "key": "question:USCIS-2025-116",
+      "questionId": "USCIS-2025-116",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-116-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-116-question.mp3",
+      "sha256": "202b10286fead517f8b606c98d668d9c90fbe2afd29ff0616ff32da9ad55dcd4"
+    },
+    {
+      "key": "answer:USCIS-2025-116",
+      "questionId": "USCIS-2025-116",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-116-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-116-answer.mp3",
+      "sha256": "0f3ca0f7cfdfc2a9dbc926b4c14300a8cfbd49169a7d688eb0e2538038b624c5"
+    },
+    {
+      "key": "question:USCIS-2025-117",
+      "questionId": "USCIS-2025-117",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-117-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-117-question.mp3",
+      "sha256": "beef27651369d5227434422ae1b3664301b8d61db9bc71a7d19f8553fc9a602c"
+    },
+    {
+      "key": "answer:USCIS-2025-117",
+      "questionId": "USCIS-2025-117",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-117-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-117-answer.mp3",
+      "sha256": "5f90ab27d4029c772d2007672ecc106f96a3f7a2e25b803d4725475b9ffbc2a1"
+    },
+    {
+      "key": "question:USCIS-2025-118",
+      "questionId": "USCIS-2025-118",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-118-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-118-question.mp3",
+      "sha256": "61b8870a7fd97f136d687ed3e88b449b33e6b3134ac516adade8032e931765ee"
+    },
+    {
+      "key": "answer:USCIS-2025-118",
+      "questionId": "USCIS-2025-118",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-118-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-118-answer.mp3",
+      "sha256": "b2122c8204d58d5ef0b164e74dd3c1a343bf79a03da8f6e2476994d816b6239d"
+    },
+    {
+      "key": "question:USCIS-2025-119",
+      "questionId": "USCIS-2025-119",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-119-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-119-question.mp3",
+      "sha256": "41a51497abbec22053eb617ac8c5fd7badbf2cbb4bc1d94aa5c8a3bab35bbf28"
+    },
+    {
+      "key": "answer:USCIS-2025-119",
+      "questionId": "USCIS-2025-119",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-119-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-119-answer.mp3",
+      "sha256": "d358b885350f55368add78364fd7af2208584a09dca610a39d8553dc5ef7f4d3"
+    },
+    {
+      "key": "question:USCIS-2025-120",
+      "questionId": "USCIS-2025-120",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-120-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-120-question.mp3",
+      "sha256": "691af27b7e82d46f9dfe47a4b822bd55ffb2766c06664ebdeeac82aa6f3dac4c"
+    },
+    {
+      "key": "answer:USCIS-2025-120",
+      "questionId": "USCIS-2025-120",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-120-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-120-answer.mp3",
+      "sha256": "4cb5f0f398ef47c17132f58365dfa5165e44a3e2cd14028b997f671d20e21c52"
+    },
+    {
+      "key": "question:USCIS-2025-121",
+      "questionId": "USCIS-2025-121",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-121-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-121-question.mp3",
+      "sha256": "2fa3fcab33d7bd0b71f66113f45d127da8385c275e932cacdc866b0823e4a08b"
+    },
+    {
+      "key": "answer:USCIS-2025-121",
+      "questionId": "USCIS-2025-121",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-121-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-121-answer.mp3",
+      "sha256": "080f39eb18c1feb709db7a156e408c66b74ece9ec756b0ab91220b1b96f39603"
+    },
+    {
+      "key": "question:USCIS-2025-122",
+      "questionId": "USCIS-2025-122",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-122-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-122-question.mp3",
+      "sha256": "d4c33cff0359d110313e11156e0da42a39e87e76254a7abe9b592561b0d25ce7"
+    },
+    {
+      "key": "answer:USCIS-2025-122",
+      "questionId": "USCIS-2025-122",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-122-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-122-answer.mp3",
+      "sha256": "5aae8fdd655132da785d35b61f32a0dfa45461df6049404d31d20f7631b1bc5b"
+    },
+    {
+      "key": "question:USCIS-2025-123",
+      "questionId": "USCIS-2025-123",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-123-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-123-question.mp3",
+      "sha256": "ee04a15fc9b4a05c74dd38afc62daef6202dec3dc5e2d4f7c130b6c464ef4882"
+    },
+    {
+      "key": "answer:USCIS-2025-123",
+      "questionId": "USCIS-2025-123",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-123-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-123-answer.mp3",
+      "sha256": "2e7cb0ebc9d9bf64988f8d80ed6cb916e9c1cfb3785db76ac9b34cb8c59f0976"
+    },
+    {
+      "key": "question:USCIS-2025-124",
+      "questionId": "USCIS-2025-124",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-124-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-124-question.mp3",
+      "sha256": "338f1f8645bba110f4b7c3a1b1c716c717ae1633878468d0b7b5e99ffdca0cfb"
+    },
+    {
+      "key": "answer:USCIS-2025-124",
+      "questionId": "USCIS-2025-124",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-124-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-124-answer.mp3",
+      "sha256": "e3b14bb2d33a6a2c42945769412f57242839f0c0b1f0233c81cab731485b2249"
+    },
+    {
+      "key": "question:USCIS-2025-125",
+      "questionId": "USCIS-2025-125",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-125-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-125-question.mp3",
+      "sha256": "8304dd274a9920cc2284fba5c0a7b2484c2b4bd5a5cda53ca8a4b99391a5b76c"
+    },
+    {
+      "key": "answer:USCIS-2025-125",
+      "questionId": "USCIS-2025-125",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-125-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-125-answer.mp3",
+      "sha256": "3da867647af067f02ab1dc310ff224319196b7bdfecdcf7b7bf84c92d84b8627"
+    },
+    {
+      "key": "question:USCIS-2025-126",
+      "questionId": "USCIS-2025-126",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-126-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-126-question.mp3",
+      "sha256": "371ed7191a9db87fdf9dbb70eb07e14bb54e4544b67cbbf39aaab1423b7865c5"
+    },
+    {
+      "key": "answer:USCIS-2025-126",
+      "questionId": "USCIS-2025-126",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-126-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-126-answer.mp3",
+      "sha256": "6c0f49f026e4b7c552807e178bc7a6efedf2062755aba43d215ef9d154ea5a5d"
+    },
+    {
+      "key": "question:USCIS-2025-127",
+      "questionId": "USCIS-2025-127",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-127-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-127-question.mp3",
+      "sha256": "3652d6e87d42fde478b0640528bd904f1c3848eed7e5ac06ceb153b6cc925db8"
+    },
+    {
+      "key": "answer:USCIS-2025-127",
+      "questionId": "USCIS-2025-127",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-127-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-127-answer.mp3",
+      "sha256": "97e90e63d695ab87f0b621930bf241bc07e1a55f7444c685ece8386f8eab70a7"
+    },
+    {
+      "key": "question:USCIS-2025-128",
+      "questionId": "USCIS-2025-128",
+      "kind": "question",
+      "targetCode": "2025",
+      "file": "2025/questions/USCIS-2025-128-question.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/questions/USCIS-2025-128-question.mp3",
+      "sha256": "e3cc77861bb728d7f25688abb8876a092a9ef344b9bc7c384af7e56cdc2c8424"
+    },
+    {
+      "key": "answer:USCIS-2025-128",
+      "questionId": "USCIS-2025-128",
+      "kind": "answer",
+      "targetCode": "2025",
+      "file": "2025/answers/USCIS-2025-128-answer.mp3",
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/2025/answers/USCIS-2025-128-answer.mp3",
+      "sha256": "3514861f126fa27dee565ee06aab76a8693d5ecff26fdf2e3fe31529b1150a9f"
+    }
+  ]
+}
