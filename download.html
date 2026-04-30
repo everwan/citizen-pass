@@ -1,0 +1,518 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>US Citizenship Test Pass</title>
+  <meta
+    name="description"
+    content="US Citizenship Test Pass download page with automatic device and language-aware instructions."
+  />
+  <style>
+    :root {
+      --bg: #f7f4ec;
+      --paper: rgba(255, 255, 255, 0.88);
+      --text: #102033;
+      --muted: #66717d;
+      --line: rgba(16, 32, 51, 0.1);
+      --brand: #173242;
+      --brand-soft: #eaf2f6;
+      --accent: #f4a51c;
+      --accent-deep: #d8840f;
+      --blue: #2d6cdf;
+      --green: #2e805d;
+      --shadow: 0 28px 70px rgba(16, 32, 51, 0.14);
+      --max-width: 1120px;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      min-height: 100vh;
+      padding: 24px;
+      color: var(--text);
+      font-family: "Avenir Next", "SF Pro Display", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+      background:
+        linear-gradient(135deg, rgba(23, 50, 66, 0.08), transparent 34%),
+        linear-gradient(220deg, rgba(244, 165, 28, 0.16), transparent 32%),
+        var(--bg);
+    }
+
+    .page {
+      width: min(100%, var(--max-width));
+      margin: 0 auto;
+    }
+
+    .shell {
+      overflow: hidden;
+      padding: 28px;
+      border-radius: 34px;
+      background: var(--paper);
+      border: 1px solid rgba(255, 255, 255, 0.78);
+      box-shadow: var(--shadow);
+      backdrop-filter: blur(14px);
+    }
+
+    .topbar {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 16px;
+      margin-bottom: 36px;
+    }
+
+    .brand {
+      display: flex;
+      align-items: center;
+      gap: 14px;
+      min-width: 0;
+    }
+
+    .brand img {
+      width: 52px;
+      height: 52px;
+      border-radius: 16px;
+      box-shadow: 0 14px 30px rgba(23, 50, 66, 0.22);
+    }
+
+    .brand-copy strong,
+    .brand-copy span {
+      display: block;
+    }
+
+    .brand-copy strong {
+      font-size: 16px;
+      line-height: 20px;
+    }
+
+    .brand-copy span {
+      color: var(--muted);
+      font-size: 13px;
+      line-height: 18px;
+    }
+
+    .top-pill {
+      display: inline-flex;
+      align-items: center;
+      padding: 10px 14px;
+      border-radius: 999px;
+      background: var(--brand-soft);
+      color: var(--brand);
+      font-size: 12px;
+      font-weight: 800;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      white-space: nowrap;
+    }
+
+    .hero {
+      display: grid;
+      grid-template-columns: minmax(0, 1.08fr) minmax(300px, 400px);
+      gap: 28px;
+      align-items: center;
+    }
+
+    .eyebrow {
+      display: inline-flex;
+      padding: 8px 12px;
+      border-radius: 999px;
+      background: var(--brand-soft);
+      color: var(--brand);
+      font-size: 12px;
+      font-weight: 800;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+    }
+
+    h1 {
+      margin: 18px 0 16px;
+      max-width: 650px;
+      font-size: clamp(46px, 7vw, 80px);
+      line-height: 0.96;
+      letter-spacing: 0;
+    }
+
+    .subtitle {
+      max-width: 580px;
+      margin: 0;
+      color: var(--muted);
+      font-size: 19px;
+      line-height: 1.75;
+    }
+
+    .meta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin-top: 26px;
+    }
+
+    .meta-chip {
+      padding: 10px 14px;
+      border-radius: 999px;
+      background: rgba(255, 255, 255, 0.78);
+      border: 1px solid var(--line);
+      font-size: 14px;
+      font-weight: 700;
+    }
+
+    .download-card {
+      padding: 22px;
+      border-radius: 28px;
+      background: #ffffff;
+      border: 1px solid var(--line);
+      box-shadow: 0 18px 42px rgba(16, 32, 51, 0.08);
+    }
+
+    .status {
+      margin: 0;
+      color: var(--muted);
+      font-size: 15px;
+      line-height: 1.7;
+    }
+
+    .status strong {
+      color: var(--brand);
+    }
+
+    .actions {
+      display: grid;
+      gap: 12px;
+      margin-top: 18px;
+    }
+
+    .button {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 58px;
+      padding: 14px 18px;
+      border-radius: 18px;
+      text-decoration: none;
+      font-size: 16px;
+      font-weight: 800;
+      border: 1px solid transparent;
+      transition: transform 0.18s ease, box-shadow 0.18s ease;
+    }
+
+    .button:hover {
+      transform: translateY(-1px);
+    }
+
+    .button-primary {
+      color: #102033;
+      background: linear-gradient(135deg, var(--accent), var(--accent-deep));
+      box-shadow: 0 16px 34px rgba(216, 132, 15, 0.26);
+    }
+
+    .button-secondary {
+      color: var(--blue);
+      background: rgba(45, 108, 223, 0.08);
+      border-color: rgba(45, 108, 223, 0.16);
+    }
+
+    .platform-note {
+      display: inline-flex;
+      align-items: center;
+      width: fit-content;
+      margin-top: 14px;
+      padding: 9px 12px;
+      border-radius: 999px;
+      background: rgba(46, 128, 93, 0.08);
+      color: var(--green);
+      font-size: 13px;
+      font-weight: 700;
+    }
+
+    .small-note {
+      margin-top: 16px;
+      color: var(--muted);
+      font-size: 13px;
+      line-height: 1.7;
+    }
+
+    .divider {
+      height: 1px;
+      margin: 28px 0 0;
+      background: linear-gradient(90deg, transparent, rgba(16, 32, 51, 0.16), transparent);
+    }
+
+    .bottom {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 14px;
+      margin-top: 22px;
+    }
+
+    .fact {
+      padding: 18px;
+      border-radius: 20px;
+      background: rgba(255, 255, 255, 0.64);
+      border: 1px solid rgba(16, 32, 51, 0.07);
+    }
+
+    .fact strong {
+      display: block;
+      margin-bottom: 6px;
+      font-size: 15px;
+      color: var(--text);
+    }
+
+    .fact span {
+      display: block;
+      color: var(--muted);
+      font-size: 14px;
+      line-height: 1.65;
+    }
+
+    @media (max-width: 920px) {
+      .hero,
+      .bottom {
+        grid-template-columns: 1fr;
+      }
+    }
+
+    @media (max-width: 720px) {
+      body {
+        padding: 14px;
+      }
+
+      .shell {
+        padding: 18px;
+        border-radius: 28px;
+      }
+
+      .topbar {
+        flex-direction: column;
+        align-items: flex-start;
+        margin-bottom: 26px;
+      }
+
+      h1 {
+        font-size: clamp(40px, 13vw, 62px);
+      }
+
+      .subtitle {
+        font-size: 16px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <main class="page">
+    <section class="shell">
+      <div class="topbar">
+        <div class="brand">
+          <img src="../../../assets/icon.png" alt="US Citizenship Test Pass app icon" />
+          <div class="brand-copy">
+            <strong>US Citizenship Test Pass</strong>
+            <span id="brand-subtitle">USCIS civics test prep</span>
+          </div>
+        </div>
+        <div class="top-pill" id="top-pill">App Download</div>
+      </div>
+
+      <div class="hero">
+        <div class="copy">
+          <div class="eyebrow" id="eyebrow">USCIS 2008 + 2025</div>
+          <h1 id="hero-title">A calmer path to citizenship test prep.</h1>
+          <p class="subtitle" id="hero-subtitle">
+            Bilingual civics questions, mock tests, listening practice, pronunciation recording, and study guides stay together in one focused app.
+          </p>
+          <div class="meta">
+            <div class="meta-chip" id="meta-language">English + Simplified Chinese</div>
+            <div class="meta-chip" id="meta-device">iPhone</div>
+            <div class="meta-chip" id="meta-bank">2008 + 2025 question banks</div>
+          </div>
+        </div>
+
+        <aside class="download-card">
+          <p class="status" id="status">Preparing the best download option for you...</p>
+          <div class="actions">
+            <a class="button button-primary" id="smart-link" href="#">Download now</a>
+            <a class="button button-secondary" id="ios-link" href="#" target="_blank" rel="noopener noreferrer">Open in App Store</a>
+          </div>
+          <div class="platform-note" id="android-note">Android version coming soon</div>
+          <div class="small-note" id="small-note">If you open this on desktop, you can still use the buttons to view the App Store page.</div>
+        </aside>
+      </div>
+
+      <div class="divider"></div>
+
+      <section class="bottom">
+        <article class="fact">
+          <strong id="fact1-title">Two official tracks</strong>
+          <span id="fact1-copy">Study with the USCIS 2008 or 2025 civics test question bank based on your filing date.</span>
+        </article>
+        <article class="fact">
+          <strong id="fact2-title">Listening and speaking</strong>
+          <span id="fact2-copy">Listen to questions and answers, then record your own pronunciation for interview practice.</span>
+        </article>
+        <article class="fact">
+          <strong id="fact3-title">Focused review</strong>
+          <span id="fact3-copy">Mock results, mistakes, saved questions, and guides help you spend time where it matters.</span>
+        </article>
+      </section>
+    </section>
+  </main>
+
+  <script>
+    const IOS_APP_URL = "https://apps.apple.com/app/us-citizenship-test-pass/id6762421706";
+    const ANDROID_APP_URL = "";
+    const AUTO_REDIRECT_DELAY = 900;
+
+    const ua = navigator.userAgent || navigator.vendor || window.opera || "";
+    const isIOS = /iPad|iPhone|iPod/.test(ua) || (navigator.platform === "MacIntel" && navigator.maxTouchPoints > 1);
+    const isAndroid = /Android/i.test(ua);
+    const hasAndroidUrl = ANDROID_APP_URL.trim().length > 0;
+    const deviceLanguage = (navigator.language || navigator.userLanguage || "en").toLowerCase();
+    const isChinese = deviceLanguage.startsWith("zh");
+
+    const smartLink = document.getElementById("smart-link");
+    const iosLink = document.getElementById("ios-link");
+    const androidNote = document.getElementById("android-note");
+    const status = document.getElementById("status");
+    const topPill = document.getElementById("top-pill");
+    const brandSubtitle = document.getElementById("brand-subtitle");
+    const eyebrow = document.getElementById("eyebrow");
+    const heroTitle = document.getElementById("hero-title");
+    const heroSubtitle = document.getElementById("hero-subtitle");
+    const metaLanguage = document.getElementById("meta-language");
+    const metaDevice = document.getElementById("meta-device");
+    const metaBank = document.getElementById("meta-bank");
+    const smallNote = document.getElementById("small-note");
+    const fact1Title = document.getElementById("fact1-title");
+    const fact1Copy = document.getElementById("fact1-copy");
+    const fact2Title = document.getElementById("fact2-title");
+    const fact2Copy = document.getElementById("fact2-copy");
+    const fact3Title = document.getElementById("fact3-title");
+    const fact3Copy = document.getElementById("fact3-copy");
+
+    const copy = {
+      en: {
+        htmlLang: "en",
+        brandSubtitle: "USCIS civics test prep",
+        topPill: "App Download",
+        eyebrow: "USCIS 2008 + 2025",
+        heroTitle: "A calmer path to citizenship test prep.",
+        heroSubtitle: "Bilingual civics questions, mock tests, listening practice, pronunciation recording, and study guides stay together in one focused app.",
+        metaLanguage: "English + Simplified Chinese",
+        metaDevice: "iPhone",
+        metaBank: "2008 + 2025 question banks",
+        smallNote: "If you open this on desktop, you can still use the buttons to view the App Store page.",
+        iosLink: "Open in App Store",
+        androidComingSoon: "Android version coming soon",
+        androidAvailable: "Android version now available",
+        smartAppStore: "View on App Store",
+        smartGoAppStore: "Go to App Store",
+        smartAndroid: "Download Android version",
+        statusPreparing: "Preparing the best download option for you...",
+        statusIOS: "Detected <strong>iPhone</strong>. Taking you to the App Store.",
+        statusAndroidReady: "Detected <strong>Android device</strong>. Taking you to the download page.",
+        statusAndroidSoon: "Detected <strong>Android device</strong>. Android version is coming soon.",
+        statusDesktop: "Choose the download option that fits your device.",
+        fact1Title: "Two official tracks",
+        fact1Copy: "Study with the USCIS 2008 or 2025 civics test question bank based on your filing date.",
+        fact2Title: "Listening and speaking",
+        fact2Copy: "Listen to questions and answers, then record your own pronunciation for interview practice.",
+        fact3Title: "Focused review",
+        fact3Copy: "Mock results, mistakes, saved questions, and guides help you spend time where it matters."
+      },
+      zh: {
+        htmlLang: "zh-CN",
+        brandSubtitle: "美国入籍考试备考",
+        topPill: "应用下载",
+        eyebrow: "USCIS 2008 + 2025",
+        heroTitle: "准备入籍考试，可以更稳一点。",
+        heroSubtitle: "中英双语题库、模拟考试、听题训练、跟读录音和考试指南，都整理在一个更聚焦的学习流程里。",
+        metaLanguage: "English + 简体中文",
+        metaDevice: "iPhone",
+        metaBank: "2008 + 2025 版题库",
+        smallNote: "如果你在电脑上打开，也可以直接点击按钮查看 App Store 页面。",
+        iosLink: "在 App Store 打开",
+        androidComingSoon: "Android 版本即将推出",
+        androidAvailable: "Android 版现已开放",
+        smartAppStore: "查看 App Store",
+        smartGoAppStore: "立即前往 App Store",
+        smartAndroid: "立即下载 Android 版",
+        statusPreparing: "正在为你准备下载方式...",
+        statusIOS: "识别到 <strong>iPhone</strong>，即将前往 App Store。",
+        statusAndroidReady: "识别到 <strong>Android 设备</strong>，即将前往下载页面。",
+        statusAndroidSoon: "识别到 <strong>Android 设备</strong>，Android 版本即将推出。",
+        statusDesktop: "请选择适合你设备的下载方式。",
+        fact1Title: "两套官方题库",
+        fact1Copy: "按你的 N-400 提交时间，选择 USCIS 2008 或 2025 版公民题库学习。",
+        fact2Title: "听题与跟读",
+        fact2Copy: "顺序听英文题目和答案，也可以录音回放，提前适应面试表达。",
+        fact3Title: "复习更聚焦",
+        fact3Copy: "模拟成绩、错题、收藏题和考试指南放在一起，复习重点更清楚。"
+      }
+    };
+
+    const locale = isChinese ? copy.zh : copy.en;
+
+    iosLink.href = IOS_APP_URL;
+    iosLink.textContent = locale.iosLink;
+    document.documentElement.lang = locale.htmlLang;
+    document.title = "US Citizenship Test Pass";
+    document.querySelector('meta[name="description"]').setAttribute(
+      "content",
+      isChinese
+        ? "美国入籍考试通下载页，可根据设备和语言自动显示对应说明。"
+        : "US Citizenship Test Pass download page with automatic device and language-aware instructions."
+    );
+
+    brandSubtitle.textContent = locale.brandSubtitle;
+    topPill.textContent = locale.topPill;
+    eyebrow.textContent = locale.eyebrow;
+    heroTitle.textContent = locale.heroTitle;
+    heroSubtitle.textContent = locale.heroSubtitle;
+    metaLanguage.textContent = locale.metaLanguage;
+    metaDevice.textContent = locale.metaDevice;
+    metaBank.textContent = locale.metaBank;
+    smallNote.textContent = locale.smallNote;
+    fact1Title.textContent = locale.fact1Title;
+    fact1Copy.textContent = locale.fact1Copy;
+    fact2Title.textContent = locale.fact2Title;
+    fact2Copy.textContent = locale.fact2Copy;
+    fact3Title.textContent = locale.fact3Title;
+    fact3Copy.textContent = locale.fact3Copy;
+    status.innerHTML = locale.statusPreparing;
+
+    androidNote.textContent = hasAndroidUrl ? locale.androidAvailable : locale.androidComingSoon;
+
+    let targetUrl = IOS_APP_URL;
+    let targetLabel = locale.smartAppStore;
+
+    if (isIOS) {
+      status.innerHTML = locale.statusIOS;
+      targetUrl = IOS_APP_URL;
+      targetLabel = locale.smartGoAppStore;
+    } else if (isAndroid && hasAndroidUrl) {
+      status.innerHTML = locale.statusAndroidReady;
+      targetUrl = ANDROID_APP_URL;
+      targetLabel = locale.smartAndroid;
+    } else if (isAndroid) {
+      status.innerHTML = locale.statusAndroidSoon;
+      targetUrl = IOS_APP_URL;
+      targetLabel = locale.smartAppStore;
+    } else {
+      status.innerHTML = locale.statusDesktop;
+      targetUrl = IOS_APP_URL;
+      targetLabel = locale.smartAppStore;
+    }
+
+    smartLink.href = targetUrl;
+    smartLink.textContent = targetLabel;
+
+    if (isIOS || (isAndroid && hasAndroidUrl)) {
+      window.setTimeout(() => {
+        window.location.href = targetUrl;
+      }, AUTO_REDIRECT_DELAY);
+    }
+  </script>
+</body>
+</html>
