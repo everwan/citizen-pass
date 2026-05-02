@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "publishedAt": "2026-05-02T03:53:03.482Z",
+  "publishedAt": "2026-05-02T04:07:57.639Z",
   "baseUrl": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis",
   "generator": "azure-tts",
   "files": [
@@ -4205,7 +4205,7 @@
       "targetCode": "writing",
       "file": "writing/writing-011.mp3",
       "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/writing/writing-011.mp3",
-      "sha256": "5114525fcfb26e1ba0a2e90819bbeee632a0b919400bf5126f26d2b39a667570"
+      "sha256": "cfaaf2fe1152da826d20cbe0738d6ee39dac0e12e4c031f1da88bfec017d5779"
     },
     {
       "key": "writing:writing-012",
@@ -4232,7 +4232,7 @@
       "targetCode": "writing",
       "file": "writing/writing-014.mp3",
       "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/writing/writing-014.mp3",
-      "sha256": "a1a4136ae7030b478d483484c1e6ba3bae4a821aa593f658db0349a0f064d1c8"
+      "sha256": "e45f31468aa914354ff8557ebfb6b09fb1892f0e8286c83c0e635c5b1f90d334"
     },
     {
       "key": "writing:writing-015",
@@ -4241,7 +4241,7 @@
       "targetCode": "writing",
       "file": "writing/writing-015.mp3",
       "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/writing/writing-015.mp3",
-      "sha256": "2a86b6abecfa6b62a3981cd83fa08f5c5b9e7251c8f8f836950299cfcf81cc8f"
+      "sha256": "7790c2b3dd184a4f3f3d6183c5294f368e63bd6fc75a34e977a691e0c4a02fa8"
     },
     {
       "key": "writing:writing-016",
@@ -4277,7 +4277,7 @@
       "targetCode": "writing",
       "file": "writing/writing-019.mp3",
       "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/writing/writing-019.mp3",
-      "sha256": "f99916f7511761231243e0af871ecc829f374670182fe3988bcf72391aa351f1"
+      "sha256": "7d4528e7741c9ccb9ca69a464e4b59724970c43cc1841ee6c9fe8aa1939c37eb"
     },
     {
       "key": "writing:writing-020",
@@ -4295,7 +4295,7 @@
       "targetCode": "writing",
       "file": "writing/writing-021.mp3",
       "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/writing/writing-021.mp3",
-      "sha256": "f3447e75ba4544d10d2ebdb7f39a2ca6d91060fc14d65c590aa6326850fb150f"
+      "sha256": "79f7d128fa692cc7073f7b414fc9834902014d3f80c7933e64294c3cdccdf59a"
     },
     {
       "key": "writing:writing-022",
@@ -4313,7 +4313,7 @@
       "targetCode": "writing",
       "file": "writing/writing-023.mp3",
       "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/writing/writing-023.mp3",
-      "sha256": "4829b92f8b93eaaf48ce321ff5504174a4c0352c253920f7975f0bdc2d3585ed"
+      "sha256": "21ba7d1088d4ee42f876b10ba158bb56ded79d33fc2c4144e1a4c07e22ba828b"
     },
     {
       "key": "writing:writing-024",
@@ -4322,7 +4322,7 @@
       "targetCode": "writing",
       "file": "writing/writing-024.mp3",
       "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/writing/writing-024.mp3",
-      "sha256": "0a008cf8a56b2e3ef629f3f61e9d121cce4325ed9c597b56d2df47b5ea1bf4aa"
+      "sha256": "a212f0e24a4a694418dabbbaa08df8055c1578bc8f8ef8ab35caa7f66ca7fa2e"
     },
     {
       "key": "writing:writing-025",
@@ -4340,7 +4340,7 @@
       "targetCode": "writing",
       "file": "writing/writing-026.mp3",
       "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/writing/writing-026.mp3",
-      "sha256": "980ab901b176006f58ad2b1c27b5eaa4f9483b9bfec2926d20b8db5e3ab0dc4c"
+      "sha256": "ee29a0d801419fee43cc11bea229537b1d497cec21cc0936ea6f6d084731517f"
     },
     {
       "key": "writing:writing-027",
@@ -4412,7 +4412,7 @@
       "targetCode": "writing",
       "file": "writing/writing-034.mp3",
       "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/writing/writing-034.mp3",
-      "sha256": "927479b1d025d70d627282b05b953256c54d3fa324aa8bf91952fcc751e8673e"
+      "sha256": "bb5287bfaeb62fda0fee2989e8f20626d480aadb52bfb7bdbff669a642b0bc7f"
     },
     {
       "key": "writing:writing-035",
@@ -4439,7 +4439,7 @@
       "targetCode": "writing",
       "file": "writing/writing-037.mp3",
       "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/audio/uscis/writing/writing-037.mp3",
-      "sha256": "ee1de09b0ddedce4127e9e005d8c107088386be8fc32888827afa605d40002c9"
+      "sha256": "968aa9ecbe876409ccf172d99a59779419dc1d2e6c724f15398620b388c2f8f0"
     },
     {
       "key": "writing:writing-038",
