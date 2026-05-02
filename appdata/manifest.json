@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "publishedAt": "2026-05-01T23:00:10.779Z",
+  "publishedAt": "2026-05-02T03:52:56.937Z",
   "releaseRules": {
     "checkIntervalHours": 12,
     "maxParallelDownloads": 1,
@@ -19,7 +19,7 @@
         "forceReloadAfterApply": true
       },
       "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/question-bank-2008.enc",
-      "sha256": "1791071446fab9305bd4a06426a831fe25f2d4235a4259a7fae2280e7ce186c0",
+      "sha256": "e971b293dc607775d35efb020b5ec3a8ff2ab8257bfe35ddf91ddcdba6c5b7a4",
       "sourceHash": "2f2f4aa5878d0037225f839e1eb26563da0012bd9d47b290bf9cfe1e8b910c1f"
     },
     {
@@ -34,14 +34,14 @@
         "forceReloadAfterApply": true
       },
       "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/question-bank-2025.enc",
-      "sha256": "f3b56224accaf8d0191c67df124d1b4adfdd77286decc4e2fb4bc4870e19306c",
+      "sha256": "e16d6033130e304f89d7fdc6442c6500403a72c88c4adf7b5dd539a58ce10c26",
       "sourceHash": "6326959dce860c7b19b625a70573506b2e9ea5bf74e33d8427a5557b4fb6d977"
     },
     {
       "id": "guide-2008",
       "type": "guide",
       "targetCode": "2008",
-      "version": "2026.04.18",
+      "version": "2026.05.01.2004",
       "updatePolicy": {
         "mode": "silent",
         "wifiOnly": false,
@@ -49,27 +49,14 @@
         "forceReloadAfterApply": false
       },
       "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/guide-2008.enc",
-      "sha256": "b9924f0479cab3267a54fd2a3961e164c92d9188a399a1435282be22aff46544"
-    },
-    {
-      "id": "glossary-2008",
-      "type": "glossary",
-      "targetCode": "2008",
-      "version": "2026.04.18",
-      "updatePolicy": {
-        "mode": "silent",
-        "wifiOnly": false,
-        "retryable": true,
-        "forceReloadAfterApply": false
-      },
-      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/glossary-2008.enc",
-      "sha256": "03da58f8f67ac0ee59155b2f786a63bcbfea516633d93643dcaae96ac509b2e5"
+      "sha256": "851f22f41c606014b29f9d3b2556bcfe38dd8aa1008b137ae468a39eba999472",
+      "sourceHash": "43511d46bb8d8ab329b5b39ddc80a8f4f9d2f71ac83aa0d9a9a903227e1c6a35"
     },
     {
       "id": "guide-2025",
       "type": "guide",
       "targetCode": "2025",
-      "version": "2026.04.18",
+      "version": "2026.05.01.2004",
       "updatePolicy": {
         "mode": "silent",
         "wifiOnly": false,
@@ -77,13 +64,29 @@
         "forceReloadAfterApply": false
       },
       "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/guide-2025.enc",
-      "sha256": "7ab38c01eac2ec9be30dc0fec77ea9733bb1f4a248eeaca6568cf3b1946c4bc4"
+      "sha256": "2114a1eabf70b8b614c10298ef5a8d712360ee9aa3e150789f01b0f787a95fc6",
+      "sourceHash": "ce0d16e6e116260e0b7595c29a5f9c4ce4de276d88cd9b438d12626345eb412f"
+    },
+    {
+      "id": "glossary-2008",
+      "type": "glossary",
+      "targetCode": "2008",
+      "version": "2026.05.01.2052",
+      "updatePolicy": {
+        "mode": "silent",
+        "wifiOnly": false,
+        "retryable": true,
+        "forceReloadAfterApply": false
+      },
+      "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/glossary-2008.enc",
+      "sha256": "03176ad9d07104d6b237767af1c2b26fc43b475f6c55dfbe7c989933d7652121",
+      "sourceHash": "633b6af01e971939bc65b62476167e10a7b38966c63cb5ac756bd30e2e4adbc7"
     },
     {
       "id": "glossary-2025",
       "type": "glossary",
       "targetCode": "2025",
-      "version": "2026.04.18",
+      "version": "2026.05.01.2052",
       "updatePolicy": {
         "mode": "silent",
         "wifiOnly": false,
@@ -91,7 +94,8 @@
         "forceReloadAfterApply": false
       },
       "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/glossary-2025.enc",
-      "sha256": "2042428425bc599f531355271859c87371b2b0716d40b670246d5c6cc2f5e59e"
+      "sha256": "8cf70293f25913a724ccbf8319056da30814def27ff5478ba544f60eea3ef173",
+      "sourceHash": "633b6af01e971939bc65b62476167e10a7b38966c63cb5ac756bd30e2e4adbc7"
     }
   ]
 }
