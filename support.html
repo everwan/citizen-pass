@@ -1,143 +1,493 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>US Citizenship Test Pass Support</title>
   <style>
     :root {
-      --bg: #f4efe6;
-      --card: #fffaf2;
-      --text: #16222c;
-      --muted: #5f6b73;
-      --line: #dfd2bf;
-      --accent: #1c607f;
-      --button: #d45533;
+      --bg: #f5f0e7;
+      --paper: rgba(255, 255, 255, 0.88);
+      --paper-solid: #ffffff;
+      --text: #162331;
+      --muted: #66717d;
+      --link: #1d65d8;
+      --border: rgba(22, 35, 49, 0.12);
+      --brand: #173242;
+      --brand-soft: #edf5f7;
+      --accent: #f4a51c;
+      --accent-soft: rgba(244, 165, 28, 0.16);
+      --control-bg: #ffffff;
+      --control-border: rgba(23, 50, 66, 0.14);
+      --shadow: 0 30px 80px rgba(22, 35, 49, 0.14);
+    }
+    * {
+      box-sizing: border-box;
     }
     body {
       margin: 0;
-      background: var(--bg);
+      min-height: 100vh;
+      background:
+        radial-gradient(circle at 8% 10%, rgba(244, 165, 28, 0.24), transparent 28%),
+        radial-gradient(circle at 88% 4%, rgba(23, 50, 66, 0.13), transparent 30%),
+        linear-gradient(135deg, rgba(255, 255, 255, 0.62), rgba(255, 255, 255, 0)),
+        var(--bg);
       color: var(--text);
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      font-family: "Avenir Next", "SF Pro Display", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
       line-height: 1.7;
     }
-    .wrap {
-      max-width: 880px;
+    main {
+      width: min(100% - 32px, 980px);
       margin: 0 auto;
-      padding: 40px 20px 80px;
-    }
-    .card {
-      background: var(--card);
-      border: 1px solid var(--line);
-      border-radius: 24px;
-      padding: 28px;
-      margin-top: 20px;
+      padding: 34px 0 64px;
     }
     h1, h2 {
-      margin: 0 0 16px;
+      margin-top: 0;
     }
     h1 {
-      font-size: 40px;
+      max-width: 680px;
+      font-size: clamp(36px, 6vw, 64px);
+      line-height: 0.98;
+      letter-spacing: -0.035em;
+      margin-bottom: 18px;
     }
     h2 {
-      font-size: 24px;
-      color: var(--accent);
-      margin-top: 8px;
+      position: relative;
+      font-size: 22px;
+      margin-top: 32px;
+      margin-bottom: 10px;
+      letter-spacing: -0.01em;
     }
     p, li {
-      font-size: 17px;
+      font-size: 16px;
+    }
+    .page-header {
+      display: flex;
+      align-items: flex-start;
+      justify-content: space-between;
+      gap: 28px;
+      margin-bottom: 22px;
+      padding: 30px;
+      border: 1px solid rgba(255, 255, 255, 0.72);
+      border-radius: 34px 34px 18px 18px;
+      background:
+        linear-gradient(135deg, rgba(255, 255, 255, 0.94), rgba(255, 255, 255, 0.72)),
+        var(--paper);
+      box-shadow: var(--shadow);
+      backdrop-filter: blur(16px);
+    }
+    .title-block {
+      min-width: 0;
+    }
+    .language-control {
+      display: inline-flex;
+      align-items: center;
+      gap: 12px;
+      position: sticky;
+      top: 16px;
+      flex: 0 0 auto;
+      min-width: 292px;
+      padding: 10px;
+      border: 1px solid var(--control-border);
+      border-radius: 24px;
+      background:
+        linear-gradient(135deg, rgba(255, 255, 255, 0.98), rgba(237, 245, 247, 0.86)),
+        var(--control-bg);
+      box-shadow: 0 18px 42px rgba(23, 50, 66, 0.12);
+    }
+    .language-icon {
+      display: grid;
+      place-items: center;
+      width: 42px;
+      height: 42px;
+      flex: 0 0 auto;
+      border-radius: 16px;
+      background: linear-gradient(135deg, var(--brand), #315468);
+      color: #ffffff;
+      font-size: 15px;
+      font-weight: 900;
+      letter-spacing: -0.04em;
+      box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.16);
+    }
+    .language-copy {
+      display: grid;
+      gap: 1px;
+      min-width: 86px;
+    }
+    .language-copy span {
+      color: var(--muted);
+      font-size: 11px;
+      font-weight: 800;
+      letter-spacing: 0.08em;
+      line-height: 1.1;
+      text-transform: uppercase;
+    }
+    .language-copy strong {
+      color: var(--brand);
+      font-size: 13px;
+      font-weight: 800;
+      line-height: 1.2;
+    }
+    .select-shell {
+      position: relative;
+      flex: 1;
+      min-width: 0;
+    }
+    .select-shell::after {
+      content: "";
+      position: absolute;
+      top: 50%;
+      right: 14px;
+      width: 8px;
+      height: 8px;
+      border-right: 2px solid var(--brand);
+      border-bottom: 2px solid var(--brand);
+      pointer-events: none;
+      transform: translateY(-68%) rotate(45deg);
+    }
+    .select-shell select {
+      width: 100%;
+      appearance: none;
+      border: 1px solid var(--control-border);
+      border-radius: 16px;
+      background: rgba(255, 255, 255, 0.92);
+      color: var(--text);
+      font: inherit;
+      font-size: 14px;
+      font-weight: 800;
+      line-height: 1.2;
+      padding: 12px 38px 12px 14px;
+      outline: none;
+      box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.82);
+      cursor: pointer;
+      transition: border-color 0.18s ease, box-shadow 0.18s ease, transform 0.18s ease;
+    }
+    .select-shell select:hover {
+      transform: translateY(-1px);
+      border-color: rgba(29, 101, 216, 0.36);
+      box-shadow: 0 10px 24px rgba(29, 101, 216, 0.08);
+    }
+    .select-shell select:focus {
+      border-color: var(--link);
+      box-shadow: 0 0 0 4px rgba(29, 101, 216, 0.13);
+    }
+    .eyebrow {
+      display: inline-flex;
+      width: fit-content;
+      padding: 8px 12px;
+      border-radius: 999px;
+      background: var(--brand-soft);
+      font-size: 13px;
+      font-weight: 900;
+      letter-spacing: 0.08em;
+      color: var(--brand);
+      margin-bottom: 18px;
+      text-transform: uppercase;
     }
     .muted {
       color: var(--muted);
     }
-    .todo {
-      display: inline-block;
-      margin-top: 12px;
-      padding: 8px 12px;
-      border-radius: 999px;
-      background: #fff0cf;
-      color: #7d5610;
-      font-size: 13px;
-      font-weight: 700;
+    .language-section {
+      padding: 34px;
+      border: 1px solid rgba(255, 255, 255, 0.74);
+      border-radius: 18px 18px 34px 34px;
+      background: var(--paper-solid);
+      box-shadow: 0 18px 48px rgba(22, 35, 49, 0.08);
     }
-    ul {
+    .language-section[hidden] {
+      display: none;
+    }
+    .language-section > p:first-child {
+      margin-top: 0;
+      padding: 18px 20px;
+      border: 1px solid rgba(244, 165, 28, 0.24);
+      border-radius: 22px;
+      background: var(--accent-soft);
+      color: #51360a;
+      font-weight: 650;
+    }
+    .language-section ul {
       padding-left: 22px;
-      margin: 10px 0 0;
     }
-    .lang {
-      display: inline-block;
-      font-size: 12px;
-      letter-spacing: 0.08em;
+    .language-section li::marker {
       color: var(--accent);
-      margin-bottom: 12px;
-      font-weight: 700;
     }
-    .mail {
-      display: inline-block;
-      margin-top: 8px;
-      padding: 12px 18px;
-      background: var(--button);
-      color: #fff;
-      text-decoration: none;
-      border-radius: 14px;
-      font-weight: 700;
+    a {
+      color: var(--link);
+      font-weight: 750;
+      text-decoration-thickness: 0.08em;
+      text-underline-offset: 0.18em;
+    }
+    @media (max-width: 700px) {
+      main {
+        width: min(100% - 24px, 980px);
+        padding: 18px 0 38px;
+      }
+      .page-header {
+        display: block;
+        padding: 22px;
+        border-radius: 28px 28px 16px 16px;
+      }
+      h1 {
+        font-size: clamp(31px, 9vw, 44px);
+      }
+      .language-control {
+        display: grid;
+        grid-template-columns: 42px minmax(0, 1fr);
+        position: static;
+        width: 100%;
+        min-width: 0;
+        margin-top: 22px;
+        border-radius: 22px;
+      }
+      .language-copy {
+        min-width: 0;
+        align-self: center;
+      }
+      .select-shell {
+        grid-column: 1 / -1;
+        width: 100%;
+      }
+      .language-section {
+        padding: 24px;
+      }
     }
   </style>
 </head>
 <body>
-  <div class="wrap">
-    <div class="card">
-      <div class="lang">SUPPORT</div>
-      <h1>US Citizenship Test Pass / 美国入籍考试通</h1>
-      <p class="muted">Last updated: April 16, 2026</p>
-      <p>If you run into issues while using US Citizenship Test Pass, you can contact us here.</p>
-      <a class="mail" href="mailto:app.support.us@gmail.com">app.support.us@gmail.com</a>
-      <div class="todo">Support email updated for publishing.</div>
-    </div>
+  <main>
+    <header class="page-header">
+      <div class="title-block">
+        <div class="eyebrow" data-i18n="eyebrow">Support</div>
+        <h1 data-i18n="heading">US Citizenship Test Pass / 美国入籍考试通</h1>
+        <p class="muted" data-i18n="updated">Last updated: May 5, 2026</p>
+      </div>
 
-    <div class="card">
-      <div class="lang">ENGLISH</div>
-      <h2>Common support topics</h2>
-      <ul>
-        <li>Question or explanation issues</li>
-        <li>App crashes or display bugs</li>
-        <li>Audio playback or recording issues</li>
-        <li>Ad display problems</li>
-        <li>Language display or study-mode issues</li>
-        <li>Feature requests and product feedback</li>
-      </ul>
+      <label class="language-control" for="language-select">
+        <span class="language-icon" aria-hidden="true">A</span>
+        <span class="language-copy">
+          <span data-i18n="languageLabel">Language</span>
+          <strong data-i18n="languageHint">Auto detected</strong>
+        </span>
+        <span class="select-shell">
+          <select id="language-select" aria-label="Language">
+            <option value="en">English</option>
+            <option value="zh">简体中文</option>
+            <option value="es">Español</option>
+            <option value="vi">Tiếng Việt</option>
+            <option value="ko">한국어</option>
+          </select>
+        </span>
+      </label>
+    </header>
+
+    <article class="language-section" data-locale="en">
+      <p>If you run into issues while using US Citizenship Test Pass, you can contact us by email. Including your device model, iOS version, app version, and a screenshot will help us respond faster.</p>
+
+      <h2>How to get help</h2>
+      <p>If you have questions about app behavior, purchases, restore access, ads, audio playback, or pronunciation recording, please contact support by email.</p>
 
       <h2>What to include</h2>
       <ul>
-        <li>Your device model</li>
-        <li>Your iOS version</li>
-        <li>The screen where the problem happened</li>
+        <li>What screen or feature you were using</li>
+        <li>What happened and what you expected to happen</li>
+        <li>Your device model and iOS version</li>
+        <li>Your app version if available</li>
         <li>A screenshot if available</li>
-        <li>Your app language and whether the issue happened in practice, listening, guide, or mock test</li>
-      </ul>
-    </div>
-
-    <div class="card">
-      <div class="lang">简体中文</div>
-      <h2>常见支持问题</h2>
-      <ul>
-        <li>题目或解析内容问题</li>
-        <li>应用闪退、页面异常或显示问题</li>
-        <li>音频播放或录音异常</li>
-        <li>广告展示异常</li>
-        <li>中英文显示或练习模式问题</li>
-        <li>功能建议和体验反馈</li>
       </ul>
 
-      <h2>建议一并提供的信息</h2>
+      <h2>Contact</h2>
+      <p>Email: <a href="mailto:app.support.us@gmail.com">app.support.us@gmail.com</a></p>
+
+      <h2>About the app</h2>
+      <p>US Citizenship Test Pass is a multilingual study app for the U.S. citizenship civics test, with practice, listening, writing drills, mock exams, review, pronunciation recording, and study resources in one study flow. The app supports English, Simplified Chinese, Spanish, Vietnamese, Tagalog / Filipino, Haitian Creole, and Korean study help.</p>
+    </article>
+
+    <article class="language-section" data-locale="zh" hidden>
+      <p>如果你在使用美国入籍考试通时遇到问题，可以通过电子邮件联系我们。来信时附上设备型号、iOS 版本、App 版本和截图，有助于我们更快定位问题。</p>
+
+      <h2>如何获得帮助</h2>
+      <p>如果你对应用功能、会员购买、恢复购买、广告展示、音频播放或跟读录音有任何问题，请通过电子邮件联系我们。</p>
+
+      <h2>来信建议附上</h2>
       <ul>
-        <li>设备型号</li>
-        <li>iOS 版本</li>
-        <li>问题出现的页面</li>
-        <li>问题截图</li>
-        <li>当前 App 语言，以及问题发生在练习、听力、指南还是模拟考试页面</li>
+        <li>你当时所在的页面或使用的功能</li>
+        <li>实际发生了什么，以及你原本期望发生什么</li>
+        <li>你的设备型号和 iOS 版本</li>
+        <li>你的应用版本号（如果方便提供）</li>
+        <li>相关截图（如果方便提供）</li>
       </ul>
-    </div>
-  </div>
+
+      <h2>联系方式</h2>
+      <p>邮箱：<a href="mailto:app.support.us@gmail.com">app.support.us@gmail.com</a></p>
+
+      <h2>关于应用</h2>
+      <p>美国入籍考试通是一款面向美国公民入籍 civics test 的多语言学习应用，提供练习、听力、写作训练、模拟考试、复习、跟读录音和学习资料等功能。当前支持英语、简体中文、西班牙语、越南语、他加禄语、海地克里奥尔语和韩语学习辅助。</p>
+    </article>
+
+    <article class="language-section" data-locale="es" hidden>
+      <p>Si tienes problemas al usar US Citizenship Test Pass, puedes contactarnos por email. Incluir el modelo de tu dispositivo, versión de iOS, versión de la app y una captura de pantalla nos ayudará a responder más rápido.</p>
+
+      <h2>Cómo obtener ayuda</h2>
+      <p>Si tienes preguntas sobre funciones de la app, compras Premium, restauración de compras, anuncios, audio o grabación de pronunciación, contáctanos por email.</p>
+
+      <h2>Qué incluir</h2>
+      <ul>
+        <li>La pantalla o función que estabas usando</li>
+        <li>Qué ocurrió y qué esperabas que ocurriera</li>
+        <li>Tu modelo de dispositivo y versión de iOS</li>
+        <li>La versión de la app, si está disponible</li>
+        <li>Una captura de pantalla, si está disponible</li>
+      </ul>
+
+      <h2>Contacto</h2>
+      <p>Email: <a href="mailto:app.support.us@gmail.com">app.support.us@gmail.com</a></p>
+
+      <h2>Acerca de la app</h2>
+      <p>US Citizenship Test Pass es una app de estudio multilingüe para el examen de ciudadanía de EE. UU., con práctica, audio, escritura, simulacros, repaso, grabación de pronunciación y recursos de estudio. La app ofrece apoyo en inglés, chino simplificado, español, vietnamita, tagalo / filipino, criollo haitiano y coreano.</p>
+    </article>
+
+    <article class="language-section" data-locale="vi" hidden>
+      <p>Nếu bạn gặp sự cố khi sử dụng US Citizenship Test Pass, bạn có thể liên hệ với chúng tôi qua email. Việc gửi kèm mẫu thiết bị, phiên bản iOS, phiên bản ứng dụng và ảnh chụp màn hình sẽ giúp chúng tôi phản hồi nhanh hơn.</p>
+
+      <h2>Cách nhận hỗ trợ</h2>
+      <p>Nếu bạn có câu hỏi về tính năng ứng dụng, mua Premium, khôi phục mua hàng, quảng cáo, phát âm thanh hoặc ghi âm phát âm, vui lòng liên hệ qua email.</p>
+
+      <h2>Nên gửi kèm</h2>
+      <ul>
+        <li>Màn hình hoặc tính năng bạn đang sử dụng</li>
+        <li>Điều đã xảy ra và điều bạn mong đợi</li>
+        <li>Mẫu thiết bị và phiên bản iOS</li>
+        <li>Phiên bản ứng dụng nếu có</li>
+        <li>Ảnh chụp màn hình nếu có</li>
+      </ul>
+
+      <h2>Liên hệ</h2>
+      <p>Email: <a href="mailto:app.support.us@gmail.com">app.support.us@gmail.com</a></p>
+
+      <h2>Về ứng dụng</h2>
+      <p>US Citizenship Test Pass là ứng dụng học đa ngôn ngữ cho bài thi công dân Hoa Kỳ, có luyện tập, nghe, viết, thi thử, ôn tập, ghi âm phát âm và tài liệu học. Ứng dụng hỗ trợ tiếng Anh, tiếng Trung giản thể, tiếng Tây Ban Nha, tiếng Việt, Tagalog / Filipino, tiếng Creole Haiti và tiếng Hàn.</p>
+    </article>
+
+    <article class="language-section" data-locale="ko" hidden>
+      <p>US Citizenship Test Pass 사용 중 문제가 발생하면 이메일로 문의할 수 있습니다. 기기 모델, iOS 버전, 앱 버전, 스크린샷을 함께 보내주시면 더 빠르게 답변하는 데 도움이 됩니다.</p>
+
+      <h2>도움 받는 방법</h2>
+      <p>앱 기능, Premium 구매, 구매 복원, 광고, 오디오 재생 또는 발음 녹음에 대한 질문이 있으면 이메일로 문의해 주세요.</p>
+
+      <h2>포함하면 좋은 내용</h2>
+      <ul>
+        <li>사용 중이던 화면 또는 기능</li>
+        <li>발생한 문제와 기대했던 동작</li>
+        <li>기기 모델과 iOS 버전</li>
+        <li>가능한 경우 앱 버전</li>
+        <li>가능한 경우 스크린샷</li>
+      </ul>
+
+      <h2>문의</h2>
+      <p>Email: <a href="mailto:app.support.us@gmail.com">app.support.us@gmail.com</a></p>
+
+      <h2>앱 소개</h2>
+      <p>US Citizenship Test Pass는 미국 시민권 civics test를 위한 다국어 학습 앱입니다. 연습, 듣기, 쓰기, 모의시험, 복습, 발음 녹음, 학습 자료를 하나의 흐름으로 제공합니다. 앱은 영어, 중국어 간체, 스페인어, 베트남어, Tagalog / Filipino, Haitian Creole, 한국어 학습 도움을 지원합니다.</p>
+    </article>
+  </main>
+
+  <script>
+    const LOCALES = {
+      en: {
+        htmlLang: "en",
+        title: "US Citizenship Test Pass Support",
+        eyebrow: "Support",
+        heading: "US Citizenship Test Pass",
+        updated: "Last updated: May 5, 2026",
+        languageLabel: "Language",
+        languageHint: "Auto detected"
+      },
+      zh: {
+        htmlLang: "zh-Hans",
+        title: "美国入籍考试通技术支持",
+        eyebrow: "技术支持",
+        heading: "美国入籍考试通",
+        updated: "最后更新：2026年5月5日",
+        languageLabel: "语言",
+        languageHint: "自动匹配"
+      },
+      es: {
+        htmlLang: "es",
+        title: "Soporte de US Citizenship Test Pass",
+        eyebrow: "Soporte",
+        heading: "US Citizenship Test Pass",
+        updated: "Última actualización: 5 de mayo de 2026",
+        languageLabel: "Idioma",
+        languageHint: "Detección automática"
+      },
+      vi: {
+        htmlLang: "vi",
+        title: "Hỗ trợ US Citizenship Test Pass",
+        eyebrow: "Hỗ trợ",
+        heading: "US Citizenship Test Pass",
+        updated: "Cập nhật lần cuối: ngày 5 tháng 5 năm 2026",
+        languageLabel: "Ngôn ngữ",
+        languageHint: "Tự động nhận diện"
+      },
+      ko: {
+        htmlLang: "ko",
+        title: "US Citizenship Test Pass 지원",
+        eyebrow: "지원",
+        heading: "US Citizenship Test Pass",
+        updated: "최종 업데이트: 2026년 5월 5일",
+        languageLabel: "언어",
+        languageHint: "자동 감지"
+      }
+    };
+
+    function matchLocale(language) {
+      const normalized = String(language || "").toLowerCase();
+
+      if (!normalized) return null;
+      if (normalized.startsWith("zh")) return "zh";
+      if (normalized.startsWith("es")) return "es";
+      if (normalized.startsWith("vi")) return "vi";
+      if (normalized.startsWith("ko")) return "ko";
+      if (normalized.startsWith("en")) return "en";
+
+      return null;
+    }
+
+    function browserLocale() {
+      const languages = Array.isArray(navigator.languages) && navigator.languages.length
+        ? navigator.languages
+        : [navigator.language || navigator.userLanguage];
+
+      for (const language of languages) {
+        const matched = matchLocale(language);
+        if (matched) return matched;
+      }
+
+      return "en";
+    }
+
+    function applyLocale(locale) {
+      const nextLocale = LOCALES[locale] ? locale : "en";
+      const copy = LOCALES[nextLocale];
+
+      document.documentElement.lang = copy.htmlLang;
+      document.title = copy.title;
+      document.getElementById("language-select").value = nextLocale;
+
+      document.querySelectorAll("[data-i18n]").forEach((node) => {
+        const key = node.dataset.i18n;
+        if (copy[key]) node.textContent = copy[key];
+      });
+
+      document.querySelectorAll("[data-locale]").forEach((section) => {
+        section.hidden = section.dataset.locale !== nextLocale;
+      });
+    }
+
+    const select = document.getElementById("language-select");
+    applyLocale(browserLocale());
+    select.addEventListener("change", (event) => applyLocale(event.target.value));
+  </script>
 </body>
 </html>
