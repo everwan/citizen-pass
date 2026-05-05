@@ -6,152 +6,583 @@
   <title>US Citizenship Test Pass Privacy Policy</title>
   <style>
     :root {
-      --bg: #ffffff;
-      --text: #111111;
-      --muted: #555555;
-      --link: #0a58ca;
-      --border: #dddddd;
+      --bg: #f5f0e7;
+      --paper: rgba(255, 255, 255, 0.88);
+      --paper-solid: #ffffff;
+      --text: #162331;
+      --muted: #66717d;
+      --link: #1d65d8;
+      --border: rgba(22, 35, 49, 0.12);
+      --brand: #173242;
+      --brand-soft: #edf5f7;
+      --accent: #f4a51c;
+      --accent-soft: rgba(244, 165, 28, 0.16);
+      --control-bg: #ffffff;
+      --control-border: rgba(23, 50, 66, 0.14);
+      --shadow: 0 30px 80px rgba(22, 35, 49, 0.14);
+    }
+    * {
+      box-sizing: border-box;
     }
     body {
       margin: 0;
-      background: var(--bg);
+      min-height: 100vh;
+      background:
+        radial-gradient(circle at 8% 10%, rgba(244, 165, 28, 0.24), transparent 28%),
+        radial-gradient(circle at 88% 4%, rgba(23, 50, 66, 0.13), transparent 30%),
+        linear-gradient(135deg, rgba(255, 255, 255, 0.62), rgba(255, 255, 255, 0)),
+        var(--bg);
       color: var(--text);
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      font-family: "Avenir Next", "SF Pro Display", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
       line-height: 1.7;
     }
     main {
-      max-width: 860px;
+      width: min(100% - 32px, 980px);
       margin: 0 auto;
-      padding: 40px 20px 56px;
+      padding: 34px 0 64px;
     }
     h1, h2 {
       margin-top: 0;
     }
     h1 {
-      font-size: 32px;
-      line-height: 1.2;
-      margin-bottom: 16px;
+      max-width: 680px;
+      font-size: clamp(36px, 6vw, 64px);
+      line-height: 0.98;
+      letter-spacing: -0.035em;
+      margin-bottom: 18px;
     }
     h2 {
+      position: relative;
       font-size: 22px;
-      margin-top: 28px;
+      margin-top: 32px;
       margin-bottom: 10px;
+      letter-spacing: -0.01em;
     }
     p, li {
       font-size: 16px;
     }
-    .eyebrow {
-      font-size: 13px;
-      font-weight: 700;
-      letter-spacing: 0.08em;
+    .page-header {
+      display: flex;
+      align-items: flex-start;
+      justify-content: space-between;
+      gap: 28px;
+      margin-bottom: 22px;
+      padding: 30px;
+      border: 1px solid rgba(255, 255, 255, 0.72);
+      border-radius: 34px 34px 18px 18px;
+      background:
+        linear-gradient(135deg, rgba(255, 255, 255, 0.94), rgba(255, 255, 255, 0.72)),
+        var(--paper);
+      box-shadow: var(--shadow);
+      backdrop-filter: blur(16px);
+    }
+    .title-block {
+      min-width: 0;
+    }
+    .language-control {
+      display: inline-flex;
+      align-items: center;
+      gap: 12px;
+      position: sticky;
+      top: 16px;
+      flex: 0 0 auto;
+      min-width: 292px;
+      padding: 10px;
+      border: 1px solid var(--control-border);
+      border-radius: 24px;
+      background:
+        linear-gradient(135deg, rgba(255, 255, 255, 0.98), rgba(237, 245, 247, 0.86)),
+        var(--control-bg);
+      box-shadow: 0 18px 42px rgba(23, 50, 66, 0.12);
+    }
+    .language-icon {
+      display: grid;
+      place-items: center;
+      width: 42px;
+      height: 42px;
+      flex: 0 0 auto;
+      border-radius: 16px;
+      background: linear-gradient(135deg, var(--brand), #315468);
+      color: #ffffff;
+      font-size: 15px;
+      font-weight: 900;
+      letter-spacing: -0.04em;
+      box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.16);
+    }
+    .language-copy {
+      display: grid;
+      gap: 1px;
+      min-width: 86px;
+    }
+    .language-copy span {
       color: var(--muted);
-      margin-bottom: 16px;
+      font-size: 11px;
+      font-weight: 800;
+      letter-spacing: 0.08em;
+      line-height: 1.1;
+      text-transform: uppercase;
+    }
+    .language-copy strong {
+      color: var(--brand);
+      font-size: 13px;
+      font-weight: 800;
+      line-height: 1.2;
+    }
+    .select-shell {
+      position: relative;
+      flex: 1;
+      min-width: 0;
+    }
+    .select-shell::after {
+      content: "";
+      position: absolute;
+      top: 50%;
+      right: 14px;
+      width: 8px;
+      height: 8px;
+      border-right: 2px solid var(--brand);
+      border-bottom: 2px solid var(--brand);
+      pointer-events: none;
+      transform: translateY(-68%) rotate(45deg);
+    }
+    .select-shell select {
+      width: 100%;
+      appearance: none;
+      border: 1px solid var(--control-border);
+      border-radius: 16px;
+      background: rgba(255, 255, 255, 0.92);
+      color: var(--text);
+      font: inherit;
+      font-size: 14px;
+      font-weight: 800;
+      line-height: 1.2;
+      padding: 12px 38px 12px 14px;
+      outline: none;
+      box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.82);
+      cursor: pointer;
+      transition: border-color 0.18s ease, box-shadow 0.18s ease, transform 0.18s ease;
+    }
+    .select-shell select:hover {
+      transform: translateY(-1px);
+      border-color: rgba(29, 101, 216, 0.36);
+      box-shadow: 0 10px 24px rgba(29, 101, 216, 0.08);
+    }
+    .select-shell select:focus {
+      border-color: var(--link);
+      box-shadow: 0 0 0 4px rgba(29, 101, 216, 0.13);
+    }
+    .eyebrow {
+      display: inline-flex;
+      width: fit-content;
+      padding: 8px 12px;
+      border-radius: 999px;
+      background: var(--brand-soft);
+      font-size: 13px;
+      font-weight: 900;
+      letter-spacing: 0.08em;
+      color: var(--brand);
+      margin-bottom: 18px;
       text-transform: uppercase;
     }
     .muted {
       color: var(--muted);
     }
+    .language-section {
+      padding: 34px;
+      border: 1px solid rgba(255, 255, 255, 0.74);
+      border-radius: 18px 18px 34px 34px;
+      background: var(--paper-solid);
+      box-shadow: 0 18px 48px rgba(22, 35, 49, 0.08);
+    }
+    .language-section[hidden] {
+      display: none;
+    }
+    .language-section > p:first-child {
+      margin-top: 0;
+      padding: 18px 20px;
+      border: 1px solid rgba(244, 165, 28, 0.24);
+      border-radius: 22px;
+      background: var(--accent-soft);
+      color: #51360a;
+      font-weight: 650;
+    }
+    .language-section ul {
+      padding-left: 22px;
+    }
+    .language-section li::marker {
+      color: var(--accent);
+    }
     a {
       color: var(--link);
+      font-weight: 750;
+      text-decoration-thickness: 0.08em;
+      text-underline-offset: 0.18em;
     }
-    hr {
-      border: 0;
-      border-top: 1px solid var(--border);
-      margin: 28px 0;
+    @media (max-width: 700px) {
+      main {
+        width: min(100% - 24px, 980px);
+        padding: 18px 0 38px;
+      }
+      .page-header {
+        display: block;
+        padding: 22px;
+        border-radius: 28px 28px 16px 16px;
+      }
+      h1 {
+        font-size: clamp(31px, 9vw, 44px);
+      }
+      .language-control {
+        display: grid;
+        grid-template-columns: 42px minmax(0, 1fr);
+        position: static;
+        width: 100%;
+        min-width: 0;
+        margin-top: 22px;
+        border-radius: 22px;
+      }
+      .language-copy {
+        min-width: 0;
+        align-self: center;
+      }
+      .select-shell {
+        grid-column: 1 / -1;
+        width: 100%;
+      }
+      .language-section {
+        padding: 24px;
+      }
     }
   </style>
 </head>
 <body>
   <main>
-    <div class="eyebrow">Privacy Policy</div>
+    <header class="page-header">
+      <div class="title-block">
+        <div class="eyebrow" data-i18n="eyebrow">Privacy Policy</div>
+        <h1 data-i18n="heading">US Citizenship Test Pass / 美国入籍考试通</h1>
+        <p class="muted" data-i18n="updated">Last updated: May 5, 2026</p>
+      </div>
 
-    <h1>US Citizenship Test Pass / 美国入籍考试通</h1>
+      <label class="language-control" for="language-select">
+        <span class="language-icon" aria-hidden="true">A</span>
+        <span class="language-copy">
+          <span data-i18n="languageLabel">Language</span>
+          <strong data-i18n="languageHint">Auto detected</strong>
+        </span>
+        <span class="select-shell">
+          <select id="language-select" aria-label="Language">
+            <option value="en">English</option>
+            <option value="zh">简体中文</option>
+            <option value="es">Español</option>
+            <option value="vi">Tiếng Việt</option>
+            <option value="ko">한국어</option>
+          </select>
+        </span>
+      </label>
+    </header>
 
-    <p class="muted">Last updated: April 22, 2026</p>
+    <article class="language-section" data-locale="en">
+      <p>US Citizenship Test Pass is a study app for the U.S. civics test. This page explains what information the app may use, how that information may be handled, and how to contact us with privacy questions.</p>
 
-    <p>US Citizenship Test Pass is a study app for the U.S. civics test. This page explains what information the app may use, how that information may be handled, and how to contact us with privacy questions.</p>
+      <h2>What this app does</h2>
+      <p>US Citizenship Test Pass helps users prepare for the U.S. civics test with USCIS 2008 and 2025 question banks, multilingual practice, mock tests, listening tools, writing practice, pronunciation recording, premium study features, and study resources. The app currently supports English, Simplified Chinese, Spanish, Vietnamese, Tagalog / Filipino, Haitian Creole, and Korean study help.</p>
 
-    <p>Support email updated for publishing.</p>
+      <h2>What information may be used</h2>
+      <ul>
+        <li>Learning activity such as answer history, saved questions, mistakes, mock test results, writing practice progress, and local study preferences</li>
+        <li>Device or app usage information needed for app stability, diagnostics, troubleshooting, or content delivery</li>
+        <li>Advertising-related information when ads are shown inside the free version of the app</li>
+        <li>Purchase or subscription status when premium features are offered</li>
+        <li>Microphone access only if the user chooses pronunciation recording</li>
+      </ul>
 
-    <h2>ENGLISH</h2>
+      <h2>How the information is used</h2>
+      <ul>
+        <li>To save study progress and improve review features</li>
+        <li>To support audio playback, writing practice, and pronunciation practice</li>
+        <li>To refresh supported study content when remote updates are enabled</li>
+        <li>To understand app performance and fix bugs</li>
+        <li>To display ads in the free version of the app</li>
+        <li>To manage premium access and restore purchases</li>
+      </ul>
 
-    <h2>What this app does</h2>
-    <p>US Citizenship Test Pass helps users prepare for the U.S. civics test with USCIS 2008 and 2025 question banks, bilingual practice, mock tests, audio playback, pronunciation recording, premium study features, and study resources.</p>
+      <h2>Local storage</h2>
+      <p>Study data such as attempts, saved questions, mistakes, mock test results, writing practice progress, and preferences are primarily stored on the device.</p>
 
-    <h2>What information may be used</h2>
-    <ul>
-      <li>Learning activity such as answer history, saved questions, mistakes, mock test results, and local study preferences</li>
-      <li>Device or app usage information needed for app stability, diagnostics, troubleshooting, or content delivery</li>
-      <li>Advertising-related information when ads are shown inside the free version of the app</li>
-      <li>Purchase or subscription status when premium features are offered</li>
-      <li>Microphone access only if the user chooses pronunciation recording</li>
-    </ul>
+      <h2>Third-party services</h2>
+      <p>The app may use third-party services for advertising, consent collection, purchases, diagnostics, analytics, or content delivery. Those services may process device identifiers, purchase status, or technical usage data under their own policies.</p>
 
-    <h2>How the information is used</h2>
-    <ul>
-      <li>To save study progress and improve review features</li>
-      <li>To support audio playback and pronunciation practice</li>
-      <li>To refresh supported study content when remote updates are enabled</li>
-      <li>To understand app performance and fix bugs</li>
-      <li>To display ads in the free version of the app</li>
-      <li>To manage premium access and restore purchases</li>
-    </ul>
+      <h2>Advertising and tracking</h2>
+      <p>The free version of the app may display ads. The current iOS release is not intended to request App Tracking Transparency permission for cross-app tracking.</p>
 
-    <h2>Local storage</h2>
-    <p>Study data such as attempts, saved questions, mistakes, mock test results, and preferences are primarily stored on the device.</p>
+      <h2>Your choices</h2>
+      <p>You can choose whether to use the pronunciation recording feature. Depending on your region and device settings, you may also see privacy or advertising consent prompts.</p>
 
-    <h2>Third-party services</h2>
-    <p>The app may use third-party services for advertising, consent collection, purchases, diagnostics, analytics, or content delivery. Those services may process device identifiers, purchase status, or technical usage data under their own policies.</p>
+      <h2>Contact</h2>
+      <p>For privacy questions, contact: <a href="mailto:app.support.us@gmail.com">app.support.us@gmail.com</a></p>
+    </article>
 
-    <h2>Advertising and tracking</h2>
-    <p>The free version of the app may display ads. The current iOS release is not intended to request App Tracking Transparency permission for cross-app tracking.</p>
+    <article class="language-section" data-locale="zh" hidden>
+      <p>美国入籍考试通是一款帮助用户准备美国公民入籍 civics test 的学习应用。本页面说明应用可能使用哪些信息、这些信息可能如何被处理，以及你如何就隐私问题联系我们。</p>
 
-    <h2>Your choices</h2>
-    <p>You can choose whether to use the pronunciation recording feature. Depending on your region and device settings, you may also see privacy or advertising consent prompts.</p>
+      <h2>这个应用是做什么的</h2>
+      <p>美国入籍考试通支持 USCIS 2008 与 2025 版题库、多语言练习、模拟考试、听题训练、写作练习、跟读录音、会员学习功能和学习资料。当前应用支持英语、简体中文、西班牙语、越南语、他加禄语、海地克里奥尔语和韩语学习辅助。</p>
 
-    <h2>Contact</h2>
-    <p>For privacy questions, contact: <a href="mailto:app.support.us@gmail.com">app.support.us@gmail.com</a></p>
+      <h2>可能涉及的信息</h2>
+      <ul>
+        <li>学习记录，例如答题历史、收藏题、错题、模拟考试结果、写作练习进度以及本地学习偏好设置</li>
+        <li>用于稳定性、诊断、问题排查或内容分发的设备或应用使用信息</li>
+        <li>在免费版应用内展示广告时可能涉及的广告相关信息</li>
+        <li>在提供会员功能时涉及的购买或订阅状态信息</li>
+        <li>仅在用户主动使用跟读录音功能时涉及的麦克风权限</li>
+      </ul>
 
-    <hr>
+      <h2>这些信息如何使用</h2>
+      <ul>
+        <li>用于保存学习进度并优化复习功能</li>
+        <li>用于支持音频播放、写作练习和跟读练习</li>
+        <li>用于在启用远程更新时刷新支持的学习内容</li>
+        <li>用于了解产品表现并修复问题</li>
+        <li>用于在免费版中展示广告</li>
+        <li>用于管理会员权限和恢复购买</li>
+      </ul>
 
-    <h2>简体中文</h2>
+      <h2>本地存储</h2>
+      <p>学习数据，例如做题记录、收藏题、错题、模拟考试结果、写作练习进度和偏好设置，当前主要存储在本地设备中。</p>
 
-    <h2>这个应用是做什么的</h2>
-    <p>美国入籍考试通是一款帮助用户准备美国公民入籍 civics test 的学习应用，支持 USCIS 2008 与 2025 版题库、双语练习、模拟考试、音频朗读、跟读录音、会员学习功能和学习资料。</p>
+      <h2>第三方服务</h2>
+      <p>应用可能会使用第三方服务来支持广告展示、同意收集、购买管理、崩溃排查、分析统计或内容分发。这些服务可能会依据其自身政策处理设备标识符、购买状态或技术使用数据。</p>
 
-    <h2>可能涉及的信息</h2>
-    <ul>
-      <li>学习记录，例如答题历史、收藏题、错题、模拟考试结果以及本地学习偏好设置</li>
-      <li>用于稳定性、诊断、问题排查或内容分发的设备或应用使用信息</li>
-      <li>在免费版应用内展示广告时可能涉及的广告相关信息</li>
-      <li>在提供会员功能时涉及的购买或订阅状态信息</li>
-      <li>仅在用户主动使用跟读录音功能时涉及的麦克风权限</li>
-    </ul>
+      <h2>广告与追踪</h2>
+      <p>本应用的免费版本可能展示广告。当前 iOS 发布版本不打算请求 App Tracking Transparency 权限来进行跨 App 追踪。</p>
 
-    <h2>这些信息如何使用</h2>
-    <ul>
-      <li>用于保存学习进度并优化复习功能</li>
-      <li>用于支持音频播放和跟读练习</li>
-      <li>用于在启用远程更新时刷新支持的学习内容</li>
-      <li>用于了解产品表现并修复问题</li>
-      <li>用于在免费版中展示广告</li>
-      <li>用于管理会员权限和恢复购买</li>
-    </ul>
+      <h2>你的选择</h2>
+      <p>你可以自行决定是否启用跟读录音功能。根据你的设备设置或所在地区，应用也可能展示与广告或隐私相关的同意提示。</p>
 
-    <h2>本地存储</h2>
-    <p>学习数据，例如做题记录、收藏题、错题、模拟考试结果和偏好设置，当前主要存储在本地设备中。</p>
+      <h2>联系我们</h2>
+      <p>如有隐私相关问题，请联系：<a href="mailto:app.support.us@gmail.com">app.support.us@gmail.com</a></p>
+    </article>
 
-    <h2>第三方服务</h2>
-    <p>应用可能会使用第三方服务来支持广告展示、同意收集、购买管理、崩溃排查、分析统计或内容分发。这些服务可能会依据其自身政策处理设备标识符、购买状态或技术使用数据。</p>
+    <article class="language-section" data-locale="es" hidden>
+      <p>US Citizenship Test Pass es una app de estudio para el examen de civismo de EE. UU. Esta página explica qué información puede usar la app, cómo puede manejarse y cómo contactarnos si tienes preguntas de privacidad.</p>
 
-    <h2>广告与追踪</h2>
-    <p>本应用的免费版本可能展示广告。当前 iOS 发布版本不打算请求 App Tracking Transparency 权限来进行跨 App 追踪。</p>
+      <h2>Qué hace esta app</h2>
+      <p>US Citizenship Test Pass ayuda a preparar el examen de civismo de EE. UU. con bancos de preguntas USCIS 2008 y 2025, práctica multilingüe, simulacros, herramientas de audio, práctica de escritura, grabación de pronunciación, funciones Premium y recursos de estudio. La app ofrece apoyo de estudio en inglés, chino simplificado, español, vietnamita, tagalo / filipino, criollo haitiano y coreano.</p>
 
-    <h2>你的选择</h2>
-    <p>你可以自行决定是否启用跟读录音功能。根据你的设备设置或所在地区，应用也可能展示与广告或隐私相关的同意提示。</p>
+      <h2>Qué información puede usarse</h2>
+      <ul>
+        <li>Actividad de estudio, como historial de respuestas, preguntas guardadas, errores, resultados de simulacros, progreso de escritura y preferencias locales</li>
+        <li>Información técnica del dispositivo o de uso de la app necesaria para estabilidad, diagnóstico, solución de problemas o entrega de contenido</li>
+        <li>Información relacionada con publicidad cuando se muestran anuncios en la versión gratuita</li>
+        <li>Estado de compra o suscripción cuando se ofrecen funciones Premium</li>
+        <li>Acceso al micrófono solo si el usuario decide usar la grabación de pronunciación</li>
+      </ul>
 
-    <h2>联系我们</h2>
-    <p>如有隐私相关问题，请联系：<a href="mailto:app.support.us@gmail.com">app.support.us@gmail.com</a></p>
+      <h2>Cómo se usa la información</h2>
+      <ul>
+        <li>Para guardar el progreso de estudio y mejorar las funciones de repaso</li>
+        <li>Para admitir audio, escritura y práctica de pronunciación</li>
+        <li>Para actualizar contenido de estudio cuando las actualizaciones remotas están habilitadas</li>
+        <li>Para entender el rendimiento de la app y corregir errores</li>
+        <li>Para mostrar anuncios en la versión gratuita</li>
+        <li>Para administrar acceso Premium y restaurar compras</li>
+      </ul>
+
+      <h2>Almacenamiento local</h2>
+      <p>Los datos de estudio, como intentos, preguntas guardadas, errores, resultados de simulacros, progreso de escritura y preferencias, se almacenan principalmente en el dispositivo.</p>
+
+      <h2>Servicios de terceros</h2>
+      <p>La app puede usar servicios de terceros para publicidad, consentimiento, compras, diagnóstico, análisis o entrega de contenido. Esos servicios pueden procesar identificadores del dispositivo, estado de compra o datos técnicos de uso según sus propias políticas.</p>
+
+      <h2>Publicidad y seguimiento</h2>
+      <p>La versión gratuita puede mostrar anuncios. La versión actual de iOS no está diseñada para solicitar permiso de App Tracking Transparency para seguimiento entre apps.</p>
+
+      <h2>Opciones</h2>
+      <p>Puedes decidir si usas la función de grabación de pronunciación. Según tu región y configuración del dispositivo, también puedes ver avisos de consentimiento de privacidad o publicidad.</p>
+
+      <h2>Contacto</h2>
+      <p>Para preguntas de privacidad, escribe a: <a href="mailto:app.support.us@gmail.com">app.support.us@gmail.com</a></p>
+    </article>
+
+    <article class="language-section" data-locale="vi" hidden>
+      <p>US Citizenship Test Pass là ứng dụng học cho bài thi civics của Hoa Kỳ. Trang này giải thích ứng dụng có thể sử dụng thông tin nào, thông tin đó có thể được xử lý ra sao và cách liên hệ với chúng tôi về câu hỏi quyền riêng tư.</p>
+
+      <h2>Ứng dụng này dùng để làm gì</h2>
+      <p>US Citizenship Test Pass giúp người dùng chuẩn bị cho bài thi civics của Hoa Kỳ với ngân hàng câu hỏi USCIS 2008 và 2025, luyện tập đa ngôn ngữ, thi thử, công cụ nghe, luyện viết, ghi âm phát âm, tính năng Premium và tài liệu học. Ứng dụng hỗ trợ học bằng tiếng Anh, tiếng Trung giản thể, tiếng Tây Ban Nha, tiếng Việt, Tagalog / Filipino, tiếng Creole Haiti và tiếng Hàn.</p>
+
+      <h2>Thông tin có thể được sử dụng</h2>
+      <ul>
+        <li>Hoạt động học tập như lịch sử trả lời, câu đã lưu, câu sai, kết quả thi thử, tiến độ luyện viết và tùy chọn học cục bộ</li>
+        <li>Thông tin kỹ thuật về thiết bị hoặc cách dùng ứng dụng cần thiết cho độ ổn định, chẩn đoán, khắc phục sự cố hoặc phân phối nội dung</li>
+        <li>Thông tin liên quan đến quảng cáo khi quảng cáo xuất hiện trong phiên bản miễn phí</li>
+        <li>Trạng thái mua hàng hoặc đăng ký khi có tính năng Premium</li>
+        <li>Quyền truy cập micro chỉ khi người dùng chọn dùng tính năng ghi âm phát âm</li>
+      </ul>
+
+      <h2>Cách sử dụng thông tin</h2>
+      <ul>
+        <li>Để lưu tiến độ học và cải thiện tính năng ôn tập</li>
+        <li>Để hỗ trợ phát âm thanh, luyện viết và luyện phát âm</li>
+        <li>Để làm mới nội dung học khi bật cập nhật từ xa</li>
+        <li>Để hiểu hiệu suất ứng dụng và sửa lỗi</li>
+        <li>Để hiển thị quảng cáo trong phiên bản miễn phí</li>
+        <li>Để quản lý quyền Premium và khôi phục giao dịch mua</li>
+      </ul>
+
+      <h2>Lưu trữ cục bộ</h2>
+      <p>Dữ liệu học như lượt làm bài, câu đã lưu, câu sai, kết quả thi thử, tiến độ luyện viết và tùy chọn chủ yếu được lưu trên thiết bị.</p>
+
+      <h2>Dịch vụ bên thứ ba</h2>
+      <p>Ứng dụng có thể sử dụng dịch vụ bên thứ ba cho quảng cáo, thu thập đồng ý, mua hàng, chẩn đoán, phân tích hoặc phân phối nội dung. Các dịch vụ đó có thể xử lý mã định danh thiết bị, trạng thái mua hàng hoặc dữ liệu kỹ thuật theo chính sách riêng của họ.</p>
+
+      <h2>Quảng cáo và theo dõi</h2>
+      <p>Phiên bản miễn phí có thể hiển thị quảng cáo. Bản phát hành iOS hiện tại không nhằm yêu cầu quyền App Tracking Transparency để theo dõi giữa các ứng dụng.</p>
+
+      <h2>Lựa chọn của bạn</h2>
+      <p>Bạn có thể chọn có dùng tính năng ghi âm phát âm hay không. Tùy theo khu vực và cài đặt thiết bị, bạn cũng có thể thấy lời nhắc đồng ý về quyền riêng tư hoặc quảng cáo.</p>
+
+      <h2>Liên hệ</h2>
+      <p>Nếu có câu hỏi về quyền riêng tư, vui lòng liên hệ: <a href="mailto:app.support.us@gmail.com">app.support.us@gmail.com</a></p>
+    </article>
+
+    <article class="language-section" data-locale="ko" hidden>
+      <p>US Citizenship Test Pass는 미국 시민권 civics test 학습 앱입니다. 이 페이지는 앱이 어떤 정보를 사용할 수 있는지, 해당 정보가 어떻게 처리될 수 있는지, 개인정보 관련 문의 방법을 설명합니다.</p>
+
+      <h2>앱의 기능</h2>
+      <p>US Citizenship Test Pass는 USCIS 2008 및 2025 문제 은행, 다국어 연습, 모의시험, 듣기 도구, 쓰기 연습, 발음 녹음, Premium 학습 기능, 학습 자료를 통해 미국 시민권 civics test 준비를 돕는 앱입니다. 앱은 영어, 중국어 간체, 스페인어, 베트남어, Tagalog / Filipino, Haitian Creole, 한국어 학습 도움을 지원합니다.</p>
+
+      <h2>사용될 수 있는 정보</h2>
+      <ul>
+        <li>답변 기록, 저장한 문제, 오답, 모의시험 결과, 쓰기 연습 진행 상황, 로컬 학습 설정과 같은 학습 활동</li>
+        <li>앱 안정성, 진단, 문제 해결 또는 콘텐츠 제공에 필요한 기기 또는 앱 사용 정보</li>
+        <li>무료 버전에서 광고가 표시될 때의 광고 관련 정보</li>
+        <li>Premium 기능 제공 시 구매 또는 구독 상태</li>
+        <li>사용자가 발음 녹음 기능을 선택한 경우에만 사용하는 마이크 접근 권한</li>
+      </ul>
+
+      <h2>정보 사용 방식</h2>
+      <ul>
+        <li>학습 진행 상황을 저장하고 복습 기능을 개선하기 위해</li>
+        <li>오디오 재생, 쓰기 연습, 발음 연습을 지원하기 위해</li>
+        <li>원격 업데이트가 활성화된 경우 지원되는 학습 콘텐츠를 갱신하기 위해</li>
+        <li>앱 성능을 이해하고 오류를 수정하기 위해</li>
+        <li>무료 버전에서 광고를 표시하기 위해</li>
+        <li>Premium 접근 권한을 관리하고 구매를 복원하기 위해</li>
+      </ul>
+
+      <h2>로컬 저장</h2>
+      <p>풀이 기록, 저장한 문제, 오답, 모의시험 결과, 쓰기 연습 진행 상황, 설정과 같은 학습 데이터는 주로 기기에 저장됩니다.</p>
+
+      <h2>제3자 서비스</h2>
+      <p>앱은 광고, 동의 수집, 구매, 진단, 분석 또는 콘텐츠 제공을 위해 제3자 서비스를 사용할 수 있습니다. 이러한 서비스는 각자의 정책에 따라 기기 식별자, 구매 상태 또는 기술적 사용 데이터를 처리할 수 있습니다.</p>
+
+      <h2>광고 및 추적</h2>
+      <p>무료 버전에는 광고가 표시될 수 있습니다. 현재 iOS 릴리스는 앱 간 추적을 위한 App Tracking Transparency 권한 요청을 의도하지 않습니다.</p>
+
+      <h2>사용자의 선택</h2>
+      <p>발음 녹음 기능 사용 여부는 사용자가 선택할 수 있습니다. 지역 및 기기 설정에 따라 개인정보 또는 광고 동의 안내가 표시될 수 있습니다.</p>
+
+      <h2>문의</h2>
+      <p>개인정보 관련 문의: <a href="mailto:app.support.us@gmail.com">app.support.us@gmail.com</a></p>
+    </article>
   </main>
+
+  <script>
+    const LOCALES = {
+      en: {
+        htmlLang: "en",
+        title: "US Citizenship Test Pass Privacy Policy",
+        eyebrow: "Privacy Policy",
+        heading: "US Citizenship Test Pass",
+        updated: "Last updated: May 5, 2026",
+        languageLabel: "Language",
+        languageHint: "Auto detected"
+      },
+      zh: {
+        htmlLang: "zh-Hans",
+        title: "美国入籍考试通隐私政策",
+        eyebrow: "隐私政策",
+        heading: "美国入籍考试通",
+        updated: "最后更新：2026年5月5日",
+        languageLabel: "语言",
+        languageHint: "自动匹配"
+      },
+      es: {
+        htmlLang: "es",
+        title: "Política de privacidad de US Citizenship Test Pass",
+        eyebrow: "Política de privacidad",
+        heading: "US Citizenship Test Pass",
+        updated: "Última actualización: 5 de mayo de 2026",
+        languageLabel: "Idioma",
+        languageHint: "Detección automática"
+      },
+      vi: {
+        htmlLang: "vi",
+        title: "Chính sách quyền riêng tư của US Citizenship Test Pass",
+        eyebrow: "Chính sách quyền riêng tư",
+        heading: "US Citizenship Test Pass",
+        updated: "Cập nhật lần cuối: ngày 5 tháng 5 năm 2026",
+        languageLabel: "Ngôn ngữ",
+        languageHint: "Tự động nhận diện"
+      },
+      ko: {
+        htmlLang: "ko",
+        title: "US Citizenship Test Pass 개인정보 처리방침",
+        eyebrow: "개인정보 처리방침",
+        heading: "US Citizenship Test Pass",
+        updated: "최종 업데이트: 2026년 5월 5일",
+        languageLabel: "언어",
+        languageHint: "자동 감지"
+      }
+    };
+
+    function matchLocale(language) {
+      const normalized = String(language || "").toLowerCase();
+
+      if (!normalized) return null;
+      if (normalized.startsWith("zh")) return "zh";
+      if (normalized.startsWith("es")) return "es";
+      if (normalized.startsWith("vi")) return "vi";
+      if (normalized.startsWith("ko")) return "ko";
+      if (normalized.startsWith("en")) return "en";
+
+      return null;
+    }
+
+    function browserLocale() {
+      const languages = Array.isArray(navigator.languages) && navigator.languages.length
+        ? navigator.languages
+        : [navigator.language || navigator.userLanguage];
+
+      for (const language of languages) {
+        const matched = matchLocale(language);
+        if (matched) return matched;
+      }
+
+      return "en";
+    }
+
+    function applyLocale(locale) {
+      const nextLocale = LOCALES[locale] ? locale : "en";
+      const copy = LOCALES[nextLocale];
+
+      document.documentElement.lang = copy.htmlLang;
+      document.title = copy.title;
+      document.getElementById("language-select").value = nextLocale;
+
+      document.querySelectorAll("[data-i18n]").forEach((node) => {
+        const key = node.dataset.i18n;
+        if (copy[key]) node.textContent = copy[key];
+      });
+
+      document.querySelectorAll("[data-locale]").forEach((section) => {
+        section.hidden = section.dataset.locale !== nextLocale;
+      });
+    }
+
+    const select = document.getElementById("language-select");
+    applyLocale(browserLocale());
+    select.addEventListener("change", (event) => applyLocale(event.target.value));
+  </script>
 </body>
 </html>
