@@ -275,6 +275,8 @@
             <option value="zh">简体中文</option>
             <option value="es">Español</option>
             <option value="vi">Tiếng Việt</option>
+            <option value="tl">Tagalog / Filipino</option>
+            <option value="ht">Kreyòl Ayisyen</option>
             <option value="ko">한국어</option>
           </select>
         </span>
@@ -369,6 +371,50 @@
       <p>US Citizenship Test Pass là ứng dụng học đa ngôn ngữ cho bài thi công dân Hoa Kỳ, có luyện tập, nghe, viết, thi thử, ôn tập, ghi âm phát âm và tài liệu học. Ứng dụng hỗ trợ tiếng Anh, tiếng Trung giản thể, tiếng Tây Ban Nha, tiếng Việt, Tagalog / Filipino, tiếng Creole Haiti và tiếng Hàn.</p>
     </article>
 
+    <article class="language-section" data-locale="tl" hidden>
+      <p>Kung may problema ka habang ginagamit ang US Citizenship Test Pass, maaari mo kaming kontakin sa email. Makakatulong para mas mabilis kaming makasagot kung isasama mo ang modelo ng device, bersyon ng iOS, bersyon ng app, at screenshot.</p>
+
+      <h2>Paano humingi ng tulong</h2>
+      <p>Kung may tanong ka tungkol sa app behavior, pagbili ng Premium, pag-restore ng access, ads, audio playback, o pronunciation recording, makipag-ugnayan sa support sa pamamagitan ng email.</p>
+
+      <h2>Ano ang isasama</h2>
+      <ul>
+        <li>Ang screen o feature na ginagamit mo</li>
+        <li>Ano ang nangyari at ano ang inaasahan mong mangyari</li>
+        <li>Modelo ng device at bersyon ng iOS</li>
+        <li>Bersyon ng app kung available</li>
+        <li>Screenshot kung available</li>
+      </ul>
+
+      <h2>Contact</h2>
+      <p>Email: <a href="mailto:app.support.us@gmail.com">app.support.us@gmail.com</a></p>
+
+      <h2>Tungkol sa app</h2>
+      <p>Ang US Citizenship Test Pass ay isang multilingual study app para sa U.S. citizenship civics test, na may practice, listening, writing drills, mock exams, review, pronunciation recording, at study resources sa isang study flow. Sinusuportahan ng app ang study help sa English, Simplified Chinese, Spanish, Vietnamese, Tagalog / Filipino, Haitian Creole, at Korean.</p>
+    </article>
+
+    <article class="language-section" data-locale="ht" hidden>
+      <p>Si ou jwenn pwoblèm pandan w ap itilize US Citizenship Test Pass, ou ka kontakte nou pa imèl. Lè ou mete modèl aparèy ou, vèsyon iOS, vèsyon app la, ak yon foto ekran, sa ap ede nou reponn pi vit.</p>
+
+      <h2>Kijan pou jwenn èd</h2>
+      <p>Si ou gen kesyon sou jan app la fonksyone, acha Premium, retabli aksè, anons, lekti odyo, oswa anrejistreman pwononsyasyon, tanpri kontakte sipò pa imèl.</p>
+
+      <h2>Sa pou mete nan mesaj la</h2>
+      <ul>
+        <li>Ekran oswa fonksyon ou t ap itilize a</li>
+        <li>Sa ki te pase ak sa ou te espere ki ta rive</li>
+        <li>Modèl aparèy ou ak vèsyon iOS la</li>
+        <li>Vèsyon app la si li disponib</li>
+        <li>Yon foto ekran si li disponib</li>
+      </ul>
+
+      <h2>Kontak</h2>
+      <p>Imèl: <a href="mailto:app.support.us@gmail.com">app.support.us@gmail.com</a></p>
+
+      <h2>Konsènan app la</h2>
+      <p>US Citizenship Test Pass se yon app etid miltileng pou tès sivik sitwayènte Etazini an, ak pratik, koute, egzèsis ekriti, tès mok, revizyon, anrejistreman pwononsyasyon, ak resous etid nan yon sèl kou etid. App la sipòte èd etid an anglè, chinwa senplifye, panyòl, vyetnamyen, Tagalog / Filipino, kreyòl ayisyen, ak koreyen.</p>
+    </article>
+
     <article class="language-section" data-locale="ko" hidden>
       <p>US Citizenship Test Pass 사용 중 문제가 발생하면 이메일로 문의할 수 있습니다. 기기 모델, iOS 버전, 앱 버전, 스크린샷을 함께 보내주시면 더 빠르게 답변하는 데 도움이 됩니다.</p>
 
@@ -430,6 +476,24 @@
         languageLabel: "Ngôn ngữ",
         languageHint: "Tự động nhận diện"
       },
+      tl: {
+        htmlLang: "tl",
+        title: "Suporta para sa US Citizenship Test Pass",
+        eyebrow: "Suporta",
+        heading: "US Citizenship Test Pass",
+        updated: "Huling na-update: Mayo 5, 2026",
+        languageLabel: "Wika",
+        languageHint: "Awtomatikong natukoy"
+      },
+      ht: {
+        htmlLang: "ht",
+        title: "Sipò pou US Citizenship Test Pass",
+        eyebrow: "Sipò",
+        heading: "US Citizenship Test Pass",
+        updated: "Dènye mizajou: 5 me 2026",
+        languageLabel: "Lang",
+        languageHint: "Detekte otomatikman"
+      },
       ko: {
         htmlLang: "ko",
         title: "US Citizenship Test Pass 지원",
@@ -448,6 +512,8 @@
       if (normalized.startsWith("zh")) return "zh";
       if (normalized.startsWith("es")) return "es";
       if (normalized.startsWith("vi")) return "vi";
+      if (normalized.startsWith("tl") || normalized.startsWith("fil")) return "tl";
+      if (normalized.startsWith("ht")) return "ht";
       if (normalized.startsWith("ko")) return "ko";
       if (normalized.startsWith("en")) return "en";
 
