@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "publishedAt": "2026-05-07T09:18:29.710Z",
+  "publishedAt": "2026-05-08T09:00:15.792Z",
   "releaseRules": {
     "checkIntervalHours": 12,
     "maxParallelDownloads": 1,
@@ -41,7 +41,7 @@
       "id": "guide-2008",
       "type": "guide",
       "targetCode": "2008",
-      "version": "2026.05.07.0218",
+      "version": "2026.05.08.0200",
       "updatePolicy": {
         "mode": "silent",
         "wifiOnly": false,
@@ -49,14 +49,14 @@
         "forceReloadAfterApply": false
       },
       "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/guide-2008.enc",
-      "sha256": "ea5fcfedf0f0cf6f14399e78e63eda3a598c4c6add950f9b150afc67699c94b6",
-      "sourceHash": "78705bf92982c2ec56aabe20f08337a4f80540ab760a380d125f614aed35702d"
+      "sha256": "3a11143814f036994d96bff80a59baf8e63346eb3685b4d3928235241419c020",
+      "sourceHash": "1f6f7bef8cd1390f60c15c26e2857ff1ba78ca3cd6748a347f0b05822d81c6d4"
     },
     {
       "id": "guide-2025",
       "type": "guide",
       "targetCode": "2025",
-      "version": "2026.05.07.0218",
+      "version": "2026.05.08.0200",
       "updatePolicy": {
         "mode": "silent",
         "wifiOnly": false,
@@ -64,8 +64,8 @@
         "forceReloadAfterApply": false
       },
       "url": "https://raw.githubusercontent.com/everwan/citizen-pass/main/appdata/guide-2025.enc",
-      "sha256": "14aa70dd07c6e730e420acbe37cf0b63d5b8569206717c79bb795e0201e1b4fe",
-      "sourceHash": "fa14544ff787ac0e497a4113186260996d32172e72cac8e43345782003d884a8"
+      "sha256": "2846be4b96b55aed1ba1ebb2afff598c2b7a21a8c7071d8ac198a1cbbda570f5",
+      "sourceHash": "0a3e5392f64e79e4eb00be26636b1ceab5c3485cb081724e2e9778775313773d"
     },
     {
       "id": "glossary-2008",
