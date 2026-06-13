@@ -1,6 +1,6 @@
 {
-  "version": "2026-06-12-95dc1fed",
-  "updatedAt": "2026-06-12T09:00:13.812Z",
+  "version": "2026-06-13-df17cbb5",
+  "updatedAt": "2026-06-13T09:00:12.686Z",
   "states": {
     "AL": {
       "capital": "Montgomery",
@@ -428,11 +428,11 @@
       "representatives": [
         {
           "district": "1st",
-          "name": null,
-          "officialName": null,
-          "directoryName": "LaMalfa, Doug- Vacancy",
-          "bioguideId": null,
-          "status": "vacant",
+          "name": "James Gallagher",
+          "officialName": "James Gallagher",
+          "directoryName": "Gallagher, James",
+          "bioguideId": "G000607",
+          "status": "active",
           "party": "R",
           "officeRoom": "408 CHOB",
           "phone": "(202) 225-3076",
@@ -2082,7 +2082,8 @@
           "phone": "(202) 225-7931",
           "websiteUrl": "https://wassermanschultz.house.gov/",
           "committees": [
-            "Appropriations"
+            "Appropriations",
+            "Foreign Affairs"
           ],
           "sourceUrl": "https://www.house.gov/representatives",
           "clerkSourceUrl": "https://clerk.house.gov/xml/lists/MemberData.xml"
@@ -4247,6 +4248,7 @@
           "websiteUrl": "https://bell.house.gov/",
           "committees": [
             "Armed Services",
+            "Foreign Affairs",
             "Oversight and Government Reform"
           ],
           "sourceUrl": "https://www.house.gov/representatives",
@@ -4609,7 +4611,8 @@
           "websiteUrl": "https://goodlander.house.gov/",
           "committees": [
             "Armed Services",
-            "Small Business"
+            "Small Business",
+            "Veterans' Affairs"
           ],
           "sourceUrl": "https://www.house.gov/representatives",
           "clerkSourceUrl": "https://clerk.house.gov/xml/lists/MemberData.xml"
@@ -4813,7 +4816,8 @@
           "phone": "(202) 225-5034",
           "websiteUrl": "https://mejia.house.gov/",
           "committees": [
-            "Homeland Security"
+            "Homeland Security",
+            "Small Business"
           ],
           "sourceUrl": "https://www.house.gov/representatives",
           "clerkSourceUrl": "https://clerk.house.gov/xml/lists/MemberData.xml"
@@ -6388,7 +6392,7 @@
           "websiteUrl": "https://summerlee.house.gov/",
           "committees": [
             "Education and Workforce",
-            "Oversight and Government Reform"
+            "Judiciary"
           ],
           "sourceUrl": "https://www.house.gov/representatives",
           "clerkSourceUrl": "https://clerk.house.gov/xml/lists/MemberData.xml"
@@ -7198,6 +7202,7 @@
           "phone": "(202) 225-3816",
           "websiteUrl": "http://menefee.house.gov/",
           "committees": [
+            "Oversight and Government Reform",
             "Science, Space, and Technology"
           ],
           "sourceUrl": "https://www.house.gov/representatives",
@@ -8160,7 +8165,8 @@
           "phone": "(202) 225-2906",
           "websiteUrl": "https://pocan.house.gov/",
           "committees": [
-            "Appropriations"
+            "Appropriations",
+            "Foreign Affairs"
           ],
           "sourceUrl": "https://www.house.gov/representatives",
           "clerkSourceUrl": "https://clerk.house.gov/xml/lists/MemberData.xml"
