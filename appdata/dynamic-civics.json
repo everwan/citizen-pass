@@ -1,6 +1,6 @@
 {
-  "version": "2026-07-06-df17cbb5",
-  "updatedAt": "2026-07-06T09:00:16.256Z",
+  "version": "2026-07-07-50aeadcb",
+  "updatedAt": "2026-07-07T09:00:16.232Z",
   "states": {
     "AL": {
       "capital": "Montgomery",
@@ -437,7 +437,11 @@
           "officeRoom": "408 CHOB",
           "phone": "(202) 225-3076",
           "websiteUrl": "https://gallagher.house.gov/",
-          "committees": [],
+          "committees": [
+            "Foreign Affairs",
+            "Transportation and Infrastructure",
+            "Science, Space, and Technology"
+          ],
           "sourceUrl": "https://www.house.gov/representatives",
           "clerkSourceUrl": "https://clerk.house.gov/xml/lists/MemberData.xml"
         },
@@ -2919,8 +2923,7 @@
           "phone": "(202) 225-3021",
           "websiteUrl": "https://shreve.house.gov/",
           "committees": [
-            "Appropriations",
-            "Transportation and Infrastructure"
+            "Appropriations"
           ],
           "sourceUrl": "https://www.house.gov/representatives",
           "clerkSourceUrl": "https://clerk.house.gov/xml/lists/MemberData.xml"
