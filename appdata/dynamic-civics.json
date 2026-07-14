@@ -1,6 +1,6 @@
 {
-  "version": "2026-07-13-50aeadcb",
-  "updatedAt": "2026-07-13T09:00:14.254Z",
+  "version": "2026-07-14-bf683c09",
+  "updatedAt": "2026-07-14T19:00:14.353Z",
   "states": {
     "AL": {
       "capital": "Montgomery",
@@ -6540,7 +6540,7 @@
     "SC": {
       "capital": "Columbia",
       "senators": [
-        "Lindsey Graham",
+        "Darline Graham",
         "Tim Scott"
       ],
       "representatives": [
