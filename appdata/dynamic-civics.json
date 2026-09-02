@@ -1,6 +1,6 @@
 {
-  "version": "2026-09-01-bf683c09",
-  "updatedAt": "2026-09-01T09:00:17.606Z",
+  "version": "2026-09-02-4cc5ff19",
+  "updatedAt": "2026-09-02T09:00:14.607Z",
   "states": {
     "AL": {
       "capital": "Montgomery",
@@ -2378,15 +2378,15 @@
         },
         {
           "district": "13th",
-          "name": null,
-          "officialName": null,
-          "directoryName": "Scott, David- Vacancy",
-          "bioguideId": null,
-          "status": "vacant",
+          "name": "Everton Blair Jr.",
+          "officialName": "Everton Blair Jr.",
+          "directoryName": "Blair, Everton",
+          "bioguideId": "B001328",
+          "status": "active",
           "party": "D",
           "officeRoom": "468 CHOB",
           "phone": "(202) 225-2939",
-          "websiteUrl": "https://davidscott.house.gov/",
+          "websiteUrl": "https://blair.house.gov/",
           "committees": [],
           "sourceUrl": "https://www.house.gov/representatives",
           "clerkSourceUrl": "https://clerk.house.gov/xml/lists/MemberData.xml"
@@ -4966,7 +4966,8 @@
           "phone": "(202) 225-3335",
           "websiteUrl": "https://suozzi.house.gov/",
           "committees": [
-            "Ways and Means"
+            "Ways and Means",
+            "Select Comm on the Strategic Competition US and China"
           ],
           "sourceUrl": "https://www.house.gov/representatives",
           "clerkSourceUrl": "https://clerk.house.gov/xml/lists/MemberData.xml"
