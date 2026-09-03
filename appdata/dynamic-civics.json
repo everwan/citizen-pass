@@ -1,6 +1,6 @@
 {
-  "version": "2026-09-02-4cc5ff19",
-  "updatedAt": "2026-09-02T09:00:14.607Z",
+  "version": "2026-09-03-8bfff8e3",
+  "updatedAt": "2026-09-03T09:00:13.722Z",
   "states": {
     "AL": {
       "capital": "Montgomery",
@@ -668,7 +668,7 @@
           "party": "D",
           "officeRoom": "174 CHOB",
           "phone": "(202) 225-5065",
-          "websiteUrl": "https://clerk.house.gov/members/CA14/vacancy",
+          "websiteUrl": "https://wahab.house.gov/",
           "committees": [],
           "sourceUrl": "https://www.house.gov/representatives",
           "clerkSourceUrl": "https://clerk.house.gov/xml/lists/MemberData.xml"
