@@ -1,6 +1,6 @@
 {
-  "version": "2026-09-03-8bfff8e3",
-  "updatedAt": "2026-09-03T09:00:13.722Z",
+  "version": "2026-09-04-0e37e714",
+  "updatedAt": "2026-09-04T09:00:11.323Z",
   "states": {
     "AL": {
       "capital": "Montgomery",
@@ -660,11 +660,11 @@
         },
         {
           "district": "14th",
-          "name": null,
-          "officialName": null,
-          "directoryName": "Swalwell, Eric- Vacancy",
-          "bioguideId": null,
-          "status": "vacant",
+          "name": "Aisha Wahab",
+          "officialName": "Aisha Wahab",
+          "directoryName": "Wahab, Aisha",
+          "bioguideId": "W000832",
+          "status": "active",
           "party": "D",
           "officeRoom": "174 CHOB",
           "phone": "(202) 225-5065",
