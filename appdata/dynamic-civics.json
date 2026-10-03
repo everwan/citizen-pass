@@ -1,6 +1,6 @@
 {
-  "version": "2026-10-02-0e37e714",
-  "updatedAt": "2026-10-02T09:00:10.867Z",
+  "version": "2026-10-03-9183c387",
+  "updatedAt": "2026-10-03T09:00:15.445Z",
   "states": {
     "AL": {
       "capital": "Montgomery",
@@ -2387,7 +2387,9 @@
           "officeRoom": "468 CHOB",
           "phone": "(202) 225-2939",
           "websiteUrl": "https://blair.house.gov/",
-          "committees": [],
+          "committees": [
+            "Financial Services"
+          ],
           "sourceUrl": "https://www.house.gov/representatives",
           "clerkSourceUrl": "https://clerk.house.gov/xml/lists/MemberData.xml"
         },
